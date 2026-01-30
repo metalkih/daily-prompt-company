@@ -1,181 +1,99 @@
 <!DOCTYPE html>
 <html lang="ko">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>데일리 프롬프트 (Daily Prompt)</title>
-    <style>
-        :root {
-            --primary: #2563eb;
-            --text: #1f2937;
-            --bg: #ffffff;
-            --secondary-bg: #f3f4f6;
-        }
-        body {
-            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
-            margin: 0;
-            padding: 0;
-            line-height: 1.6;
-            color: var(--text);
-        }
-        .container {
-            max-width: 1000px;
-            margin: 0 auto;
-            padding: 0 20px;
-        }
-        header {
-            background: var(--bg);
-            padding: 20px 0;
-            border-bottom: 1px solid #e5e7eb;
-            position: sticky;
-            top: 0;
-            z-index: 100;
-        }
-        nav {
-            display: flex;
-            justify-content: space-between;
-            align-items: center;
-        }
-        .logo {
-            font-size: 1.5rem;
-            font-weight: bold;
-            color: var(--primary);
-            text-decoration: none;
-        }
-        .hero {
-            padding: 100px 0;
-            text-align: center;
-            background: linear-gradient(to bottom, #ffffff, #f0f9ff);
-        }
-        .hero h1 {
-            font-size: 3rem;
-            margin-bottom: 20px;
-            letter-spacing: -1px;
-        }
-        .hero p {
-            font-size: 1.25rem;
-            color: #4b5563;
-            max-width: 600px;
-            margin: 0 auto;
-        }
-        .section {
-            padding: 80px 0;
-        }
-        .section-title {
-            font-size: 2rem;
-            text-align: center;
-            margin-bottom: 50px;
-        }
-        .projects-grid {
-            display: flex;
-            flex-direction: column;
-            gap: 40px;
-        }
-        .project-card {
-            background: var(--bg);
-            border: 1px solid #e5e7eb;
-            border-radius: 12px;
-            padding: 30px;
-            transition: transform 0.2s, box-shadow 0.2s;
-        }
-        .project-card:hover {
-            transform: translateY(-5px);
-            box-shadow: 0 10px 20px rgba(0,0,0,0.05);
-        }
-        .project-title {
-            font-size: 1.5rem;
-            font-weight: bold;
-            margin-bottom: 10px;
-            color: var(--primary);
-        }
-        .project-desc {
-            color: #6b7280;
-        }
-        .contact {
-            background: var(--text);
-            color: white;
-            padding: 60px 0;
-            text-align: center;
-        }
-        .contact p {
-            font-size: 1.2rem;
-            opacity: 0.9;
-        }
-        footer {
-            text-align: center;
-            padding: 30px 0;
-            color: #9ca3af;
-            font-size: 0.9rem;
-        }
-    </style>
+    <title>Daily Prompt | Mobile App Innovation</title>
+    <!-- Fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link
+        href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;800;900&family=Outfit:wght@700;900&display=swap"
+        rel="stylesheet">
+    <!-- CSS -->
+    <link rel="stylesheet" href="style.css">
 </head>
+
 <body>
 
     <header>
         <div class="container">
             <nav>
-                <a href="#" class="logo">Daily Prompt</a>
+                <a href="#" class="logo">DAILY PROMPT</a>
+                <div class="nav-links">
+                    <!-- Nav items could go here if needed -->
+                </div>
             </nav>
         </div>
     </header>
 
-    <section class="hero">
-        <div class="container">
-            <h1>모바일 앱 서비스의<br>새로운 기준</h1>
-            <p>데일리 프롬프트는 사용자 경험을 최우선으로 생각하는 모바일 앱 서비스 개발 전문 회사입니다.</p>
-        </div>
-    </section>
+    <main>
+        <!-- Hero Section -->
+        <section class="hero">
+            <div class="hero-bg"></div>
+            <div class="container">
+                <h1><span>모바일 앱 서비스의</span><br>새로운 기준</h1>
+                <p>사용자 경험을 최우선으로 생각하는 프리미엄 모바일 서비스 개발 그룹, 데일리 프롬프트입니다.</p>
+                <a href="#projects" class="cta-button">프로젝트 둘러보기</a>
+            </div>
+        </section>
 
-    <section class="section">
-        <div class="container">
-            <h2 class="section-title">Projects</h2>
-            <div class="projects-grid">
-                <div class="project-card">
-                    <div class="project-title">Tesla DashCam Viewer</div>
-                    <p class="project-desc">테슬라 오너를 위한 전문 대시캠 뷰어 솔루션입니다. USB를 모바일 기기에 직접 연결하여 복잡한 과정 없이 즉시 영상을 확인할 수 있습니다.</p>
-                    <ul style="color: #6b7280; font-size: 0.95rem; padding-left: 20px; margin-bottom: 20px;">
-                        <li><strong>풍부한 데이터 시각화:</strong> 위치, 속도, 자율주행 유무, 페달 조작 게이지 등 차량 세부 정보를 제공합니다.</li>
-                        <li><strong>멀티채널 합성:</strong> 4/6채널 영상을 하나의 통합된 영상으로 변환 가능합니다.</li>
-                    </ul>
-                    
-                    <!-- App Screens (Portrait-style) -->
-                    <div class="project-images" style="display: flex; gap: 10px; margin-bottom: 20px; flex-wrap: wrap; justify-content: center; align-items: flex-start;">
-                        <img src="images/tesla-1.jpg" alt="App Screen 1" style="width: calc(33.333% - 10px); min-width: 150px; height: auto; border-radius: 8px; border: 1px solid #eee;">
-                        <img src="images/tesla-2.jpg" alt="App Screen 2" style="width: calc(33.333% - 10px); min-width: 150px; height: auto; border-radius: 8px; border: 1px solid #eee;">
-                        <img src="images/tesla-3.jpg" alt="App Screen 3" style="width: calc(33.333% - 10px); min-width: 150px; height: auto; border-radius: 8px; border: 1px solid #eee;">
-                    </div>
+        <!-- Projects Section -->
+        <section id="projects" class="section">
+            <div class="container">
+                <span class="section-tag">Our Work</span>
+                <h2 class="section-title reveal">Projects</h2>
 
-                    <!-- DashCam Clips (Landscape-style) -->
-                    <div class="dashcam-clips" style="display: flex; flex-direction: column; gap: 10px;">
-                        <img src="images/tesla-4.jpg" alt="6-channel View" style="width: 100%; height: auto; border-radius: 8px; border: 1px solid #eee;">
-                        <img src="images/tesla-5.jpg" alt="4-channel View" style="width: 100%; height: auto; border-radius: 8px; border: 1px solid #eee;">
+                <div class="projects-grid">
+                    <!-- Project 1: Tesla DashCam Viewer -->
+                    <div class="project-card reveal">
+                        <div class="project-info">
+                            <h3 class="project-title">Tesla DashCam Viewer</h3>
+                            <p class="project-desc">테슬라 오너를 위한 전문 대시캠 뷰어 솔루션. USB 연결만으로 차량의 모든 데이터를 시각화합니다.</p>
+                            <ul class="project-features">
+                                <li>위치, 속도, 자율주행 유무 실시간 시각화</li>
+                                <li>페달 조작 게이지 및 차량 세부 정보 제공</li>
+                                <li>최대 6채널 영상 통합 및 합성 기능</li>
+                            </ul>
+                        </div>
+                        <div class="project-visual">
+                            <div class="img-container">
+                                <img src="images/tesla-4.jpg" alt="6-channel View" class="main-img">
+                            </div>
+                            <!-- Small floating screens -->
+                            <div class="iphone-screens" style="margin-top: 20px;">
+                                <img src="images/tesla-1.jpg" alt="Screen 1" class="iphone-img floating"
+                                    style="animation-delay: 0s;">
+                                <img src="images/tesla-2.jpg" alt="Screen 2" class="iphone-img floating"
+                                    style="animation-delay: 0.5s;">
+                                <img src="images/tesla-3.jpg" alt="Screen 3" class="iphone-img floating"
+                                    style="animation-delay: 1s;">
+                            </div>
+                        </div>
                     </div>
-                </div>
-                <div class="project-card">
-                    <div class="project-title">MateDrive</div>
-                    <p class="project-desc">함께하는 드라이빙의 즐거움. 운전자와 동승자를 위한 소셜 드라이빙 플랫폼.</p>
-                </div>
-                <div class="project-card">
-                    <div class="project-title">JellyDown</div>
-                    <p class="project-desc">말랑말랑한 감성을 담은 캐주얼 게임 프로젝트. (Coming Soon)</p>
                 </div>
             </div>
-        </div>
-    </section>
+        </section>
 
-    <div class="contact">
-        <div class="container">
-            <h2>Contact Us</h2>
-            <p>새로운 프로젝트를 함께할 준비가 되어 있습니다.</p>
-            <p>contact@dailyprompt.co.kr</p>
-        </div>
-    </div>
+        <!-- Contact Section -->
+        <section class="contact">
+            <div class="container reveal">
+                <h2>Contact Us</h2>
+                <p style="margin-bottom: 20px; color: var(--text-muted);">새로운 혁신을 함께할 파트너를 기다립니다.</p>
+                <a href="mailto:contact@dailyprompt.co.kr" class="email-link">contact@dailyprompt.co.kr</a>
+            </div>
+        </section>
+    </main>
 
     <footer>
         <div class="container">
-            &copy; 2026 Daily Prompt. All rights reserved.
+            <p>&copy; 2026 Daily Prompt. Powered by Innovation.</p>
         </div>
     </footer>
 
+    <!-- Scripts -->
+    <script src="script.js"></script>
 </body>
+
 </html>
