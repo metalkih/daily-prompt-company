@@ -1,0 +1,164 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>데일리 프롬프트 (Daily Prompt)</title>
+    <style>
+        :root {
+            --primary: #2563eb;
+            --text: #1f2937;
+            --bg: #ffffff;
+            --secondary-bg: #f3f4f6;
+        }
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            line-height: 1.6;
+            color: var(--text);
+        }
+        .container {
+            max-width: 1000px;
+            margin: 0 auto;
+            padding: 0 20px;
+        }
+        header {
+            background: var(--bg);
+            padding: 20px 0;
+            border-bottom: 1px solid #e5e7eb;
+            position: sticky;
+            top: 0;
+            z-index: 100;
+        }
+        nav {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+        }
+        .logo {
+            font-size: 1.5rem;
+            font-weight: bold;
+            color: var(--primary);
+            text-decoration: none;
+        }
+        .hero {
+            padding: 100px 0;
+            text-align: center;
+            background: linear-gradient(to bottom, #ffffff, #f0f9ff);
+        }
+        .hero h1 {
+            font-size: 3rem;
+            margin-bottom: 20px;
+            letter-spacing: -1px;
+        }
+        .hero p {
+            font-size: 1.25rem;
+            color: #4b5563;
+            max-width: 600px;
+            margin: 0 auto;
+        }
+        .section {
+            padding: 80px 0;
+        }
+        .section-title {
+            font-size: 2rem;
+            text-align: center;
+            margin-bottom: 50px;
+        }
+        .projects-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+            gap: 30px;
+        }
+        .project-card {
+            background: var(--bg);
+            border: 1px solid #e5e7eb;
+            border-radius: 12px;
+            padding: 30px;
+            transition: transform 0.2s, box-shadow 0.2s;
+        }
+        .project-card:hover {
+            transform: translateY(-5px);
+            box-shadow: 0 10px 20px rgba(0,0,0,0.05);
+        }
+        .project-title {
+            font-size: 1.5rem;
+            font-weight: bold;
+            margin-bottom: 10px;
+            color: var(--primary);
+        }
+        .project-desc {
+            color: #6b7280;
+        }
+        .contact {
+            background: var(--text);
+            color: white;
+            padding: 60px 0;
+            text-align: center;
+        }
+        .contact p {
+            font-size: 1.2rem;
+            opacity: 0.9;
+        }
+        footer {
+            text-align: center;
+            padding: 30px 0;
+            color: #9ca3af;
+            font-size: 0.9rem;
+        }
+    </style>
+</head>
+<body>
+
+    <header>
+        <div class="container">
+            <nav>
+                <a href="#" class="logo">Daily Prompt</a>
+            </nav>
+        </div>
+    </header>
+
+    <section class="hero">
+        <div class="container">
+            <h1>모바일 앱 서비스의<br>새로운 기준</h1>
+            <p>데일리 프롬프트는 사용자 경험을 최우선으로 생각하는 모바일 앱 서비스 개발 전문 회사입니다.</p>
+        </div>
+    </section>
+
+    <section class="section">
+        <div class="container">
+            <h2 class="section-title">Projects</h2>
+            <div class="projects-grid">
+                <div class="project-card">
+                    <div class="project-title">Tesla DashCam</div>
+                    <p class="project-desc">테슬라 주행 영상의 손쉬운 관리와 뷰어 기능을 제공하는 필수 유틸리티 앱.</p>
+                </div>
+                <div class="project-card">
+                    <div class="project-title">MateDrive</div>
+                    <p class="project-desc">함께하는 드라이빙의 즐거움. 운전자와 동승자를 위한 소셜 드라이빙 플랫폼.</p>
+                </div>
+                <div class="project-card">
+                    <div class="project-title">JellyDown</div>
+                    <p class="project-desc">말랑말랑한 감성을 담은 캐주얼 게임 프로젝트. (Coming Soon)</p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <div class="contact">
+        <div class="container">
+            <h2>Contact Us</h2>
+            <p>새로운 프로젝트를 함께할 준비가 되어 있습니다.</p>
+            <p>contact@dailyprompt.co.kr</p>
+        </div>
+    </div>
+
+    <footer>
+        <div class="container">
+            &copy; 2026 Daily Prompt. All rights reserved.
+        </div>
+    </footer>
+
+</body>
+</html>
