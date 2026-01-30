@@ -67,9 +67,9 @@
             margin-bottom: 50px;
         }
         .projects-grid {
-            display: grid;
-            grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
-            gap: 30px;
+            display: flex;
+            flex-direction: column;
+            gap: 40px;
         }
         .project-card {
             background: var(--bg);
@@ -139,10 +139,10 @@
                     </ul>
                     
                     <!-- App Screens (Portrait-style) -->
-                    <div class="project-images" style="display: flex; gap: 10px; margin-bottom: 20px; overflow-x: auto; align-items: flex-start;">
-                        <img src="images/tesla-1.jpg" alt="App Screen 1" style="height: 220px; width: auto; border-radius: 8px; border: 1px solid #eee;">
-                        <img src="images/tesla-2.jpg" alt="App Screen 2" style="height: 220px; width: auto; border-radius: 8px; border: 1px solid #eee;">
-                        <img src="images/tesla-3.jpg" alt="App Screen 3" style="height: 220px; width: auto; border-radius: 8px; border: 1px solid #eee;">
+                    <div class="project-images" style="display: flex; gap: 10px; margin-bottom: 20px; flex-wrap: wrap; justify-content: center; align-items: flex-start;">
+                        <img src="images/tesla-1.jpg" alt="App Screen 1" style="width: calc(33.333% - 10px); min-width: 150px; height: auto; border-radius: 8px; border: 1px solid #eee;">
+                        <img src="images/tesla-2.jpg" alt="App Screen 2" style="width: calc(33.333% - 10px); min-width: 150px; height: auto; border-radius: 8px; border: 1px solid #eee;">
+                        <img src="images/tesla-3.jpg" alt="App Screen 3" style="width: calc(33.333% - 10px); min-width: 150px; height: auto; border-radius: 8px; border: 1px solid #eee;">
                     </div>
 
                     <!-- DashCam Clips (Landscape-style) -->
