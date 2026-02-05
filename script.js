@@ -1,82 +1,92 @@
-document.addEventListener('DOMContentLoaded', () => {
-    // Header scroll effect
-    const header = document.querySelector('header');
-    window.addEventListener('scroll', () => {
-        if (window.scrollY > 50) {
-            header.classList.add('scrolled');
-        } else {
-            header.classList.remove('scrolled');
-        }
-    });
-
-    // Intersection Observer for scroll reveal
-    const revealCallback = (entries, observer) => {
-        entries.forEach(entry => {
-            if (entry.isIntersecting) {
-                entry.target.classList.add('active');
-            }
-        });
-    };
-
-    const revealObserver = new IntersectionObserver(revealCallback, {
-        threshold: 0.1
-    });
-
-    document.querySelectorAll('.reveal').forEach(el => {
-        revealObserver.observe(el);
-    });
-
-    // Smooth scroll for anchors
-    document.querySelectorAll('a[href^="#"]').forEach(anchor => {
-        anchor.addEventListener('click', function (e) {
-            e.preventDefault();
-            const targetId = this.getAttribute('href');
-            if (targetId === '#') return;
-            
-            const target = document.querySelector(targetId);
-            if (target) {
-                target.scrollIntoView({
-                    behavior: 'smooth'
-                });
-            }
-        });
-    });
-
-    // Mouse movement parallax for hero background
-    const hero = document.querySelector('.hero');
-    const heroBg = document.querySelector('.hero-bg');
+// i18n Configuration
+const i18n = {
+    currentLang: 'ko',
+    translations: {},
     
-    if (hero && heroBg) {
-        hero.addEventListener('mousemove', (e) => {
-            const { clientX, clientY } = e;
-            const centerX = window.innerWidth / 2;
-            const centerY = window.innerHeight / 2;
-            
-            const moveX = (clientX - centerX) / 25;
-            const moveY = (clientY - centerY) / 25;
-            
-            heroBg.style.transform = `translate(calc(-50% + ${moveX}px), calc(-50% + ${moveY}px))`;
-        });
-    }
-
-    // Project card hover 3D effect (Subtle)
-    document.querySelectorAll('.img-container').forEach(card => {
-        card.addEventListener('mousemove', (e) => {
-            const rect = card.getBoundingClientRect();
-            const x = e.clientX - rect.left;
-            const y = e.clientY - rect.top;
-            
-            const centerX = rect.width / 2;
-            const centerY = rect.height / 2;
-            
-            const rotateX = (y - centerY) / 20;
-            const rotateY = (centerX - x) / 20;
-            
-            card.style.transform = `perspective(1000px) rotateX(${rotateX}deg) rotateY(${rotateY}deg) translateY(-10px)`;
+    // Detect browser language
+    detectLanguage() {
+        const browserLang = navigator.language || navigator.userLanguage;
+        return browserLang.startsWith('ko') ? 'ko' : 'en';
+    },
+    
+    // Load translations
+    async loadTranslations(lang) {
+        try {
+            const response = await fetch(`locales/${lang}.json`);
+            this.translations = await response.json();
+            this.currentLang = lang;
+            this.updatePage();
+        } catch (error) {
+            console.error('Failed to load translations:', error);
+        }
+    },
+    
+    // Get nested value from object
+    getValue(obj, path) {
+        return path.split('.').reduce((acc, part) => acc && acc[part], obj);
+    },
+    
+    // Update page content
+    updatePage() {
+        // Update elements with data-i18n attribute
+        document.querySelectorAll('[data-i18n]').forEach(element => {
+            const key = element.getAttribute('data-i18n');
+            const value = this.getValue(this.translations, key);
+            if (value) {
+                if (value.includes('<br>')) {
+                    element.innerHTML = value;
+                } else {
+                    element.textContent = value;
+                }
+            }
         });
         
-        card.addEventListener('mouseleave', () => {
-            card.style.transform = `perspective(1000px) rotateX(0deg) rotateY(0deg) translateY(0px)`;
-        });
+        // Update lists (features)
+        const featuresList = document.querySelector('.project-features');
+        if (featuresList && this.translations.projects?.tesla?.features) {
+            featuresList.innerHTML = this.translations.projects.tesla.features
+                .map(feature => `<li>${feature}</li>`)
+                .join('');
+        }
+        
+        // Update footer
+        const footer = document.querySelector('footer p');
+        if (footer && this.translations.footer) {
+            footer.textContent = this.translations.footer;
+        }
+        
+        // Update html lang attribute
+        document.documentElement.lang = this.currentLang;
+    },
+    
+    // Switch language
+    switchLanguage(lang) {
+        this.loadTranslations(lang);
+    }
+};
+
+// Initialize
+document.addEventListener('DOMContentLoaded', () => {
+    const detectedLang = i18n.detectLanguage();
+    i18n.loadTranslations(detectedLang);
+});
+
+// Scroll Animation
+const observerOptions = {
+    root: null,
+    rootMargin: '0px',
+    threshold: 0.1
+};
+
+const observer = new IntersectionObserver((entries) => {
+    entries.forEach(entry => {
+        if (entry.isIntersecting) {
+            entry.target.classList.add('revealed');
+        }
     });
+}, observerOptions);
+
+// Observe all elements with reveal class
+document.querySelectorAll('.reveal').forEach((element) => {
+    observer.observe(element);
 });
