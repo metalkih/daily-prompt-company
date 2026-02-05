@@ -1,0 +1,21 @@
+{
+  "hero": {
+    "title": "Better Mobile Services<br>Through Better Questions",
+    "subtitle": "Developers who answer 'How can we make it easier?' Daily Prompt brings your ideas to life.",
+    "cta": "View Projects"
+  },
+  "projects": {
+    "tag": "Our Work",
+    "title": "Projects",
+    "tesla": {
+      "title": "Tesla DashCam Viewer",
+      "desc": "Professional dashcam viewer solution for Tesla owners. Visualize all vehicle data with just a USB connection.",
+      "features": [
+        "Real-time visualization of location, speed, and autopilot status",
+        "Pedal operation gauge and detailed vehicle information",
+        "Up to 6-channel video integration and synthesis"
+      ]
+    }
+  },
+  "footer": "© 2026 Daily Prompt. Powered by Innovation."
+}
