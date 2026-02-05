@@ -22,7 +22,9 @@
             <nav>
                 <a href="#" class="logo">DAILY PROMPT</a>
                 <div class="nav-links">
-                    <!-- Nav items could go here if needed -->
+                    <!-- Language Switcher -->
+                    <button onclick="i18n.switchLanguage('ko')" class="lang-btn">🇰🇷 한국어</button>
+                    <button onclick="i18n.switchLanguage('en')" class="lang-btn">🇺🇸 English</button>
                 </div>
             </nav>
         </div>
@@ -33,24 +35,24 @@
         <section class="hero">
             <div class="hero-bg"></div>
             <div class="container">
-                <h1><span>좋은 질문이 만드는</span><br>더 나은 모바일 서비스</h1>
-                <p>'어떻게 하면 더 편할까?'라는 질문에 답하는 개발자들. 데일리 프롬프트가 당신의 아이디어를 완성합니다.</p>
-                <a href="#projects" class="cta-button">프로젝트 둘러보기</a>
+                <h1 data-i18n="hero.title"><span>좋은 질문이 만드는</span><br>더 나은 모바일 서비스</h1>
+                <p data-i18n="hero.subtitle">'어떻게 하면 더 편할까?'라는 질문에 답하는 개발자들. 데일리 프롬프트가 당신의 아이디어를 완성합니다.</p>
+                <a href="#projects" class="cta-button" data-i18n="hero.cta">프로젝트 둘러보기</a>
             </div>
         </section>
 
         <!-- Projects Section -->
         <section id="projects" class="section">
             <div class="container">
-                <span class="section-tag">Our Work</span>
-                <h2 class="section-title reveal">Projects</h2>
+                <span class="section-tag" data-i18n="projects.tag">Our Work</span>
+                <h2 class="section-title reveal" data-i18n="projects.title">Projects</h2>
 
                 <div class="projects-grid">
                     <!-- Project 1: Tesla DashCam Viewer -->
                     <div class="project-card reveal">
                         <div class="project-info">
-                            <h3 class="project-title">Tesla DashCam Viewer</h3>
-                            <p class="project-desc">테슬라 오너를 위한 전문 대시캠 뷰어 솔루션. USB 연결만으로 차량의 모든 데이터를 시각화합니다.</p>
+                            <h3 class="project-title" data-i18n="projects.tesla.title">Tesla DashCam Viewer</h3>
+                            <p class="project-desc" data-i18n="projects.tesla.desc">테슬라 오너를 위한 전문 대시캠 뷰어 솔루션. USB 연결만으로 차량의 모든 데이터를 시각화합니다.</p>
                             <ul class="project-features">
                                 <li>위치, 속도, 자율주행 유무 실시간 시각화</li>
                                 <li>페달 조작 게이지 및 차량 세부 정보 제공</li>
@@ -83,7 +85,7 @@
 
     <footer>
         <div class="container">
-            <p>&copy; 2026 Daily Prompt. Powered by Innovation.</p>
+            <p data-i18n="footer">&copy; 2026 Daily Prompt. Powered by Innovation.</p>
         </div>
     </footer>
 
