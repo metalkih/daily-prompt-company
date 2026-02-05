@@ -2,6 +2,27 @@
 const i18n = {
     currentLang: 'ko',
     translations: {},
+    fallbackTranslations: {
+        hero: {
+            title: "좋은 질문이 만드는<br>더 나은 모바일 서비스",
+            subtitle: "'어떻게 하면 더 편할까?'라는 질문에 답하는 개발자들. 데일리 프롬프트가 당신의 아이디어를 완성합니다.",
+            cta: "프로젝트 둘러보기"
+        },
+        projects: {
+            tag: "Our Work",
+            title: "Projects",
+            tesla: {
+                title: "Tesla DashCam Viewer",
+                desc: "테슬라 오너를 위한 전문 대시캠 뷰어 솔루션. USB 연결만으로 차량의 모든 데이터를 시각화합니다.",
+                features: [
+                    "위치, 속도, 자율주행 유무 실시간 시각화",
+                    "페달 조작 게이지 및 차량 세부 정보 제공",
+                    "최대 6채널 영상 통합 및 합성 기능"
+                ]
+            }
+        },
+        footer: "© 2026 Daily Prompt. Powered by Innovation."
+    },
     
     // Detect browser language
     detectLanguage() {
@@ -13,11 +34,18 @@ const i18n = {
     async loadTranslations(lang) {
         try {
             const response = await fetch(`locales/${lang}.json`);
+            if (!response.ok) {
+                throw new Error(`HTTP error! status: ${response.status}`);
+            }
             this.translations = await response.json();
             this.currentLang = lang;
             this.updatePage();
         } catch (error) {
-            console.error('Failed to load translations:', error);
+            console.warn('Failed to load translations, using fallback:', error);
+            // Use fallback translations
+            this.translations = this.fallbackTranslations;
+            this.currentLang = 'ko';
+            this.updatePage();
         }
     },
     
@@ -33,7 +61,7 @@ const i18n = {
             const key = element.getAttribute('data-i18n');
             const value = this.getValue(this.translations, key);
             if (value) {
-                if (value.includes('<br>')) {
+                if (typeof value === 'string' && value.includes('<br>')) {
                     element.innerHTML = value;
                 } else {
                     element.textContent = value;
