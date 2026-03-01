@@ -1,0 +1,458 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8" />
+    <meta content="width=device-width, initial-scale=1.0" name="viewport" />
+    <title>ScalePulse - Weight, BMI</title>
+    <script src="https://cdn.tailwindcss.com?plugins=forms,typography,container-queries"></script>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&amp;display=swap"
+        rel="stylesheet" />
+    <link href="https://fonts.googleapis.com/icon?family=Material+Icons+Round" rel="stylesheet" />
+    <script>
+        tailwind.config = {
+            darkMode: "class",
+            theme: {
+                extend: {
+                    colors: {
+                        primary: "#7FB59B", // Muted sage green from screenshots
+                        secondary: "#E0F2EB", // Light mint background
+                        accent: "#FFD700", // Gold for Pro features
+                        "background-light": "#FAFAFA",
+                        "background-dark": "#18181b",
+                        "surface-light": "#FFFFFF",
+                        "surface-dark": "#27272a",
+                        "text-light": "#1f2937",
+                        "text-dark": "#f3f4f6",
+                        "muted-light": "#6b7280",
+                        "muted-dark": "#9ca3af",
+                    },
+                    fontFamily: {
+                        display: ["Inter", "sans-serif"],
+                    },
+                    borderRadius: {
+                        DEFAULT: "0.75rem",
+                        'xl': "1rem",
+                        '2xl': "1.5rem",
+                    },
+                    boxShadow: {
+                        'soft': '0 4px 20px -2px rgba(0, 0, 0, 0.05)',
+                        'glow': '0 0 15px rgba(127, 181, 155, 0.3)',
+                    }
+                },
+            },
+        };
+    </script>
+    <style>
+        body {
+            font-family: 'Inter', sans-serif;
+        }
+
+        .clip-path-slant {
+            clip-path: polygon(0 0, 100% 0, 100% 85%, 0 100%);
+        }
+    </style>
+</head>
+
+<body
+    class="bg-background-light dark:bg-background-dark text-text-light dark:text-text-dark transition-colors duration-300">
+    <nav
+        class="fixed w-full z-50 bg-surface-light/90 dark:bg-surface-dark/90 backdrop-blur-md border-b border-gray-100 dark:border-gray-800">
+        <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+            <div class="flex justify-between h-16 items-center">
+                <div class="flex items-center gap-2">
+                    <span class="material-icons-round text-primary text-3xl">monitor_weight</span>
+                    <span class="font-bold text-xl tracking-tight text-gray-900 dark:text-white">ScalePulse</span>
+                </div>
+                <div class="hidden md:flex items-center space-x-8">
+                    <a class="text-sm font-medium text-gray-600 dark:text-gray-300 hover:text-primary dark:hover:text-primary transition-colors"
+                        href="#features">Features</a>
+                    <a class="text-sm font-medium text-gray-600 dark:text-gray-300 hover:text-primary dark:hover:text-primary transition-colors"
+                        href="#pro">Pro Coaching</a>
+                    <a class="text-sm font-medium text-gray-600 dark:text-gray-300 hover:text-primary dark:hover:text-primary transition-colors"
+                        href="#testimonials">Stories</a>
+                </div>
+                <div class="flex items-center gap-4">
+                    <button
+                        class="p-2 rounded-full text-gray-500 hover:bg-gray-100 dark:hover:bg-gray-800 transition-colors"
+                        id="theme-toggle">
+                        <span class="material-icons-round dark:hidden">dark_mode</span>
+                        <span class="material-icons-round hidden dark:block">light_mode</span>
+                    </button>
+                    <a class="hidden md:inline-flex items-center justify-center px-5 py-2 border border-transparent text-sm font-medium rounded-full text-white bg-primary hover:bg-opacity-90 shadow-lg shadow-primary/30 transition-all transform hover:-translate-y-0.5"
+                        href="#">
+                        Download App
+                    </a>
+                </div>
+            </div>
+        </div>
+    </nav>
+    <section class="relative pt-32 pb-20 lg:pt-40 lg:pb-28 overflow-hidden">
+        <div class="absolute inset-0 -z-10">
+            <div
+                class="absolute top-0 right-0 -mr-20 -mt-20 w-96 h-96 rounded-full bg-secondary dark:bg-primary/10 blur-3xl opacity-50">
+            </div>
+            <div
+                class="absolute bottom-0 left-0 -ml-20 -mb-20 w-80 h-80 rounded-full bg-blue-100 dark:bg-blue-900/20 blur-3xl opacity-50">
+            </div>
+        </div>
+        <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 flex flex-col lg:flex-row items-center gap-12 lg:gap-20">
+            <div class="flex-1 text-center lg:text-left space-y-8">
+                <div
+                    class="inline-flex items-center px-3 py-1 rounded-full bg-secondary dark:bg-primary/20 text-primary text-xs font-semibold tracking-wide uppercase">
+                    <span class="w-2 h-2 rounded-full bg-primary mr-2"></span> New: AI Trend Analysis
+                </div>
+                <h1
+                    class="text-4xl lg:text-6xl font-extrabold tracking-tight text-gray-900 dark:text-white leading-tight">
+                    Master Your Weight <br class="hidden lg:block" />
+                    <span class="text-primary">Journey with Data</span>
+                </h1>
+                <p class="text-lg lg:text-xl text-muted-light dark:text-muted-dark max-w-2xl mx-auto lg:mx-0">
+                    Stop guessing. Start understanding. Track your weight, visualize trends, and get AI-powered insights
+                    to reach your health goals faster.
+                </p>
+                <div class="flex flex-col sm:flex-row items-center justify-center lg:justify-start gap-4">
+                    <a class="w-full sm:w-auto px-10 py-5 text-lg font-semibold rounded-full text-white bg-primary hover:bg-opacity-90 shadow-xl shadow-primary/30 transition-all transform hover:-translate-y-1 flex items-center justify-center gap-3"
+                        href="#">
+                        <span class="material-icons-round">download</span>
+                        Get Started Free
+                    </a>
+                </div>
+                <div
+                    class="pt-6 flex flex-col sm:flex-row items-center justify-center lg:justify-start gap-8 text-base text-gray-500 dark:text-gray-400">
+                    <div class="flex items-center gap-2">
+                        <span class="material-icons-round text-primary text-xl">check_circle</span>
+                        <span class="font-medium">Free Forever Plan</span>
+                    </div>
+                    <div class="flex items-center gap-2">
+                        <span class="material-icons-round text-primary text-xl">check_circle</span>
+                        <span class="font-medium">Privacy Focused</span>
+                    </div>
+                </div>
+            </div>
+            <div class="flex-1 relative w-full max-w-md lg:max-w-full mx-auto">
+                <div
+                    class="relative rounded-3xl bg-surface-light dark:bg-surface-dark shadow-2xl border border-gray-100 dark:border-gray-700 p-2 lg:p-4 rotate-1 hover:rotate-0 transition-transform duration-500">
+                    <div class="h-6 flex items-center gap-2 px-4 mb-2">
+                        <div class="w-3 h-3 rounded-full bg-red-400"></div>
+                        <div class="w-3 h-3 rounded-full bg-yellow-400"></div>
+                        <div class="w-3 h-3 rounded-full bg-green-400"></div>
+                    </div>
+                    <div class="bg-gray-50 dark:bg-black rounded-2xl p-4 sm:p-6 overflow-hidden">
+                        <div class="mb-6">
+                            <h2 class="text-3xl font-bold text-gray-900 dark:text-white">Today</h2>
+                            <p class="text-sm text-gray-500">Sun, Mar 1 • Last update 8:00 PM</p>
+                        </div>
+                        <div class="bg-secondary dark:bg-primary/20 rounded-2xl p-5 mb-6">
+                            <h3 class="font-bold text-lg text-gray-800 dark:text-gray-100">Today Dashboard</h3>
+                            <p class="text-sm text-gray-600 dark:text-gray-300 mb-4">Current 159.6 lb • Last entry 8:00
+                                PM</p>
+                            <button
+                                class="w-full bg-primary hover:bg-opacity-90 text-white font-semibold py-3 px-4 rounded-xl transition-colors shadow-md flex items-center justify-center gap-2">
+                                <span class="material-icons-round text-lg">add</span> Add entry
+                            </button>
+                        </div>
+                        <div class="grid grid-cols-2 gap-4 mb-6">
+                            <div
+                                class="bg-white dark:bg-surface-dark p-4 rounded-2xl shadow-sm border border-gray-100 dark:border-gray-800">
+                                <p class="text-xs text-gray-500 uppercase font-medium">Latest</p>
+                                <p class="text-xl font-bold text-gray-900 dark:text-white mt-1">159.6 lb</p>
+                                <p class="text-xs text-primary mt-1">-3.2 lb change</p>
+                            </div>
+                            <div
+                                class="bg-white dark:bg-surface-dark p-4 rounded-2xl shadow-sm border border-gray-100 dark:border-gray-800">
+                                <p class="text-xs text-gray-500 uppercase font-medium">Streak</p>
+                                <div class="flex items-center mt-1">
+                                    <p class="text-xl font-bold text-gray-900 dark:text-white">17 days</p>
+                                    <span class="ml-1 text-xl">🔥</span>
+                                </div>
+                                <p class="text-xs text-gray-400 mt-1">Great habit!</p>
+                            </div>
+                        </div>
+                        <div
+                            class="bg-white dark:bg-surface-dark p-5 rounded-2xl shadow-sm border border-gray-100 dark:border-gray-800">
+                            <div class="flex justify-between items-center mb-4">
+                                <h4 class="font-semibold text-gray-800 dark:text-gray-200">7-day weight trend</h4>
+                                <span
+                                    class="bg-primary/20 text-primary dark:text-primary-light text-xs px-2 py-1 rounded-full font-medium">Downtrend</span>
+                            </div>
+                            <div class="h-24 w-full relative">
+                                <svg class="w-full h-full overflow-visible" viewBox="0 0 100 40">
+                                    <path class="text-primary" d="M0 10 L20 30 L40 15 L60 18 L80 35 L100 36" fill="none"
+                                        stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"
+                                        stroke-width="2"></path>
+                                    <circle class="fill-primary" cx="0" cy="10" r="2"></circle>
+                                    <circle class="fill-primary" cx="20" cy="30" r="2"></circle>
+                                    <circle class="fill-primary" cx="40" cy="15" r="2"></circle>
+                                    <circle class="fill-primary" cx="60" cy="18" r="2"></circle>
+                                    <circle class="fill-primary" cx="80" cy="35" r="2"></circle>
+                                    <circle class="fill-primary" cx="100" cy="36" r="2"></circle>
+                                    <path class="text-primary opacity-10 dark:opacity-20"
+                                        d="M0 10 L20 30 L40 15 L60 18 L80 35 L100 36 L100 50 L0 50 Z"
+                                        fill="currentColor"></path>
+                                </svg>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <section class="py-20 bg-white dark:bg-surface-dark" id="features">
+        <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+            <div class="text-center max-w-3xl mx-auto mb-16">
+                <h2 class="text-primary font-semibold tracking-wide uppercase text-sm mb-2">Key Features</h2>
+                <h3 class="text-3xl font-bold text-gray-900 dark:text-white">Smart Tools for a Healthier You</h3>
+                <p class="mt-4 text-lg text-muted-light dark:text-muted-dark">Everything you need to track, analyze, and
+                    improve your body composition metrics in one simple interface.</p>
+            </div>
+            <div class="grid md:grid-cols-3 gap-8">
+                <div
+                    class="p-8 rounded-3xl bg-background-light dark:bg-background-dark border border-gray-100 dark:border-gray-800 transition-all duration-300 hover:shadow-soft group">
+                    <div
+                        class="w-14 h-14 rounded-2xl bg-secondary dark:bg-primary/20 flex items-center justify-center mb-6 group-hover:scale-110 transition-transform">
+                        <span class="material-icons-round text-primary text-3xl">edit_calendar</span>
+                    </div>
+                    <h4 class="text-xl font-bold text-gray-900 dark:text-white mb-3">Daily Weight Tracking</h4>
+                    <p class="text-muted-light dark:text-muted-dark leading-relaxed">
+                        Effortlessly log your daily weight. View your history, add notes, and visualize your consistency
+                        over time with streak counters.
+                    </p>
+                </div>
+                <div
+                    class="p-8 rounded-3xl bg-background-light dark:bg-background-dark border border-gray-100 dark:border-gray-800 transition-all duration-300 hover:shadow-soft group">
+                    <div
+                        class="w-14 h-14 rounded-2xl bg-secondary dark:bg-primary/20 flex items-center justify-center mb-6 group-hover:scale-110 transition-transform">
+                        <span class="material-icons-round text-primary text-3xl">speed</span>
+                    </div>
+                    <h4 class="text-xl font-bold text-gray-900 dark:text-white mb-3">BMI Insights</h4>
+                    <p class="text-muted-light dark:text-muted-dark leading-relaxed">
+                        Automatically calculate your BMI with every entry. See exactly where you stand on the health
+                        scale with intuitive visual gauges.
+                    </p>
+                </div>
+                <div
+                    class="p-8 rounded-3xl bg-background-light dark:bg-background-dark border border-gray-100 dark:border-gray-800 transition-all duration-300 hover:shadow-soft group">
+                    <div
+                        class="w-14 h-14 rounded-2xl bg-secondary dark:bg-primary/20 flex items-center justify-center mb-6 group-hover:scale-110 transition-transform">
+                        <span class="material-icons-round text-primary text-3xl">show_chart</span>
+                    </div>
+                    <h4 class="text-xl font-bold text-gray-900 dark:text-white mb-3">Trend Visualization</h4>
+                    <p class="text-muted-light dark:text-muted-dark leading-relaxed">
+                        Go beyond simple numbers. Our smart charts smooth out daily fluctuations to show you the real
+                        direction of your weight journey.
+                    </p>
+                </div>
+            </div>
+        </div>
+    </section>
+    <section class="py-20 bg-gray-50 dark:bg-black relative overflow-hidden" id="pro">
+        <div
+            class="absolute top-0 right-0 w-1/2 h-full bg-gradient-to-l from-yellow-50 dark:from-yellow-900/10 to-transparent pointer-events-none">
+        </div>
+        <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 relative z-10">
+            <div class="flex flex-col lg:flex-row items-center gap-16">
+                <div class="flex-1 space-y-8">
+                    <div
+                        class="inline-flex items-center px-3 py-1 rounded-full bg-yellow-100 dark:bg-yellow-900/30 text-yellow-700 dark:text-yellow-400 text-xs font-bold tracking-wide uppercase border border-yellow-200 dark:border-yellow-800">
+                        <span class="material-icons-round text-sm mr-1">star</span> Go Pro
+                    </div>
+                    <h2 class="text-3xl lg:text-5xl font-bold text-gray-900 dark:text-white">
+                        Unlock Advanced <br />
+                        <span
+                            class="text-transparent bg-clip-text bg-gradient-to-r from-yellow-600 to-yellow-500 dark:from-yellow-400 dark:to-yellow-200">Coaching
+                            Analytics</span>
+                    </h2>
+                    <p class="text-lg text-muted-light dark:text-muted-dark">
+                        Take your weight management to the next level with professional-grade tools designed for serious
+                        results.
+                    </p>
+                    <div class="space-y-4">
+                        <div
+                            class="flex items-start gap-4 p-4 rounded-xl bg-white dark:bg-surface-dark shadow-sm border border-gray-100 dark:border-gray-800">
+                            <div
+                                class="flex-shrink-0 w-10 h-10 rounded-full bg-yellow-100 dark:bg-yellow-900/40 flex items-center justify-center text-yellow-600 dark:text-yellow-400">
+                                <span class="material-icons-round">timeline</span>
+                            </div>
+                            <div>
+                                <h5 class="font-bold text-gray-900 dark:text-white">Goal Projection</h5>
+                                <p class="text-sm text-gray-600 dark:text-gray-400">See exactly when you'll hit your
+                                    target weight based on your current trend.</p>
+                            </div>
+                        </div>
+                        <div
+                            class="flex items-start gap-4 p-4 rounded-xl bg-white dark:bg-surface-dark shadow-sm border border-gray-100 dark:border-gray-800">
+                            <div
+                                class="flex-shrink-0 w-10 h-10 rounded-full bg-blue-100 dark:bg-blue-900/40 flex items-center justify-center text-blue-600 dark:text-blue-400">
+                                <span class="material-icons-round">analytics</span>
+                            </div>
+                            <div>
+                                <h5 class="font-bold text-gray-900 dark:text-white">7-Day Moving Average</h5>
+                                <p class="text-sm text-gray-600 dark:text-gray-400">Smooth out the noise of daily water
+                                    weight fluctuations for a clearer picture.</p>
+                            </div>
+                        </div>
+                        <div
+                            class="flex items-start gap-4 p-4 rounded-xl bg-white dark:bg-surface-dark shadow-sm border border-gray-100 dark:border-gray-800">
+                            <div
+                                class="flex-shrink-0 w-10 h-10 rounded-full bg-green-100 dark:bg-green-900/40 flex items-center justify-center text-green-600 dark:text-green-400">
+                                <span class="material-icons-round">psychology</span>
+                            </div>
+                            <div>
+                                <h5 class="font-bold text-gray-900 dark:text-white">AI Coaching Summary</h5>
+                                <p class="text-sm text-gray-600 dark:text-gray-400">Get personalized insights like
+                                    "Recent velocity is -3.5lb/week" and calorie estimates.</p>
+                            </div>
+                        </div>
+                    </div>
+
+                </div>
+                <div class="flex-1 w-full relative">
+                    <div
+                        class="bg-secondary dark:bg-[#1C2C26] rounded-3xl p-6 lg:p-8 shadow-xl border border-primary/20 relative overflow-hidden">
+                        <span
+                            class="material-icons-round absolute -top-4 -right-4 text-9xl text-primary opacity-10 rotate-12">emoji_events</span>
+                        <div class="flex items-center gap-3 mb-6 relative z-10">
+                            <span class="material-icons-round text-primary text-3xl">emoji_events</span>
+                            <h3 class="text-xl font-bold text-gray-900 dark:text-white">Pro coaching summary</h3>
+                        </div>
+                        <ul class="space-y-4 relative z-10">
+                            <li class="flex gap-3 text-sm lg:text-base text-gray-700 dark:text-gray-300">
+                                <span class="material-icons-round text-primary mt-0.5">speed</span>
+                                <span>Recent velocity is <strong>-3.5lb/week</strong>. Weight loss pace is quite
+                                    fast.</span>
+                            </li>
+                            <li class="flex gap-3 text-sm lg:text-base text-gray-700 dark:text-gray-300">
+                                <span class="material-icons-round text-primary mt-0.5">event</span>
+                                <span>At current trend, target date is <strong>Mar 23, 2026</strong> (about 21
+                                    days).</span>
+                            </li>
+                            <li class="flex gap-3 text-sm lg:text-base text-gray-700 dark:text-gray-300">
+                                <span class="material-icons-round text-primary mt-0.5">flag</span>
+                                <span>Next milestone 155.2lb expected: Mar 7, 2026.</span>
+                            </li>
+                            <li class="flex gap-3 text-sm lg:text-base text-gray-700 dark:text-gray-300">
+                                <span class="material-icons-round text-primary mt-0.5">trending_down</span>
+                                <span>Today's weight is <strong>-1.9lb</strong> vs the 7-day trendline.</span>
+                            </li>
+                            <li class="flex gap-3 text-sm lg:text-base text-gray-700 dark:text-gray-300">
+                                <span class="material-icons-round text-primary mt-0.5">local_fire_department</span>
+                                <span>Estimated maintenance calories: about <strong>1,966 kcal/day</strong>.</span>
+                            </li>
+                        </ul>
+                        <div class="mt-8 bg-white dark:bg-black/20 rounded-xl p-4 border border-primary/10">
+                            <div class="flex justify-between text-xs text-gray-500 mb-2">
+                                <span>Goal Projection</span>
+                                <span>Mar 23</span>
+                            </div>
+                            <div class="w-full h-1 bg-gray-200 dark:bg-gray-700 rounded-full overflow-hidden">
+                                <div class="h-full bg-primary w-3/4 rounded-full"></div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <section class="py-20 bg-white dark:bg-surface-dark border-t border-gray-100 dark:border-gray-800"
+        id="testimonials">
+        <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+            <div class="text-center mb-12">
+                <h3 class="text-2xl font-bold text-gray-900 dark:text-white">Trusted by Thousands</h3>
+            </div>
+            <div class="grid md:grid-cols-3 gap-6">
+                <div class="bg-gray-50 dark:bg-background-dark p-6 rounded-2xl">
+                    <div class="flex items-center gap-1 text-yellow-400 mb-3">
+                        <span class="material-icons-round text-sm">star</span>
+                        <span class="material-icons-round text-sm">star</span>
+                        <span class="material-icons-round text-sm">star</span>
+                        <span class="material-icons-round text-sm">star</span>
+                        <span class="material-icons-round text-sm">star</span>
+                    </div>
+                    <p class="text-gray-600 dark:text-gray-300 text-sm italic mb-4">"The Pro coaching summary is a game
+                        changer. Knowing my calorie maintenance levels based on my actual weight loss helps me adjust my
+                        diet perfectly."</p>
+                    <div class="flex items-center gap-3">
+                        <div
+                            class="w-8 h-8 rounded-full bg-primary/20 flex items-center justify-center text-primary font-bold text-xs">
+                            JD</div>
+                        <span class="text-sm font-semibold text-gray-900 dark:text-white">John Doe</span>
+                    </div>
+                </div>
+                <div class="bg-gray-50 dark:bg-background-dark p-6 rounded-2xl">
+                    <div class="flex items-center gap-1 text-yellow-400 mb-3">
+                        <span class="material-icons-round text-sm">star</span>
+                        <span class="material-icons-round text-sm">star</span>
+                        <span class="material-icons-round text-sm">star</span>
+                        <span class="material-icons-round text-sm">star</span>
+                        <span class="material-icons-round text-sm">star</span>
+                    </div>
+                    <p class="text-gray-600 dark:text-gray-300 text-sm italic mb-4">"Finally an app that focuses on
+                        trends instead of just daily numbers. It helps so much with the anxiety of daily fluctuations."
+                    </p>
+                    <div class="flex items-center gap-3">
+                        <div
+                            class="w-8 h-8 rounded-full bg-blue-100 dark:bg-blue-900/30 flex items-center justify-center text-blue-600 font-bold text-xs">
+                            JS</div>
+                        <span class="text-sm font-semibold text-gray-900 dark:text-white">Sarah Jenkins</span>
+                    </div>
+                </div>
+                <div class="bg-gray-50 dark:bg-background-dark p-6 rounded-2xl">
+                    <div class="flex items-center gap-1 text-yellow-400 mb-3">
+                        <span class="material-icons-round text-sm">star</span>
+                        <span class="material-icons-round text-sm">star</span>
+                        <span class="material-icons-round text-sm">star</span>
+                        <span class="material-icons-round text-sm">star</span>
+                        <span class="material-icons-round text-sm">star</span>
+                    </div>
+                    <p class="text-gray-600 dark:text-gray-300 text-sm italic mb-4">"Clean interface, no ads clutter,
+                        and the BMI visualization is super clear. Highly recommend the Pro version for the predictions."
+                    </p>
+                    <div class="flex items-center gap-3">
+                        <div
+                            class="w-8 h-8 rounded-full bg-purple-100 dark:bg-purple-900/30 flex items-center justify-center text-purple-600 font-bold text-xs">
+                            MR</div>
+                        <span class="text-sm font-semibold text-gray-900 dark:text-white">Mike Ross</span>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <footer class="bg-background-light dark:bg-black py-12 border-t border-gray-200 dark:border-gray-800">
+        <div
+            class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 flex flex-col md:flex-row justify-between items-center gap-6">
+            <div class="flex items-center gap-2">
+                <span class="material-icons-round text-primary text-2xl">monitor_weight</span>
+                <span class="font-bold text-lg text-gray-900 dark:text-white">ScalePulse</span>
+            </div>
+            <div class="flex gap-8">
+                <a class="text-sm text-gray-500 hover:text-primary transition-colors" href="#">Privacy Policy</a>
+                <a class="text-sm text-gray-500 hover:text-primary transition-colors" href="#">Terms of Service</a>
+                <a class="text-sm text-gray-500 hover:text-primary transition-colors" href="#">Contact Support</a>
+            </div>
+            <div class="text-sm text-gray-400">
+                © 2023 ScalePulse. All rights reserved.
+            </div>
+        </div>
+    </footer>
+    <script>
+        const btn = document.getElementById('theme-toggle');
+        const html = document.querySelector('html');
+        if (localStorage.theme === 'dark' || (!('theme' in localStorage) && window.matchMedia('(prefers-color-scheme: dark)').matches)) {
+            html.classList.add('dark');
+        } else {
+            html.classList.remove('dark');
+        }
+        btn.addEventListener('click', () => {
+            html.classList.toggle('dark');
+            if (html.classList.contains('dark')) {
+                localStorage.theme = 'dark';
+            } else {
+                localStorage.theme = 'light';
+            }
+        });
+    </script>
+
+</body>
+
+</html>
