@@ -47,6 +47,67 @@
         body {
             font-family: 'Inter', sans-serif;
         }
+
+        .phone-frame {
+            width: 280px;
+            height: 580px;
+            border-radius: 40px;
+            border: 6px solid #1a1a1a;
+            background: #f5f5f7;
+            overflow: hidden;
+            position: relative;
+            box-shadow: 0 25px 60px -12px rgba(0, 0, 0, 0.25), inset 0 0 0 2px #333;
+        }
+
+        .dark .phone-frame {
+            background: #1c1c1e;
+            border-color: #2a2a2a;
+            box-shadow: 0 25px 60px -12px rgba(0, 0, 0, 0.5), inset 0 0 0 2px #444;
+        }
+
+        .phone-notch {
+            width: 120px;
+            height: 28px;
+            background: #1a1a1a;
+            border-radius: 0 0 18px 18px;
+            margin: 0 auto;
+            position: relative;
+            z-index: 10;
+        }
+
+        .dark .phone-notch {
+            background: #2a2a2a;
+        }
+
+        .battery-ring {
+            transform: rotate(-90deg);
+        }
+
+        .battery-ring-bg {
+            fill: none;
+            stroke: #e5e7eb;
+            stroke-width: 8;
+        }
+
+        .dark .battery-ring-bg {
+            stroke: #374151;
+        }
+
+        .battery-ring-fill {
+            fill: none;
+            stroke: #22c55e;
+            stroke-width: 8;
+            stroke-linecap: round;
+            stroke-dasharray: 251.2;
+            stroke-dashoffset: 52.75;
+        }
+
+        @media (max-width: 640px) {
+            .phone-frame {
+                width: 240px;
+                height: 500px;
+            }
+        }
     </style>
 </head>
 
@@ -127,55 +188,139 @@
                     </div>
                 </div>
             </div>
-            <div class="flex-1 relative w-full max-w-md lg:max-w-full mx-auto">
-                <div
-                    class="relative rounded-3xl bg-surface-light dark:bg-surface-dark shadow-2xl border border-gray-100 dark:border-gray-700 p-2 lg:p-4 rotate-1 hover:rotate-0 transition-transform duration-500">
-                    <div class="bg-gray-50 dark:bg-black rounded-2xl p-4 sm:p-6 overflow-hidden">
-                        <div class="mb-6">
-                            <h2 class="text-2xl font-bold text-gray-900 dark:text-white">Dashboard</h2>
-                            <p class="text-sm text-gray-500">Model Y Long Range</p>
+            <div class="flex-1 relative w-full flex justify-center">
+                <div class="phone-frame rotate-1 hover:rotate-0 transition-transform duration-500">
+                    <div class="phone-notch"></div>
+                    <div class="px-3 pt-1 pb-3 h-full overflow-hidden" style="margin-top: -4px;">
+                        <!-- Header -->
+                        <div class="flex justify-between items-center py-2 px-1">
+                            <p class="text-sm font-semibold text-gray-900 dark:text-white">JasonK</p>
+                            <div class="flex items-center gap-1 px-2 py-0.5 rounded-full bg-yellow-100 dark:bg-yellow-900/40 border border-yellow-300 dark:border-yellow-700">
+                                <span class="material-icons-round text-yellow-600 dark:text-yellow-400" style="font-size: 10px;">wifi</span>
+                                <span class="text-[9px] font-bold text-yellow-700 dark:text-yellow-400 tracking-wide">ONLINE</span>
+                            </div>
                         </div>
-                        <div class="bg-secondary dark:bg-primary/20 rounded-2xl p-5 mb-4">
-                            <div class="flex justify-between items-center">
+
+                        <!-- Status Card -->
+                        <div class="bg-white dark:bg-zinc-800 rounded-2xl p-3 mb-2 shadow-sm">
+                            <div class="flex justify-between items-start mb-2">
                                 <div>
-                                    <p class="text-sm text-gray-600 dark:text-gray-300">Battery</p>
-                                    <p class="text-3xl font-bold text-gray-900 dark:text-white">78%</p>
+                                    <div class="flex items-center gap-1">
+                                        <span class="w-1.5 h-1.5 rounded-full bg-gray-800 dark:bg-gray-300"></span>
+                                        <p class="text-[10px] text-gray-800 dark:text-gray-200 font-medium">Sleeping</p>
+                                    </div>
+                                    <p class="text-[8px] text-gray-400 mt-0.5">Since 5h ago</p>
                                 </div>
-                                <div class="text-right">
-                                    <p class="text-sm text-gray-600 dark:text-gray-300">Range</p>
-                                    <p class="text-3xl font-bold text-gray-900 dark:text-white">312 km</p>
-                                </div>
+                                <span class="material-icons-round text-gray-400" style="font-size: 18px;">directions_car</span>
                             </div>
-                            <div class="mt-3 w-full h-2 bg-gray-200 dark:bg-gray-700 rounded-full overflow-hidden">
-                                <div class="h-full bg-accent w-[78%] rounded-full"></div>
+                            <div class="flex items-center gap-3">
+                                <!-- Battery Ring -->
+                                <div class="relative flex-shrink-0" style="width: 80px; height: 80px;">
+                                    <svg class="battery-ring" width="80" height="80" viewBox="0 0 90 90">
+                                        <circle class="battery-ring-bg" cx="45" cy="45" r="40"></circle>
+                                        <circle class="battery-ring-fill" cx="45" cy="45" r="40"></circle>
+                                    </svg>
+                                    <div class="absolute inset-0 flex flex-col items-center justify-center" style="transform: none;">
+                                        <span class="text-lg font-bold text-gray-900 dark:text-white leading-none">79%</span>
+                                        <span class="text-[8px] text-gray-500 mt-0.5">352 km</span>
+                                    </div>
+                                </div>
+                                <!-- Status Items -->
+                                <div class="flex-1 space-y-1.5">
+                                    <div class="flex items-center justify-between">
+                                        <span class="material-icons-round text-gray-400" style="font-size: 14px;">lock_open</span>
+                                        <span class="text-[10px] font-medium text-orange-500">Unlocked</span>
+                                    </div>
+                                    <div class="flex items-center justify-between">
+                                        <span class="material-icons-round text-gray-400" style="font-size: 14px;">shield</span>
+                                        <span class="text-[10px] text-gray-500 dark:text-gray-400">Off</span>
+                                    </div>
+                                    <div class="flex items-center justify-between">
+                                        <span class="material-icons-round text-gray-400" style="font-size: 14px;">garage</span>
+                                        <span class="text-[10px] text-gray-500 dark:text-gray-400">Closed</span>
+                                    </div>
+                                </div>
                             </div>
                         </div>
-                        <div class="grid grid-cols-2 gap-3">
-                            <div
-                                class="bg-white dark:bg-surface-dark p-3 rounded-xl shadow-sm border border-gray-100 dark:border-gray-800">
-                                <p class="text-xs text-gray-500">Inside</p>
-                                <p class="text-lg font-bold text-gray-900 dark:text-white">22.5°C</p>
-                            </div>
-                            <div
-                                class="bg-white dark:bg-surface-dark p-3 rounded-xl shadow-sm border border-gray-100 dark:border-gray-800">
-                                <p class="text-xs text-gray-500">Outside</p>
-                                <p class="text-lg font-bold text-gray-900 dark:text-white">8.3°C</p>
-                            </div>
-                            <div
-                                class="bg-white dark:bg-surface-dark p-3 rounded-xl shadow-sm border border-gray-100 dark:border-gray-800">
+
+                        <!-- Location Card -->
+                        <div class="bg-white dark:bg-zinc-800 rounded-2xl p-3 mb-2 shadow-sm">
+                            <div class="flex items-center justify-between mb-1.5">
                                 <div class="flex items-center gap-1">
-                                    <span class="material-icons-round text-accent text-sm">lock</span>
-                                    <p class="text-xs text-gray-500">Locked</p>
+                                    <span class="material-icons-round text-blue-500" style="font-size: 14px;">navigation</span>
+                                    <span class="text-[10px] text-gray-500 dark:text-gray-400">Location</span>
                                 </div>
-                                <p class="text-sm font-semibold text-accent mt-1">Secure</p>
+                                <span class="text-[8px] bg-blue-50 dark:bg-blue-900/30 text-blue-600 dark:text-blue-400 px-1.5 py-0.5 rounded font-medium">The Sharp Central Foresta</span>
                             </div>
-                            <div
-                                class="bg-white dark:bg-surface-dark p-3 rounded-xl shadow-sm border border-gray-100 dark:border-gray-800">
-                                <div class="flex items-center gap-1">
-                                    <span class="material-icons-round text-primary text-sm">shield</span>
-                                    <p class="text-xs text-gray-500">Sentry</p>
+                            <div class="w-full h-20 bg-green-100 dark:bg-green-900/30 rounded-xl flex items-center justify-center overflow-hidden relative">
+                                <div class="absolute inset-0 opacity-30" style="background: linear-gradient(135deg, #d4edda 0%, #b8d9b8 50%, #e8e8d0 100%);"></div>
+                                <div class="w-6 h-6 bg-blue-500 rounded-full flex items-center justify-center shadow-md z-10">
+                                    <span class="material-icons-round text-white" style="font-size: 14px;">directions_car</span>
                                 </div>
-                                <p class="text-sm font-semibold text-primary mt-1">Active</p>
+                            </div>
+                        </div>
+
+                        <!-- Temperature Cards -->
+                        <div class="grid grid-cols-2 gap-2 mb-2">
+                            <div class="bg-white dark:bg-zinc-800 rounded-2xl p-3 shadow-sm">
+                                <div class="flex items-center gap-1 mb-1">
+                                    <span class="material-icons-round text-red-400" style="font-size: 12px;">thermostat</span>
+                                    <span class="text-[9px] text-gray-500 dark:text-gray-400">Inside</span>
+                                </div>
+                                <p class="text-base font-bold text-gray-900 dark:text-white">15.6&deg;</p>
+                                <p class="text-[8px] text-gray-400">HVAC Standby</p>
+                            </div>
+                            <div class="bg-white dark:bg-zinc-800 rounded-2xl p-3 shadow-sm">
+                                <div class="flex items-center gap-1 mb-1">
+                                    <span class="material-icons-round text-orange-400" style="font-size: 12px;">wb_sunny</span>
+                                    <span class="text-[9px] text-gray-500 dark:text-gray-400">Outside</span>
+                                </div>
+                                <p class="text-base font-bold text-gray-900 dark:text-white">13.0&deg;</p>
+                                <p class="text-[8px] text-gray-400">Local Weather</p>
+                            </div>
+                        </div>
+
+                        <!-- Bottom Row -->
+                        <div class="grid grid-cols-2 gap-2 mb-2">
+                            <div class="bg-white dark:bg-zinc-800 rounded-2xl p-3 shadow-sm">
+                                <div class="flex items-center gap-1 mb-1">
+                                    <span class="material-icons-round text-blue-500" style="font-size: 12px;">speed</span>
+                                    <span class="text-[9px] text-gray-500 dark:text-gray-400">Odometer</span>
+                                </div>
+                                <p class="text-sm font-bold text-gray-900 dark:text-white">86,905</p>
+                            </div>
+                            <div class="bg-white dark:bg-zinc-800 rounded-2xl p-3 shadow-sm">
+                                <div class="flex items-center gap-1 mb-1">
+                                    <span class="material-icons-round text-gray-400" style="font-size: 12px;">settings</span>
+                                    <span class="text-[9px] text-gray-500 dark:text-gray-400">Software</span>
+                                </div>
+                                <p class="text-sm font-bold text-gray-900 dark:text-white">2025.44</p>
+                            </div>
+                        </div>
+
+                        <!-- Tab Bar -->
+                        <div class="absolute bottom-0 left-0 right-0 bg-white/95 dark:bg-zinc-900/95 backdrop-blur-md border-t border-gray-200 dark:border-gray-700 px-2 py-1.5 flex justify-around items-center">
+                            <div class="flex flex-col items-center">
+                                <div class="w-8 h-8 bg-blue-500 rounded-full flex items-center justify-center">
+                                    <span class="material-icons-round text-white" style="font-size: 16px;">dashboard</span>
+                                </div>
+                                <span class="text-[7px] text-blue-500 font-semibold mt-0.5">Dashboard</span>
+                            </div>
+                            <div class="flex flex-col items-center opacity-50">
+                                <span class="material-icons-round text-gray-500 dark:text-gray-400" style="font-size: 18px;">directions_car</span>
+                                <span class="text-[7px] text-gray-500 mt-0.5">Drives</span>
+                            </div>
+                            <div class="flex flex-col items-center opacity-50">
+                                <span class="material-icons-round text-gray-500 dark:text-gray-400" style="font-size: 18px;">bolt</span>
+                                <span class="text-[7px] text-gray-500 mt-0.5">Charges</span>
+                            </div>
+                            <div class="flex flex-col items-center opacity-50">
+                                <span class="material-icons-round text-gray-500 dark:text-gray-400" style="font-size: 18px;">map</span>
+                                <span class="text-[7px] text-gray-500 mt-0.5">Trips</span>
+                            </div>
+                            <div class="flex flex-col items-center opacity-50">
+                                <span class="material-icons-round text-gray-500 dark:text-gray-400" style="font-size: 18px;">settings</span>
+                                <span class="text-[7px] text-gray-500 mt-0.5">Settings</span>
                             </div>
                         </div>
                     </div>
