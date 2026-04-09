@@ -1,0 +1,1473 @@
+{
+  "schemaVersion": 1,
+  "publishedAt": "2026-04-09T13:01:45.150932Z",
+  "sourceFetchedAt": "2026-04-09T13:05:15.019622Z",
+  "sourceStatus": "ok",
+  "sourceURLs": [
+    "https://ev.or.kr/nportal/buySupprt/initPsLocalCarPirceAction.do"
+  ],
+  "payload": {
+    "availableYears": [
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ],
+    "regions": [
+      {
+        "year": 2026,
+        "carType": "12",
+        "province": "서울",
+        "name": "서울특별시",
+        "localCode": "1100",
+        "summaryText": "승용 842\n\n경·소형 637\n초소형 494\n\n\n소형 1,935\n소형 3,816\n\n중형 10,806\n\n대형 14,069",
+        "sourceURL": "https://ev.or.kr/nportal/buySupprt/initPsLocalCarPirceAction.do"
+      },
+      {
+        "year": 2026,
+        "carType": "12",
+        "province": "부산",
+        "name": "부산광역시",
+        "localCode": "2600",
+        "summaryText": "승용 842\n\n경·소형 637\n초소형 495\n\n\n소형 1,915\n소형 3,816\n\n중형 10,806\n\n대형 14,389",
+        "sourceURL": "https://ev.or.kr/nportal/buySupprt/initPsLocalCarPirceAction.do"
+      },
+      {
+        "year": 2026,
+        "carType": "12",
+        "province": "대구",
+        "name": "대구광역시",
+        "localCode": "2700",
+        "summaryText": "승용 842\n\n경·소형 637\n초소형 494\n\n\n소형 1,885\n중형 10,806",
+        "sourceURL": "https://ev.or.kr/nportal/buySupprt/initPsLocalCarPirceAction.do"
+      },
+      {
+        "year": 2026,
+        "carType": "12",
+        "province": "인천",
+        "name": "인천광역시",
+        "localCode": "2800",
+        "summaryText": "승용 842\n\n경·소형 637\n초소형 380\n\n\n소형 1,885\n소형 3,816\n\n중형 10,806\n\n대형 14,389",
+        "sourceURL": "https://ev.or.kr/nportal/buySupprt/initPsLocalCarPirceAction.do"
+      },
+      {
+        "year": 2026,
+        "carType": "12",
+        "province": "광주",
+        "name": "광주광역시",
+        "localCode": "2900",
+        "summaryText": "승용 842\n\n경·소형 637\n초소형 380\n\n\n소형 1,885\n중형 10,806",
+        "sourceURL": "https://ev.or.kr/nportal/buySupprt/initPsLocalCarPirceAction.do"
+      },
+      {
+        "year": 2026,
+        "carType": "12",
+        "province": "대전",
+        "name": "대전광역시",
+        "localCode": "3000",
+        "summaryText": "승용 842\n\n경·소형 637\n소형 1,885\n소형 3,816\n\n중형 10,806\n\n대형 14,389",
+        "sourceURL": "https://ev.or.kr/nportal/buySupprt/initPsLocalCarPirceAction.do"
+      },
+      {
+        "year": 2026,
+        "carType": "12",
+        "province": "울산",
+        "name": "울산광역시",
+        "localCode": "3100",
+        "summaryText": "승용 842\n\n경·소형 637\n초소형 494\n\n\n소형 1,885\n소형 3,816\n\n중형 10,806\n\n대형 13,988",
+        "sourceURL": "https://ev.or.kr/nportal/buySupprt/initPsLocalCarPirceAction.do"
+      },
+      {
+        "year": 2026,
+        "carType": "12",
+        "province": "세종",
+        "name": "세종특별자치시",
+        "localCode": "3611",
+        "summaryText": "승용 842\n\n경·소형 637\n초소형 380\n\n\n소형 1,885\n소형 3,587\n\n중형 10,156\n\n대형 14,389",
+        "sourceURL": "https://ev.or.kr/nportal/buySupprt/initPsLocalCarPirceAction.do"
+      },
+      {
+        "year": 2026,
+        "carType": "12",
+        "province": "경기",
+        "name": "수원시",
+        "localCode": "4111",
+        "summaryText": "승용 918\n\n경·소형 694\n초소형 532\n\n\n소형 2,030\n소형 4,081\n\n중형 11,555\n\n대형 14,389",
+        "sourceURL": "https://ev.or.kr/nportal/buySupprt/initPsLocalCarPirceAction.do"
+      },
+      {
+        "year": 2026,
+        "carType": "12",
+        "province": "경기",
+        "name": "성남시",
+        "localCode": "4113",
+        "summaryText": "승용 939\n\n경·소형 710\n초소형 380\n\n\n소형 2,030\n소형 2,936\n\n중형 8,313\n\n대형 14,389",
+        "sourceURL": "https://ev.or.kr/nportal/buySupprt/initPsLocalCarPirceAction.do"
+      },
+      {
+        "year": 2026,
+        "carType": "12",
+        "province": "경기",
+        "name": "의정부시",
+        "localCode": "4115",
+        "summaryText": "승용 885\n\n경·소형 669\n초소형 380\n\n\n소형 1,972\n소형 3,816\n\n중형 10,806\n\n대형 11,220",
+        "sourceURL": "https://ev.or.kr/nportal/buySupprt/initPsLocalCarPirceAction.do"
+      },
+      {
+        "year": 2026,
+        "carType": "12",
+        "province": "경기",
+        "name": "안양시",
+        "localCode": "4117",
+        "summaryText": "승용 923\n\n경·소형 698\n초소형 541\n\n\n소형 2,066\n소형 4,080\n\n중형 11,554\n\n대형 14,389",
+        "sourceURL": "https://ev.or.kr/nportal/buySupprt/initPsLocalCarPirceAction.do"
+      },
+      {
+        "year": 2026,
+        "carType": "12",
+        "province": "경기",
+        "name": "부천시",
+        "localCode": "4119",
+        "summaryText": "승용 842\n\n경·소형 637\n초소형 494\n\n\n소형 1,885",
+        "sourceURL": "https://ev.or.kr/nportal/buySupprt/initPsLocalCarPirceAction.do"
+      },
+      {
+        "year": 2026,
+        "carType": "12",
+        "province": "경기",
+        "name": "광명시",
+        "localCode": "4121",
+        "summaryText": "승용 1,101\n\n경·소형 833\n소형 2,276",
+        "sourceURL": "https://ev.or.kr/nportal/buySupprt/initPsLocalCarPirceAction.do"
+      },
+      {
+        "year": 2026,
+        "carType": "12",
+        "province": "경기",
+        "name": "평택시",
+        "localCode": "4122",
+        "summaryText": "승용 972\n\n경·소형 735\n초소형 589\n\n\n소형 2,247\n중형 11,045\n\n대형 14,389",
+        "sourceURL": "https://ev.or.kr/nportal/buySupprt/initPsLocalCarPirceAction.do"
+      },
+      {
+        "year": 2026,
+        "carType": "12",
+        "province": "경기",
+        "name": "동두천시",
+        "localCode": "4125",
+        "summaryText": "승용 1,010\n\n경·소형 764\n초소형 380\n\n\n소형 2,175\n소형 3,816\n\n중형 10,806\n\n대형 14,389",
+        "sourceURL": "https://ev.or.kr/nportal/buySupprt/initPsLocalCarPirceAction.do"
+      },
+      {
+        "year": 2026,
+        "carType": "12",
+        "province": "경기",
+        "name": "안산시",
+        "localCode": "4127",
+        "summaryText": "승용 907\n\n경·소형 686\n초소형 551\n\n\n소형 2,102",
+        "sourceURL": "https://ev.or.kr/nportal/buySupprt/initPsLocalCarPirceAction.do"
+      },
+      {
+        "year": 2026,
+        "carType": "12",
+        "province": "경기",
+        "name": "고양시",
+        "localCode": "4128",
+        "summaryText": "승용 907\n\n경·소형 686\n초소형 494\n\n\n소형 1,885\n소형 4,080\n\n중형 11,553\n\n대형 14,390",
+        "sourceURL": "https://ev.or.kr/nportal/buySupprt/initPsLocalCarPirceAction.do"
+      },
+      {
+        "year": 2026,
+        "carType": "12",
+        "province": "경기",
+        "name": "과천시",
+        "localCode": "4129",
+        "summaryText": "승용 972\n\n경·소형 735\n소형 2,320\n소형 2,936\n\n중형 8,313\n\n대형 11,069",
+        "sourceURL": "https://ev.or.kr/nportal/buySupprt/initPsLocalCarPirceAction.do"
+      },
+      {
+        "year": 2026,
+        "carType": "12",
+        "province": "경기",
+        "name": "구리시",
+        "localCode": "4131",
+        "summaryText": "승용 972\n\n경·소형 735\n초소형 570\n\n\n소형 2,175\n중형 10,806",
+        "sourceURL": "https://ev.or.kr/nportal/buySupprt/initPsLocalCarPirceAction.do"
+      },
+      {
+        "year": 2026,
+        "carType": "12",
+        "province": "경기",
+        "name": "남양주시",
+        "localCode": "4136",
+        "summaryText": "승용 842\n\n경·소형 637\n초소형 380\n\n\n소형 1,885\n소형 3,816\n\n중형 10,806\n\n대형 14,389",
+        "sourceURL": "https://ev.or.kr/nportal/buySupprt/initPsLocalCarPirceAction.do"
+      },
+      {
+        "year": 2026,
+        "carType": "12",
+        "province": "경기",
+        "name": "오산시",
+        "localCode": "4137",
+        "summaryText": "승용 950\n\n경·소형 718\n초소형 380\n\n\n소형 2,117\n소형 4,080\n\n중형 11,554\n\n대형 14,389",
+        "sourceURL": "https://ev.or.kr/nportal/buySupprt/initPsLocalCarPirceAction.do"
+      },
+      {
+        "year": 2026,
+        "carType": "12",
+        "province": "경기",
+        "name": "시흥시",
+        "localCode": "4139",
+        "summaryText": "승용 907\n\n경·소형 686\n초소형 532\n\n\n소형 2,030\n소형 4,082\n\n중형 11,556\n\n대형 14,390",
+        "sourceURL": "https://ev.or.kr/nportal/buySupprt/initPsLocalCarPirceAction.do"
+      },
+      {
+        "year": 2026,
+        "carType": "12",
+        "province": "경기",
+        "name": "군포시",
+        "localCode": "4141",
+        "summaryText": "승용 961\n\n경·소형 726\n초소형 554\n\n\n소형 2,117\n대형 14,389",
+        "sourceURL": "https://ev.or.kr/nportal/buySupprt/initPsLocalCarPirceAction.do"
+      },
+      {
+        "year": 2026,
+        "carType": "12",
+        "province": "경기",
+        "name": "의왕시",
+        "localCode": "4143",
+        "summaryText": "승용 972\n\n경·소형 735\n초소형 380\n\n\n소형 2,102",
+        "sourceURL": "https://ev.or.kr/nportal/buySupprt/initPsLocalCarPirceAction.do"
+      },
+      {
+        "year": 2026,
+        "carType": "12",
+        "province": "경기",
+        "name": "하남시",
+        "localCode": "4145",
+        "summaryText": "승용 842\n\n경·소형 637\n초소형 494\n\n\n소형 1,885\n소형 3,816\n\n중형 10,806\n\n대형 14,389",
+        "sourceURL": "https://ev.or.kr/nportal/buySupprt/initPsLocalCarPirceAction.do"
+      },
+      {
+        "year": 2026,
+        "carType": "12",
+        "province": "경기",
+        "name": "용인시",
+        "localCode": "4146",
+        "summaryText": "승용 928\n\n경·소형 702\n초소형 532\n\n\n소형 2,030\n중형 11,555\n\n대형 14,390",
+        "sourceURL": "https://ev.or.kr/nportal/buySupprt/initPsLocalCarPirceAction.do"
+      },
+      {
+        "year": 2026,
+        "carType": "12",
+        "province": "경기",
+        "name": "파주시",
+        "localCode": "4148",
+        "summaryText": "승용 972\n\n경·소형 735\n초소형 570\n\n\n소형 2,175\n중형 11,555\n\n대형 14,390",
+        "sourceURL": "https://ev.or.kr/nportal/buySupprt/initPsLocalCarPirceAction.do"
+      },
+      {
+        "year": 2026,
+        "carType": "12",
+        "province": "경기",
+        "name": "이천시",
+        "localCode": "4150",
+        "summaryText": "승용 972\n\n경·소형 735\n초소형 570\n\n\n소형 2,175\n소형 4,081\n\n중형 11,555\n\n대형 14,389",
+        "sourceURL": "https://ev.or.kr/nportal/buySupprt/initPsLocalCarPirceAction.do"
+      },
+      {
+        "year": 2026,
+        "carType": "12",
+        "province": "경기",
+        "name": "안성시",
+        "localCode": "4155",
+        "summaryText": "승용 1,036\n\n경·소형 784\n초소형 380\n\n\n소형 2,175\n중형 11,554",
+        "sourceURL": "https://ev.or.kr/nportal/buySupprt/initPsLocalCarPirceAction.do"
+      },
+      {
+        "year": 2026,
+        "carType": "12",
+        "province": "경기",
+        "name": "김포시",
+        "localCode": "4157",
+        "summaryText": "승용 907\n\n경·소형 686\n초소형 380\n\n\n소형 2,030\n중형 10,806",
+        "sourceURL": "https://ev.or.kr/nportal/buySupprt/initPsLocalCarPirceAction.do"
+      },
+      {
+        "year": 2026,
+        "carType": "12",
+        "province": "경기",
+        "name": "화성시",
+        "localCode": "4159",
+        "summaryText": "승용 864\n\n경·소형 653\n초소형 380\n\n\n소형 2,102\n소형 3,816\n\n중형 10,806\n\n대형 14,389",
+        "sourceURL": "https://ev.or.kr/nportal/buySupprt/initPsLocalCarPirceAction.do"
+      },
+      {
+        "year": 2026,
+        "carType": "12",
+        "province": "경기",
+        "name": "광주시",
+        "localCode": "4161",
+        "summaryText": "승용 842\n\n경·소형 637\n초소형 532\n\n\n소형 2,030\n소형 3,816\n\n중형 10,806\n\n대형 14,390",
+        "sourceURL": "https://ev.or.kr/nportal/buySupprt/initPsLocalCarPirceAction.do"
+      },
+      {
+        "year": 2026,
+        "carType": "12",
+        "province": "경기",
+        "name": "양주시",
+        "localCode": "4163",
+        "summaryText": "승용 918\n\n경·소형 694\n초소형 380\n\n\n소형 2,175\n중형 10,806\n\n대형 17,710",
+        "sourceURL": "https://ev.or.kr/nportal/buySupprt/initPsLocalCarPirceAction.do"
+      },
+      {
+        "year": 2026,
+        "carType": "12",
+        "province": "경기",
+        "name": "포천시",
+        "localCode": "4165",
+        "summaryText": "승용 907\n\n경·소형 686\n초소형 570\n\n\n소형 2,175\n소형 2,936\n\n중형 8,313\n\n대형 14,389",
+        "sourceURL": "https://ev.or.kr/nportal/buySupprt/initPsLocalCarPirceAction.do"
+      },
+      {
+        "year": 2026,
+        "carType": "12",
+        "province": "경기",
+        "name": "여주시",
+        "localCode": "4167",
+        "summaryText": "승용 1,094\n\n경·소형 859\n초소형 646\n\n\n소형 2,465\n중형 10,871",
+        "sourceURL": "https://ev.or.kr/nportal/buySupprt/initPsLocalCarPirceAction.do"
+      },
+      {
+        "year": 2026,
+        "carType": "12",
+        "province": "경기",
+        "name": "연천군",
+        "localCode": "4180",
+        "summaryText": "승용 1,263\n\n경·소형 955\n초소형 380\n\n\n소형 2,392\n소형 3,816",
+        "sourceURL": "https://ev.or.kr/nportal/buySupprt/initPsLocalCarPirceAction.do"
+      },
+      {
+        "year": 2026,
+        "carType": "12",
+        "province": "경기",
+        "name": "가평군",
+        "localCode": "4182",
+        "summaryText": "승용 1,080\n\n경·소형 816\n소형 2,262\n중형 10,806\n\n대형 14,389",
+        "sourceURL": "https://ev.or.kr/nportal/buySupprt/initPsLocalCarPirceAction.do"
+      },
+      {
+        "year": 2026,
+        "carType": "12",
+        "province": "경기",
+        "name": "양평군",
+        "localCode": "4183",
+        "summaryText": "승용 1,080\n\n경·소형 816\n초소형 646\n\n\n소형 2,465\n소형 4,081\n\n중형 11,555\n\n대형 14,389",
+        "sourceURL": "https://ev.or.kr/nportal/buySupprt/initPsLocalCarPirceAction.do"
+      },
+      {
+        "year": 2026,
+        "carType": "12",
+        "province": "강원",
+        "name": "춘천시",
+        "localCode": "4211",
+        "summaryText": "승용 972\n\n경·소형 735\n초소형 608\n\n\n소형 2,030\n소형 5,284\n\n중형 13,633\n\n대형 19,924",
+        "sourceURL": "https://ev.or.kr/nportal/buySupprt/initPsLocalCarPirceAction.do"
+      },
+      {
+        "year": 2026,
+        "carType": "12",
+        "province": "강원",
+        "name": "원주시",
+        "localCode": "4213",
+        "summaryText": "승용 972\n\n경·소형 735\n초소형 380\n\n\n소형 2,030\n중형 13,633",
+        "sourceURL": "https://ev.or.kr/nportal/buySupprt/initPsLocalCarPirceAction.do"
+      },
+      {
+        "year": 2026,
+        "carType": "12",
+        "province": "강원",
+        "name": "강릉시",
+        "localCode": "4215",
+        "summaryText": "승용 972\n\n경·소형 735\n초소형 608\n\n\n소형 2,030\n중형 13,633",
+        "sourceURL": "https://ev.or.kr/nportal/buySupprt/initPsLocalCarPirceAction.do"
+      },
+      {
+        "year": 2026,
+        "carType": "12",
+        "province": "강원",
+        "name": "동해시",
+        "localCode": "4217",
+        "summaryText": "승용 972\n\n경·소형 735\n초소형 608\n\n\n소형 2,030\n소형 5,284\n\n중형 13,633\n\n대형 19,924",
+        "sourceURL": "https://ev.or.kr/nportal/buySupprt/initPsLocalCarPirceAction.do"
+      },
+      {
+        "year": 2026,
+        "carType": "12",
+        "province": "강원",
+        "name": "태백시",
+        "localCode": "4219",
+        "summaryText": "승용 972\n\n경·소형 735\n초소형 608\n\n\n소형 2,030",
+        "sourceURL": "https://ev.or.kr/nportal/buySupprt/initPsLocalCarPirceAction.do"
+      },
+      {
+        "year": 2026,
+        "carType": "12",
+        "province": "강원",
+        "name": "속초시",
+        "localCode": "4221",
+        "summaryText": "승용 972\n\n경·소형 735\n초소형 608\n\n\n소형 2,030\n소형 5,284\n\n중형 13,633\n\n대형 19,924",
+        "sourceURL": "https://ev.or.kr/nportal/buySupprt/initPsLocalCarPirceAction.do"
+      },
+      {
+        "year": 2026,
+        "carType": "12",
+        "province": "강원",
+        "name": "삼척시",
+        "localCode": "4223",
+        "summaryText": "승용 972\n\n경·소형 735\n초소형 608\n\n\n소형 2,030\n소형 5,284\n\n중형 13,633\n\n대형 19,924",
+        "sourceURL": "https://ev.or.kr/nportal/buySupprt/initPsLocalCarPirceAction.do"
+      },
+      {
+        "year": 2026,
+        "carType": "12",
+        "province": "강원",
+        "name": "홍천군",
+        "localCode": "4272",
+        "summaryText": "승용 972\n\n경·소형 735\n초소형 608\n\n\n소형 2,030\n소형 5,284\n\n중형 13,633\n\n대형 11,069",
+        "sourceURL": "https://ev.or.kr/nportal/buySupprt/initPsLocalCarPirceAction.do"
+      },
+      {
+        "year": 2026,
+        "carType": "12",
+        "province": "강원",
+        "name": "횡성군",
+        "localCode": "4273",
+        "summaryText": "승용 972\n\n경·소형 735\n초소형 608\n\n\n소형 2,030",
+        "sourceURL": "https://ev.or.kr/nportal/buySupprt/initPsLocalCarPirceAction.do"
+      },
+      {
+        "year": 2026,
+        "carType": "12",
+        "province": "강원",
+        "name": "영월군",
+        "localCode": "4275",
+        "summaryText": "승용 972\n\n경·소형 735\n초소형 608\n\n\n소형 2,030\n소형 5,284\n\n중형 13,633\n\n대형 19,924",
+        "sourceURL": "https://ev.or.kr/nportal/buySupprt/initPsLocalCarPirceAction.do"
+      },
+      {
+        "year": 2026,
+        "carType": "12",
+        "province": "강원",
+        "name": "평창군",
+        "localCode": "4276",
+        "summaryText": "승용 972\n\n경·소형 735\n초소형 608\n\n\n소형 2,030\n소형 2,936\n\n중형 8,313\n\n대형 19,924",
+        "sourceURL": "https://ev.or.kr/nportal/buySupprt/initPsLocalCarPirceAction.do"
+      },
+      {
+        "year": 2026,
+        "carType": "12",
+        "province": "강원",
+        "name": "정선군",
+        "localCode": "4277",
+        "summaryText": "승용 972\n\n경·소형 735\n초소형 608\n\n\n소형 2,030",
+        "sourceURL": "https://ev.or.kr/nportal/buySupprt/initPsLocalCarPirceAction.do"
+      },
+      {
+        "year": 2026,
+        "carType": "12",
+        "province": "강원",
+        "name": "철원군",
+        "localCode": "4278",
+        "summaryText": "승용 972\n\n경·소형 735\n초소형 608\n\n\n소형 2,030\n소형 5,284\n\n중형 13,633\n\n대형 19,924",
+        "sourceURL": "https://ev.or.kr/nportal/buySupprt/initPsLocalCarPirceAction.do"
+      },
+      {
+        "year": 2026,
+        "carType": "12",
+        "province": "강원",
+        "name": "화천군",
+        "localCode": "4279",
+        "summaryText": "승용 972\n\n경·소형 735\n초소형 608\n\n\n소형 2,030",
+        "sourceURL": "https://ev.or.kr/nportal/buySupprt/initPsLocalCarPirceAction.do"
+      },
+      {
+        "year": 2026,
+        "carType": "12",
+        "province": "강원",
+        "name": "양구군",
+        "localCode": "4280",
+        "summaryText": "승용 972\n\n경·소형 735\n초소형 608\n\n\n소형 2,030\n소형 2,936\n\n중형 12,770\n\n대형 11,069",
+        "sourceURL": "https://ev.or.kr/nportal/buySupprt/initPsLocalCarPirceAction.do"
+      },
+      {
+        "year": 2026,
+        "carType": "12",
+        "province": "강원",
+        "name": "인제군",
+        "localCode": "4281",
+        "summaryText": "승용 972\n\n경·소형 735\n초소형 608\n\n\n소형 2,030\n소형 5,284\n\n중형 8,313\n\n대형 11,069",
+        "sourceURL": "https://ev.or.kr/nportal/buySupprt/initPsLocalCarPirceAction.do"
+      },
+      {
+        "year": 2026,
+        "carType": "12",
+        "province": "강원",
+        "name": "고성군",
+        "localCode": "4282",
+        "summaryText": "승용 972\n\n경·소형 735\n초소형 608\n\n\n소형 2,030\n소형 5,284\n\n중형 13,633\n\n대형 11,069",
+        "sourceURL": "https://ev.or.kr/nportal/buySupprt/initPsLocalCarPirceAction.do"
+      },
+      {
+        "year": 2026,
+        "carType": "12",
+        "province": "강원",
+        "name": "양양군",
+        "localCode": "4283",
+        "summaryText": "승용 972\n\n경·소형 735\n초소형 608\n\n\n소형 2,030",
+        "sourceURL": "https://ev.or.kr/nportal/buySupprt/initPsLocalCarPirceAction.do"
+      },
+      {
+        "year": 2026,
+        "carType": "12",
+        "province": "충북",
+        "name": "청주시",
+        "localCode": "4311",
+        "summaryText": "승용 1,296\n\n경·소형 980\n초소형 380\n\n\n소형 2,416\n소형 4,194\n\n중형 11,876\n\n대형 15,813",
+        "sourceURL": "https://ev.or.kr/nportal/buySupprt/initPsLocalCarPirceAction.do"
+      },
+      {
+        "year": 2026,
+        "carType": "12",
+        "province": "충북",
+        "name": "충주시",
+        "localCode": "4313",
+        "summaryText": "승용 1,296\n\n경·소형 980\n소형 2,416\n소형 4,194\n\n중형 11,876\n\n대형 11,069",
+        "sourceURL": "https://ev.or.kr/nportal/buySupprt/initPsLocalCarPirceAction.do"
+      },
+      {
+        "year": 2026,
+        "carType": "12",
+        "province": "충북",
+        "name": "제천시",
+        "localCode": "4315",
+        "summaryText": "승용 1,296\n\n경·소형 980\n초소형 380\n\n\n소형 2,416\n소형 4,194\n\n중형 11,876",
+        "sourceURL": "https://ev.or.kr/nportal/buySupprt/initPsLocalCarPirceAction.do"
+      },
+      {
+        "year": 2026,
+        "carType": "12",
+        "province": "충북",
+        "name": "보은군",
+        "localCode": "4372",
+        "summaryText": "승용 1,296\n\n경·소형 980\n초소형 633\n\n\n소형 2,416",
+        "sourceURL": "https://ev.or.kr/nportal/buySupprt/initPsLocalCarPirceAction.do"
+      },
+      {
+        "year": 2026,
+        "carType": "12",
+        "province": "충북",
+        "name": "옥천군",
+        "localCode": "4373",
+        "summaryText": "승용 1,296\n\n경·소형 980\n초소형 380\n\n\n소형 2,416\n소형 2,936\n\n중형 8,313\n\n대형 11,069",
+        "sourceURL": "https://ev.or.kr/nportal/buySupprt/initPsLocalCarPirceAction.do"
+      },
+      {
+        "year": 2026,
+        "carType": "12",
+        "province": "충북",
+        "name": "증평군",
+        "localCode": "43745",
+        "summaryText": "승용 1,296\n\n경·소형 980\n초소형 633\n\n\n소형 2,416\n소형 4,194\n\n중형 11,876\n\n대형 15,813",
+        "sourceURL": "https://ev.or.kr/nportal/buySupprt/initPsLocalCarPirceAction.do"
+      },
+      {
+        "year": 2026,
+        "carType": "12",
+        "province": "충북",
+        "name": "영동군",
+        "localCode": "4374",
+        "summaryText": "승용 1,296\n\n경·소형 980\n초소형 633\n\n\n소형 2,416\n소형 4,194\n\n중형 11,876\n\n대형 15,813",
+        "sourceURL": "https://ev.or.kr/nportal/buySupprt/initPsLocalCarPirceAction.do"
+      },
+      {
+        "year": 2026,
+        "carType": "12",
+        "province": "충북",
+        "name": "진천군",
+        "localCode": "4375",
+        "summaryText": "승용 1,296\n\n경·소형 980\n초소형 380\n\n\n소형 2,416\n소형 2,936\n\n중형 11,806\n\n대형 11,069",
+        "sourceURL": "https://ev.or.kr/nportal/buySupprt/initPsLocalCarPirceAction.do"
+      },
+      {
+        "year": 2026,
+        "carType": "12",
+        "province": "충북",
+        "name": "괴산군",
+        "localCode": "4376",
+        "summaryText": "승용 1,296\n\n경·소형 980\n초소형 380\n\n\n소형 2,416",
+        "sourceURL": "https://ev.or.kr/nportal/buySupprt/initPsLocalCarPirceAction.do"
+      },
+      {
+        "year": 2026,
+        "carType": "12",
+        "province": "충북",
+        "name": "음성군",
+        "localCode": "4377",
+        "summaryText": "승용 1,296\n\n경·소형 980\n소형 2,416\n소형 2,936\n\n중형 8,313\n\n대형 15,813",
+        "sourceURL": "https://ev.or.kr/nportal/buySupprt/initPsLocalCarPirceAction.do"
+      },
+      {
+        "year": 2026,
+        "carType": "12",
+        "province": "충북",
+        "name": "단양군",
+        "localCode": "4380",
+        "summaryText": "승용 1,296\n\n경·소형 980\n초소형 633\n\n\n소형 2,416\n소형 2,936\n\n중형 11,876\n\n대형 11,069",
+        "sourceURL": "https://ev.or.kr/nportal/buySupprt/initPsLocalCarPirceAction.do"
+      },
+      {
+        "year": 2026,
+        "carType": "12",
+        "province": "충남",
+        "name": "천안시",
+        "localCode": "4413",
+        "summaryText": "승용 1,248\n\n경·소형 953\n초소형 520\n\n\n소형 2,250\n소형 5,999\n\n중형 16,978\n\n대형 21,069",
+        "sourceURL": "https://ev.or.kr/nportal/buySupprt/initPsLocalCarPirceAction.do"
+      },
+      {
+        "year": 2026,
+        "carType": "12",
+        "province": "충남",
+        "name": "공주시",
+        "localCode": "4415",
+        "summaryText": "승용 1,248\n\n경·소형 953\n초소형 520\n\n\n소형 2,250\n중형 16,978\n\n대형 21,069",
+        "sourceURL": "https://ev.or.kr/nportal/buySupprt/initPsLocalCarPirceAction.do"
+      },
+      {
+        "year": 2026,
+        "carType": "12",
+        "province": "충남",
+        "name": "보령시",
+        "localCode": "4418",
+        "summaryText": "승용 1,248\n\n경·소형 953\n초소형 520\n\n\n소형 2,250\n소형 5,999\n\n중형 16,978\n\n대형 21,069",
+        "sourceURL": "https://ev.or.kr/nportal/buySupprt/initPsLocalCarPirceAction.do"
+      },
+      {
+        "year": 2026,
+        "carType": "12",
+        "province": "충남",
+        "name": "아산시",
+        "localCode": "4420",
+        "summaryText": "승용 1,248\n\n경·소형 953\n초소형 520\n\n\n소형 2,250\n소형 5,999\n\n중형 16,978\n\n대형 21,069",
+        "sourceURL": "https://ev.or.kr/nportal/buySupprt/initPsLocalCarPirceAction.do"
+      },
+      {
+        "year": 2026,
+        "carType": "12",
+        "province": "충남",
+        "name": "서산시",
+        "localCode": "4421",
+        "summaryText": "승용 1,248\n\n경·소형 953\n초소형 520\n\n\n소형 2,250\n소형 5,999\n\n중형 16,978\n\n대형 21,069",
+        "sourceURL": "https://ev.or.kr/nportal/buySupprt/initPsLocalCarPirceAction.do"
+      },
+      {
+        "year": 2026,
+        "carType": "12",
+        "province": "충남",
+        "name": "논산시",
+        "localCode": "4423",
+        "summaryText": "승용 1,248\n\n경·소형 953\n초소형 520\n\n\n소형 2,250\n소형 2,936\n\n중형 8,313\n\n대형 21,069",
+        "sourceURL": "https://ev.or.kr/nportal/buySupprt/initPsLocalCarPirceAction.do"
+      },
+      {
+        "year": 2026,
+        "carType": "12",
+        "province": "충남",
+        "name": "계룡시",
+        "localCode": "4425",
+        "summaryText": "승용 1,248\n\n경·소형 953\n초소형 520\n\n\n소형 2,250\n소형 3,432\n\n중형 12,000\n\n대형 11,069",
+        "sourceURL": "https://ev.or.kr/nportal/buySupprt/initPsLocalCarPirceAction.do"
+      },
+      {
+        "year": 2026,
+        "carType": "12",
+        "province": "충남",
+        "name": "당진시",
+        "localCode": "4427",
+        "summaryText": "승용 1,248\n\n경·소형 953\n초소형 520\n\n\n소형 2,250\n소형 5,999\n\n중형 16,978\n\n대형 21,069",
+        "sourceURL": "https://ev.or.kr/nportal/buySupprt/initPsLocalCarPirceAction.do"
+      },
+      {
+        "year": 2026,
+        "carType": "12",
+        "province": "충남",
+        "name": "금산군",
+        "localCode": "4471",
+        "summaryText": "승용 1,248\n\n경·소형 953\n초소형 520\n\n\n소형 2,250",
+        "sourceURL": "https://ev.or.kr/nportal/buySupprt/initPsLocalCarPirceAction.do"
+      },
+      {
+        "year": 2026,
+        "carType": "12",
+        "province": "충남",
+        "name": "부여군",
+        "localCode": "4476",
+        "summaryText": "승용 1,248\n\n경·소형 953\n초소형 520\n\n\n소형 2,250\n소형 2,936\n\n중형 8,313\n\n대형 11,069",
+        "sourceURL": "https://ev.or.kr/nportal/buySupprt/initPsLocalCarPirceAction.do"
+      },
+      {
+        "year": 2026,
+        "carType": "12",
+        "province": "충남",
+        "name": "서천군",
+        "localCode": "4477",
+        "summaryText": "승용 1,248\n\n경·소형 953\n초소형 520\n\n\n소형 2,250\n소형 5,997\n\n중형 16,978\n\n대형 21,069",
+        "sourceURL": "https://ev.or.kr/nportal/buySupprt/initPsLocalCarPirceAction.do"
+      },
+      {
+        "year": 2026,
+        "carType": "12",
+        "province": "충남",
+        "name": "청양군",
+        "localCode": "4479",
+        "summaryText": "승용 1,248\n\n경·소형 953\n초소형 520\n\n\n소형 2,250",
+        "sourceURL": "https://ev.or.kr/nportal/buySupprt/initPsLocalCarPirceAction.do"
+      },
+      {
+        "year": 2026,
+        "carType": "12",
+        "province": "충남",
+        "name": "홍성군",
+        "localCode": "4480",
+        "summaryText": "승용 1,248\n\n경·소형 953\n초소형 520\n\n\n소형 2,250\n소형 5,997\n\n중형 16,978\n\n대형 21,069",
+        "sourceURL": "https://ev.or.kr/nportal/buySupprt/initPsLocalCarPirceAction.do"
+      },
+      {
+        "year": 2026,
+        "carType": "12",
+        "province": "충남",
+        "name": "예산군",
+        "localCode": "4481",
+        "summaryText": "승용 1,248\n\n경·소형 953\n초소형 520\n\n\n소형 2,250\n소형 2,936\n\n중형 12,000\n\n대형 11,069",
+        "sourceURL": "https://ev.or.kr/nportal/buySupprt/initPsLocalCarPirceAction.do"
+      },
+      {
+        "year": 2026,
+        "carType": "12",
+        "province": "충남",
+        "name": "태안군",
+        "localCode": "44825",
+        "summaryText": "승용 1,248\n\n경·소형 953\n초소형 520\n\n\n소형 2,250\n소형 5,997\n\n중형 16,978\n\n대형 11,069",
+        "sourceURL": "https://ev.or.kr/nportal/buySupprt/initPsLocalCarPirceAction.do"
+      },
+      {
+        "year": 2026,
+        "carType": "12",
+        "province": "전북",
+        "name": "전주시",
+        "localCode": "4511",
+        "summaryText": "승용 1,351\n\n경·소형 952\n초소형 380\n\n\n소형 2,417\n중형 16,626\n\n대형 22,138",
+        "sourceURL": "https://ev.or.kr/nportal/buySupprt/initPsLocalCarPirceAction.do"
+      },
+      {
+        "year": 2026,
+        "carType": "12",
+        "province": "전북",
+        "name": "군산시",
+        "localCode": "4513",
+        "summaryText": "승용 1,351\n\n경·소형 952\n초소형 380\n\n\n소형 2,417\n소형 5,872\n\n중형 16,626\n\n대형 11,069",
+        "sourceURL": "https://ev.or.kr/nportal/buySupprt/initPsLocalCarPirceAction.do"
+      },
+      {
+        "year": 2026,
+        "carType": "12",
+        "province": "전북",
+        "name": "익산시",
+        "localCode": "4514",
+        "summaryText": "승용 1,351\n\n경·소형 952\n초소형 380\n\n\n소형 2,417\n소형 5,872\n\n중형 16,626\n\n대형 22,138",
+        "sourceURL": "https://ev.or.kr/nportal/buySupprt/initPsLocalCarPirceAction.do"
+      },
+      {
+        "year": 2026,
+        "carType": "12",
+        "province": "전북",
+        "name": "정읍시",
+        "localCode": "4518",
+        "summaryText": "승용 1,351\n\n경·소형 952\n초소형 630\n\n\n소형 2,417\n소형 5,872\n\n중형 16,626\n\n대형 22,138",
+        "sourceURL": "https://ev.or.kr/nportal/buySupprt/initPsLocalCarPirceAction.do"
+      },
+      {
+        "year": 2026,
+        "carType": "12",
+        "province": "전북",
+        "name": "남원시",
+        "localCode": "4519",
+        "summaryText": "승용 1,351\n\n경·소형 952\n초소형 380\n\n\n소형 2,417\n소형 2,936\n\n중형 10,000\n\n대형 22,138",
+        "sourceURL": "https://ev.or.kr/nportal/buySupprt/initPsLocalCarPirceAction.do"
+      },
+      {
+        "year": 2026,
+        "carType": "12",
+        "province": "전북",
+        "name": "김제시",
+        "localCode": "4521",
+        "summaryText": "승용 1,351\n\n경·소형 952\n초소형 633\n\n\n소형 2,417",
+        "sourceURL": "https://ev.or.kr/nportal/buySupprt/initPsLocalCarPirceAction.do"
+      },
+      {
+        "year": 2026,
+        "carType": "12",
+        "province": "전북",
+        "name": "완주군",
+        "localCode": "4571",
+        "summaryText": "승용 1,351\n\n경·소형 952\n초소형 380\n\n\n소형 2,417\n소형 5,872\n\n중형 16,626\n\n대형 22,138",
+        "sourceURL": "https://ev.or.kr/nportal/buySupprt/initPsLocalCarPirceAction.do"
+      },
+      {
+        "year": 2026,
+        "carType": "12",
+        "province": "전북",
+        "name": "진안군",
+        "localCode": "4572",
+        "summaryText": "승용 1,351\n\n경·소형 952\n초소형 380\n\n\n소형 2,417\n소형 2,936\n\n중형 16,626\n\n대형 11,069",
+        "sourceURL": "https://ev.or.kr/nportal/buySupprt/initPsLocalCarPirceAction.do"
+      },
+      {
+        "year": 2026,
+        "carType": "12",
+        "province": "전북",
+        "name": "무주군",
+        "localCode": "4573",
+        "summaryText": "승용 1,351\n\n경·소형 952\n초소형 380\n\n\n소형 2,417\n소형 2,936\n\n중형 10,000\n\n대형 11,069",
+        "sourceURL": "https://ev.or.kr/nportal/buySupprt/initPsLocalCarPirceAction.do"
+      },
+      {
+        "year": 2026,
+        "carType": "12",
+        "province": "전북",
+        "name": "장수군",
+        "localCode": "4574",
+        "summaryText": "승용 1,351\n\n경·소형 952\n초소형 380\n\n\n소형 2,417",
+        "sourceURL": "https://ev.or.kr/nportal/buySupprt/initPsLocalCarPirceAction.do"
+      },
+      {
+        "year": 2026,
+        "carType": "12",
+        "province": "전북",
+        "name": "임실군",
+        "localCode": "4575",
+        "summaryText": "승용 1,351\n\n경·소형 952\n초소형 633\n\n\n소형 2,417",
+        "sourceURL": "https://ev.or.kr/nportal/buySupprt/initPsLocalCarPirceAction.do"
+      },
+      {
+        "year": 2026,
+        "carType": "12",
+        "province": "전북",
+        "name": "순창군",
+        "localCode": "4577",
+        "summaryText": "승용 1,351\n\n경·소형 952\n초소형 380\n\n\n소형 2,417",
+        "sourceURL": "https://ev.or.kr/nportal/buySupprt/initPsLocalCarPirceAction.do"
+      },
+      {
+        "year": 2026,
+        "carType": "12",
+        "province": "전북",
+        "name": "고창군",
+        "localCode": "4579",
+        "summaryText": "승용 1,351\n\n경·소형 952\n초소형 380\n\n\n소형 2,417\n소형 5,872\n\n중형 16,626\n\n대형 22,138",
+        "sourceURL": "https://ev.or.kr/nportal/buySupprt/initPsLocalCarPirceAction.do"
+      },
+      {
+        "year": 2026,
+        "carType": "12",
+        "province": "전북",
+        "name": "부안군",
+        "localCode": "4580",
+        "summaryText": "승용 1,351\n\n경·소형 952\n초소형 380\n\n\n소형 2,417\n소형 5,872\n\n중형 16,626\n\n대형 22,138",
+        "sourceURL": "https://ev.or.kr/nportal/buySupprt/initPsLocalCarPirceAction.do"
+      },
+      {
+        "year": 2026,
+        "carType": "12",
+        "province": "전남",
+        "name": "목포시",
+        "localCode": "4611",
+        "summaryText": "승용 1,101\n\n경·소형 833\n소형 1,950",
+        "sourceURL": "https://ev.or.kr/nportal/buySupprt/initPsLocalCarPirceAction.do"
+      },
+      {
+        "year": 2026,
+        "carType": "12",
+        "province": "전남",
+        "name": "여수시",
+        "localCode": "4613",
+        "summaryText": "승용 1,101\n\n경·소형 833\n초소형 532\n\n\n소형 2,030",
+        "sourceURL": "https://ev.or.kr/nportal/buySupprt/initPsLocalCarPirceAction.do"
+      },
+      {
+        "year": 2026,
+        "carType": "12",
+        "province": "전남",
+        "name": "순천시",
+        "localCode": "4615",
+        "summaryText": "승용 1,101\n\n경·소형 833\n초소형 532\n\n\n소형 2,030",
+        "sourceURL": "https://ev.or.kr/nportal/buySupprt/initPsLocalCarPirceAction.do"
+      },
+      {
+        "year": 2026,
+        "carType": "12",
+        "province": "전남",
+        "name": "나주시",
+        "localCode": "4617",
+        "summaryText": "승용 1,296\n\n경·소형 980\n초소형 570\n\n\n소형 2,175\n소형 5,116\n\n중형 13,413\n\n대형 16,169",
+        "sourceURL": "https://ev.or.kr/nportal/buySupprt/initPsLocalCarPirceAction.do"
+      },
+      {
+        "year": 2026,
+        "carType": "12",
+        "province": "전남",
+        "name": "광양시",
+        "localCode": "4623",
+        "summaryText": "승용 1,101\n\n경·소형 833\n초소형 532\n\n\n소형 2,030",
+        "sourceURL": "https://ev.or.kr/nportal/buySupprt/initPsLocalCarPirceAction.do"
+      },
+      {
+        "year": 2026,
+        "carType": "12",
+        "province": "전남",
+        "name": "담양군",
+        "localCode": "4671",
+        "summaryText": "승용 1,512\n\n경·소형 1,094\n초소형 570\n\n\n소형 2,175",
+        "sourceURL": "https://ev.or.kr/nportal/buySupprt/initPsLocalCarPirceAction.do"
+      },
+      {
+        "year": 2026,
+        "carType": "12",
+        "province": "전남",
+        "name": "곡성군",
+        "localCode": "4672",
+        "summaryText": "승용 1,296\n\n경·소형 980\n소형 2,320",
+        "sourceURL": "https://ev.or.kr/nportal/buySupprt/initPsLocalCarPirceAction.do"
+      },
+      {
+        "year": 2026,
+        "carType": "12",
+        "province": "전남",
+        "name": "구례군",
+        "localCode": "4673",
+        "summaryText": "승용 1,398\n\n경·소형 1,090\n초소형 645\n\n\n소형 2,200",
+        "sourceURL": "https://ev.or.kr/nportal/buySupprt/initPsLocalCarPirceAction.do"
+      },
+      {
+        "year": 2026,
+        "carType": "12",
+        "province": "전남",
+        "name": "고흥군",
+        "localCode": "4677",
+        "summaryText": "승용 1,620\n\n경·소형 1,143\n초소형 645\n\n\n소형 2,465",
+        "sourceURL": "https://ev.or.kr/nportal/buySupprt/initPsLocalCarPirceAction.do"
+      },
+      {
+        "year": 2026,
+        "carType": "12",
+        "province": "전남",
+        "name": "보성군",
+        "localCode": "4678",
+        "summaryText": "승용 1,620\n\n경·소형 1,225\n초소형 380\n\n\n소형 2,682",
+        "sourceURL": "https://ev.or.kr/nportal/buySupprt/initPsLocalCarPirceAction.do"
+      },
+      {
+        "year": 2026,
+        "carType": "12",
+        "province": "전남",
+        "name": "화순군",
+        "localCode": "4679",
+        "summaryText": "승용 1,296\n\n경·소형 980\n초소형 654\n\n\n소형 2,175",
+        "sourceURL": "https://ev.or.kr/nportal/buySupprt/initPsLocalCarPirceAction.do"
+      },
+      {
+        "year": 2026,
+        "carType": "12",
+        "province": "전남",
+        "name": "장흥군",
+        "localCode": "4680",
+        "summaryText": "승용 1,512\n\n경·소형 1,094\n초소형 646\n\n\n소형 2,465",
+        "sourceURL": "https://ev.or.kr/nportal/buySupprt/initPsLocalCarPirceAction.do"
+      },
+      {
+        "year": 2026,
+        "carType": "12",
+        "province": "전남",
+        "name": "강진군",
+        "localCode": "4681",
+        "summaryText": "승용 1,512\n\n경·소형 1,094\n초소형 445\n\n\n소형 2,465\n소형 2,936\n\n중형 8,313\n\n대형 19,133",
+        "sourceURL": "https://ev.or.kr/nportal/buySupprt/initPsLocalCarPirceAction.do"
+      },
+      {
+        "year": 2026,
+        "carType": "12",
+        "province": "전남",
+        "name": "해남군",
+        "localCode": "4682",
+        "summaryText": "승용 1,446\n\n경·소형 1,130\n초소형 380\n\n\n소형 2,325",
+        "sourceURL": "https://ev.or.kr/nportal/buySupprt/initPsLocalCarPirceAction.do"
+      },
+      {
+        "year": 2026,
+        "carType": "12",
+        "province": "전남",
+        "name": "영암군",
+        "localCode": "4683",
+        "summaryText": "승용 1,252\n\n경·소형 983\n초소형 711\n\n\n소형 2,615",
+        "sourceURL": "https://ev.or.kr/nportal/buySupprt/initPsLocalCarPirceAction.do"
+      },
+      {
+        "year": 2026,
+        "carType": "12",
+        "province": "전남",
+        "name": "무안군",
+        "localCode": "4684",
+        "summaryText": "승용 1,296\n\n경·소형 980\n초소형 445\n\n\n소형 2,030",
+        "sourceURL": "https://ev.or.kr/nportal/buySupprt/initPsLocalCarPirceAction.do"
+      },
+      {
+        "year": 2026,
+        "carType": "12",
+        "province": "전남",
+        "name": "함평군",
+        "localCode": "4686",
+        "summaryText": "승용 1,404\n\n경·소형 1,061\n초소형 380\n\n\n소형 2,175",
+        "sourceURL": "https://ev.or.kr/nportal/buySupprt/initPsLocalCarPirceAction.do"
+      },
+      {
+        "year": 2026,
+        "carType": "12",
+        "province": "전남",
+        "name": "영광군",
+        "localCode": "4687",
+        "summaryText": "승용 1,425\n\n경·소형 1,078\n초소형 608\n\n\n소형 2,320",
+        "sourceURL": "https://ev.or.kr/nportal/buySupprt/initPsLocalCarPirceAction.do"
+      },
+      {
+        "year": 2026,
+        "carType": "12",
+        "province": "전남",
+        "name": "장성군",
+        "localCode": "4688",
+        "summaryText": "승용 1,296\n\n경·소형 980\n초소형 584\n\n\n소형 2,247",
+        "sourceURL": "https://ev.or.kr/nportal/buySupprt/initPsLocalCarPirceAction.do"
+      },
+      {
+        "year": 2026,
+        "carType": "12",
+        "province": "전남",
+        "name": "완도군",
+        "localCode": "4689",
+        "summaryText": "승용 1,620\n\n경·소형 1,225\n초소형 445\n\n\n소형 2,465",
+        "sourceURL": "https://ev.or.kr/nportal/buySupprt/initPsLocalCarPirceAction.do"
+      },
+      {
+        "year": 2026,
+        "carType": "12",
+        "province": "전남",
+        "name": "진도군",
+        "localCode": "4690",
+        "summaryText": "승용 1,446\n\n경·소형 1,130\n초소형 445\n\n\n소형 2,320",
+        "sourceURL": "https://ev.or.kr/nportal/buySupprt/initPsLocalCarPirceAction.do"
+      },
+      {
+        "year": 2026,
+        "carType": "12",
+        "province": "전남",
+        "name": "신안군",
+        "localCode": "4691",
+        "summaryText": "승용 1,296\n\n경·소형 980\n초소형 445\n\n\n소형 2,320",
+        "sourceURL": "https://ev.or.kr/nportal/buySupprt/initPsLocalCarPirceAction.do"
+      },
+      {
+        "year": 2026,
+        "carType": "12",
+        "province": "경북",
+        "name": "포항시",
+        "localCode": "4711",
+        "summaryText": "승용 1,315\n\n경·소형 1,043\n초소형 596\n\n\n소형 2,277\n중형 10,843",
+        "sourceURL": "https://ev.or.kr/nportal/buySupprt/initPsLocalCarPirceAction.do"
+      },
+      {
+        "year": 2026,
+        "carType": "12",
+        "province": "경북",
+        "name": "경주시",
+        "localCode": "4713",
+        "summaryText": "승용 1,315\n\n경·소형 1,043\n초소형 596\n\n\n소형 2,277\n소형 3,830\n\n중형 10,843\n\n대형 13,169",
+        "sourceURL": "https://ev.or.kr/nportal/buySupprt/initPsLocalCarPirceAction.do"
+      },
+      {
+        "year": 2026,
+        "carType": "12",
+        "province": "경북",
+        "name": "김천시",
+        "localCode": "4715",
+        "summaryText": "승용 1,315\n\n경·소형 1,043\n초소형 596\n\n\n소형 2,277\n소형 2,936\n\n중형 9,035\n\n대형 11,258",
+        "sourceURL": "https://ev.or.kr/nportal/buySupprt/initPsLocalCarPirceAction.do"
+      },
+      {
+        "year": 2026,
+        "carType": "12",
+        "province": "경북",
+        "name": "안동시",
+        "localCode": "4717",
+        "summaryText": "승용 1,315\n\n경·소형 1,043\n초소형 596\n\n\n소형 2,277\n소형 3,830\n\n중형 10,843\n\n대형 13,169",
+        "sourceURL": "https://ev.or.kr/nportal/buySupprt/initPsLocalCarPirceAction.do"
+      },
+      {
+        "year": 2026,
+        "carType": "12",
+        "province": "경북",
+        "name": "구미시",
+        "localCode": "4719",
+        "summaryText": "승용 1,315\n\n경·소형 1,043\n초소형 596\n\n\n소형 2,277\n소형 3,830\n\n중형 10,843\n\n대형 13,169",
+        "sourceURL": "https://ev.or.kr/nportal/buySupprt/initPsLocalCarPirceAction.do"
+      },
+      {
+        "year": 2026,
+        "carType": "12",
+        "province": "경북",
+        "name": "영주시",
+        "localCode": "4721",
+        "summaryText": "승용 1,315\n\n경·소형 1,043\n초소형 596\n\n\n소형 2,277\n중형 10,843",
+        "sourceURL": "https://ev.or.kr/nportal/buySupprt/initPsLocalCarPirceAction.do"
+      },
+      {
+        "year": 2026,
+        "carType": "12",
+        "province": "경북",
+        "name": "영천시",
+        "localCode": "4723",
+        "summaryText": "승용 1,315\n\n경·소형 1,043\n초소형 596\n\n\n소형 2,277\n대형 11,069",
+        "sourceURL": "https://ev.or.kr/nportal/buySupprt/initPsLocalCarPirceAction.do"
+      },
+      {
+        "year": 2026,
+        "carType": "12",
+        "province": "경북",
+        "name": "상주시",
+        "localCode": "4725",
+        "summaryText": "승용 1,315\n\n경·소형 1,043\n초소형 596\n\n\n소형 2,277\n소형 3,830\n\n중형 10,843\n\n대형 11,069",
+        "sourceURL": "https://ev.or.kr/nportal/buySupprt/initPsLocalCarPirceAction.do"
+      },
+      {
+        "year": 2026,
+        "carType": "12",
+        "province": "경북",
+        "name": "문경시",
+        "localCode": "4728",
+        "summaryText": "승용 1,315\n\n경·소형 1,043\n초소형 596\n\n\n소형 2,277\n소형 3,830\n\n중형 10,843\n\n대형 13,169",
+        "sourceURL": "https://ev.or.kr/nportal/buySupprt/initPsLocalCarPirceAction.do"
+      },
+      {
+        "year": 2026,
+        "carType": "12",
+        "province": "경북",
+        "name": "경산시",
+        "localCode": "4729",
+        "summaryText": "승용 1,315\n\n경·소형 1,043\n초소형 596\n\n\n소형 2,277\n소형 3,830\n\n중형 10,843\n\n대형 11,069",
+        "sourceURL": "https://ev.or.kr/nportal/buySupprt/initPsLocalCarPirceAction.do"
+      },
+      {
+        "year": 2026,
+        "carType": "12",
+        "province": "경북",
+        "name": "의성군",
+        "localCode": "4773",
+        "summaryText": "승용 1,315\n\n경·소형 1,043\n초소형 596\n\n\n소형 2,277\n소형 3,830\n\n중형 10,843\n\n대형 13,169",
+        "sourceURL": "https://ev.or.kr/nportal/buySupprt/initPsLocalCarPirceAction.do"
+      },
+      {
+        "year": 2026,
+        "carType": "12",
+        "province": "경북",
+        "name": "청송군",
+        "localCode": "4775",
+        "summaryText": "승용 1,315\n\n경·소형 1,043\n초소형 596\n\n\n소형 2,277\n소형 3,830\n\n중형 10,843\n\n대형 13,169",
+        "sourceURL": "https://ev.or.kr/nportal/buySupprt/initPsLocalCarPirceAction.do"
+      },
+      {
+        "year": 2026,
+        "carType": "12",
+        "province": "경북",
+        "name": "영양군",
+        "localCode": "4776",
+        "summaryText": "승용 1,315\n\n경·소형 1,043\n초소형 596\n\n\n소형 2,277",
+        "sourceURL": "https://ev.or.kr/nportal/buySupprt/initPsLocalCarPirceAction.do"
+      },
+      {
+        "year": 2026,
+        "carType": "12",
+        "province": "경북",
+        "name": "영덕군",
+        "localCode": "4777",
+        "summaryText": "승용 1,315\n\n경·소형 1,043\n초소형 596\n\n\n소형 2,277\n소형 3,830\n\n중형 10,843\n\n대형 13,169",
+        "sourceURL": "https://ev.or.kr/nportal/buySupprt/initPsLocalCarPirceAction.do"
+      },
+      {
+        "year": 2026,
+        "carType": "12",
+        "province": "경북",
+        "name": "청도군",
+        "localCode": "4782",
+        "summaryText": "승용 1,315\n\n경·소형 1,043\n초소형 596\n\n\n소형 2,277\n소형 3,830\n\n중형 10,843\n\n대형 13,169",
+        "sourceURL": "https://ev.or.kr/nportal/buySupprt/initPsLocalCarPirceAction.do"
+      },
+      {
+        "year": 2026,
+        "carType": "12",
+        "province": "경북",
+        "name": "고령군",
+        "localCode": "4783",
+        "summaryText": "승용 1,315\n\n경·소형 1,043\n초소형 596\n\n\n소형 2,277\n소형 3,830\n\n중형 10,843\n\n대형 13,169",
+        "sourceURL": "https://ev.or.kr/nportal/buySupprt/initPsLocalCarPirceAction.do"
+      },
+      {
+        "year": 2026,
+        "carType": "12",
+        "province": "경북",
+        "name": "성주군",
+        "localCode": "4784",
+        "summaryText": "승용 1,315\n\n경·소형 1,043\n초소형 596\n\n\n소형 2,277\n소형 3,830\n\n중형 10,843\n\n대형 13,169",
+        "sourceURL": "https://ev.or.kr/nportal/buySupprt/initPsLocalCarPirceAction.do"
+      },
+      {
+        "year": 2026,
+        "carType": "12",
+        "province": "경북",
+        "name": "칠곡군",
+        "localCode": "4785",
+        "summaryText": "승용 1,315\n\n경·소형 1,043\n초소형 596\n\n\n소형 2,277\n소형 2,936",
+        "sourceURL": "https://ev.or.kr/nportal/buySupprt/initPsLocalCarPirceAction.do"
+      },
+      {
+        "year": 2026,
+        "carType": "12",
+        "province": "경북",
+        "name": "예천군",
+        "localCode": "4790",
+        "summaryText": "승용 1,315\n\n경·소형 1,043\n초소형 380\n\n\n소형 2,277",
+        "sourceURL": "https://ev.or.kr/nportal/buySupprt/initPsLocalCarPirceAction.do"
+      },
+      {
+        "year": 2026,
+        "carType": "12",
+        "province": "경북",
+        "name": "봉화군",
+        "localCode": "4792",
+        "summaryText": "승용 1,315\n\n경·소형 1,043\n초소형 596\n\n\n소형 2,277\n소형 3,830\n\n중형 10,843\n\n대형 13,169",
+        "sourceURL": "https://ev.or.kr/nportal/buySupprt/initPsLocalCarPirceAction.do"
+      },
+      {
+        "year": 2026,
+        "carType": "12",
+        "province": "경북",
+        "name": "울진군",
+        "localCode": "4793",
+        "summaryText": "승용 1,315\n\n경·소형 1,043\n초소형 596\n\n\n소형 2,277\n소형 3,830\n\n중형 10,843\n\n대형 13,169",
+        "sourceURL": "https://ev.or.kr/nportal/buySupprt/initPsLocalCarPirceAction.do"
+      },
+      {
+        "year": 2026,
+        "carType": "12",
+        "province": "경북",
+        "name": "울릉군",
+        "localCode": "4794",
+        "summaryText": "승용 1,872\n\n경·소형 1,504\n초소형 777\n\n\n소형 2,968",
+        "sourceURL": "https://ev.or.kr/nportal/buySupprt/initPsLocalCarPirceAction.do"
+      },
+      {
+        "year": 2026,
+        "carType": "12",
+        "province": "경남",
+        "name": "창원시",
+        "localCode": "4812",
+        "summaryText": "승용 843\n\n경·소형 637\n초소형 380\n\n\n소형 1,885\n소형 3,817\n\n중형 10,807\n\n대형 14,390",
+        "sourceURL": "https://ev.or.kr/nportal/buySupprt/initPsLocalCarPirceAction.do"
+      },
+      {
+        "year": 2026,
+        "carType": "12",
+        "province": "경남",
+        "name": "진주시",
+        "localCode": "4817",
+        "summaryText": "승용 843\n\n경·소형 637\n소형 1,885\n소형 3,817\n\n중형 10,807\n\n대형 14,390",
+        "sourceURL": "https://ev.or.kr/nportal/buySupprt/initPsLocalCarPirceAction.do"
+      },
+      {
+        "year": 2026,
+        "carType": "12",
+        "province": "경남",
+        "name": "통영시",
+        "localCode": "4822",
+        "summaryText": "승용 1,264\n\n경·소형 956\n초소형 589\n\n\n소형 2,248\n소형 3,817\n\n중형 10,807\n\n대형 14,390",
+        "sourceURL": "https://ev.or.kr/nportal/buySupprt/initPsLocalCarPirceAction.do"
+      },
+      {
+        "year": 2026,
+        "carType": "12",
+        "province": "경남",
+        "name": "사천시",
+        "localCode": "4824",
+        "summaryText": "승용 875\n\n경·소형 662\n초소형 513\n\n\n소형 1,958\n소형 3,817\n\n중형 10,807\n\n대형 14,390",
+        "sourceURL": "https://ev.or.kr/nportal/buySupprt/initPsLocalCarPirceAction.do"
+      },
+      {
+        "year": 2026,
+        "carType": "12",
+        "province": "경남",
+        "name": "김해시",
+        "localCode": "4825",
+        "summaryText": "승용 843\n\n경·소형 637\n초소형 494\n\n\n소형 1,885\n소형 3,817\n\n중형 10,807\n\n대형 14,390",
+        "sourceURL": "https://ev.or.kr/nportal/buySupprt/initPsLocalCarPirceAction.do"
+      },
+      {
+        "year": 2026,
+        "carType": "12",
+        "province": "경남",
+        "name": "밀양시",
+        "localCode": "4827",
+        "summaryText": "승용 908\n\n경·소형 686\n초소형 532\n\n\n소형 2,030",
+        "sourceURL": "https://ev.or.kr/nportal/buySupprt/initPsLocalCarPirceAction.do"
+      },
+      {
+        "year": 2026,
+        "carType": "12",
+        "province": "경남",
+        "name": "거제시",
+        "localCode": "4831",
+        "summaryText": "승용 875\n\n경·소형 662\n초소형 380\n\n\n소형 1,958\n소형 3,964\n\n중형 11,223\n\n대형 14,944",
+        "sourceURL": "https://ev.or.kr/nportal/buySupprt/initPsLocalCarPirceAction.do"
+      },
+      {
+        "year": 2026,
+        "carType": "12",
+        "province": "경남",
+        "name": "양산시",
+        "localCode": "4833",
+        "summaryText": "승용 842\n\n경·소형 637\n초소형 494\n\n\n소형 1,885\n소형 3,817\n\n중형 10,807\n\n대형 11,069",
+        "sourceURL": "https://ev.or.kr/nportal/buySupprt/initPsLocalCarPirceAction.do"
+      },
+      {
+        "year": 2026,
+        "carType": "12",
+        "province": "경남",
+        "name": "의령군",
+        "localCode": "4872",
+        "summaryText": "승용 843\n\n경·소형 637\n초소형 494\n\n\n소형 1,885\n소형 2,936\n\n중형 10,807\n\n대형 11,069",
+        "sourceURL": "https://ev.or.kr/nportal/buySupprt/initPsLocalCarPirceAction.do"
+      },
+      {
+        "year": 2026,
+        "carType": "12",
+        "province": "경남",
+        "name": "함안군",
+        "localCode": "4873",
+        "summaryText": "승용 843\n\n경·소형 637\n초소형 494\n\n\n소형 1,885\n소형 2,936\n\n중형 8,313\n\n대형 11,069",
+        "sourceURL": "https://ev.or.kr/nportal/buySupprt/initPsLocalCarPirceAction.do"
+      },
+      {
+        "year": 2026,
+        "carType": "12",
+        "province": "경남",
+        "name": "창녕군",
+        "localCode": "4874",
+        "summaryText": "승용 1,103\n\n경·소형 833\n초소형 570\n\n\n소형 2,175",
+        "sourceURL": "https://ev.or.kr/nportal/buySupprt/initPsLocalCarPirceAction.do"
+      },
+      {
+        "year": 2026,
+        "carType": "12",
+        "province": "경남",
+        "name": "고성군",
+        "localCode": "4882",
+        "summaryText": "승용 843\n\n경·소형 637\n소형 1,885\n중형 8,313",
+        "sourceURL": "https://ev.or.kr/nportal/buySupprt/initPsLocalCarPirceAction.do"
+      },
+      {
+        "year": 2026,
+        "carType": "12",
+        "province": "경남",
+        "name": "남해군",
+        "localCode": "4884",
+        "summaryText": "승용 843\n\n경·소형 637\n초소형 380\n\n\n소형 1,885\n소형 2,936\n\n중형 9,006\n\n대형 14,390",
+        "sourceURL": "https://ev.or.kr/nportal/buySupprt/initPsLocalCarPirceAction.do"
+      },
+      {
+        "year": 2026,
+        "carType": "12",
+        "province": "경남",
+        "name": "하동군",
+        "localCode": "4885",
+        "summaryText": "승용 843\n\n경·소형 637\n초소형 380\n\n\n소형 1,885",
+        "sourceURL": "https://ev.or.kr/nportal/buySupprt/initPsLocalCarPirceAction.do"
+      },
+      {
+        "year": 2026,
+        "carType": "12",
+        "province": "경남",
+        "name": "산청군",
+        "localCode": "4886",
+        "summaryText": "승용 843\n\n경·소형 637\n초소형 380\n\n\n소형 1,885\n소형 3,817\n\n중형 10,807\n\n대형 14,390",
+        "sourceURL": "https://ev.or.kr/nportal/buySupprt/initPsLocalCarPirceAction.do"
+      },
+      {
+        "year": 2026,
+        "carType": "12",
+        "province": "경남",
+        "name": "함양군",
+        "localCode": "4887",
+        "summaryText": "승용 894\n\n경·소형 676\n초소형 380\n\n\n소형 2,001",
+        "sourceURL": "https://ev.or.kr/nportal/buySupprt/initPsLocalCarPirceAction.do"
+      },
+      {
+        "year": 2026,
+        "carType": "12",
+        "province": "경남",
+        "name": "거창군",
+        "localCode": "4888",
+        "summaryText": "승용 1,013\n\n경·소형 789\n초소형 528\n\n\n소형 1,895\n소형 3,817\n\n중형 10,807\n\n대형 14,390",
+        "sourceURL": "https://ev.or.kr/nportal/buySupprt/initPsLocalCarPirceAction.do"
+      },
+      {
+        "year": 2026,
+        "carType": "12",
+        "province": "경남",
+        "name": "합천군",
+        "localCode": "4889",
+        "summaryText": "승용 1,363\n\n경·소형 1,088\n소형 2,245",
+        "sourceURL": "https://ev.or.kr/nportal/buySupprt/initPsLocalCarPirceAction.do"
+      },
+      {
+        "year": 2026,
+        "carType": "12",
+        "province": "제주",
+        "name": "제주특별자치도",
+        "localCode": "5000",
+        "summaryText": "승용 1,095\n\n경·소형 859\n초소형 780\n\n\n소형 2,140\n대형 17,710",
+        "sourceURL": "https://ev.or.kr/nportal/buySupprt/initPsLocalCarPirceAction.do"
+      },
+      {
+        "year": 2026,
+        "carType": "12",
+        "province": "공단",
+        "name": "한국환경공단",
+        "localCode": "9999",
+        "summaryText": "승용 648\n\n경·소형 490\n초소형 380\n\n\n소형 1,450\n소형 2,936\n\n중형 8,313\n\n대형 11,069",
+        "sourceURL": "https://ev.or.kr/nportal/buySupprt/initPsLocalCarPirceAction.do"
+      }
+    ],
+    "fetchedAt": "2026-04-09T13:05:15.019622Z"
+  }
+}

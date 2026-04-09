@@ -1,0 +1,650 @@
+{
+  "schemaVersion": 1,
+  "publishedAt": "2026-04-09T13:01:45.150932Z",
+  "sourceFetchedAt": "2026-04-09T13:09:31.518634Z",
+  "sourceStatus": "ok",
+  "sourceURLs": [
+    "https://www.ev.or.kr/nportal/buySupprt/psPopupLocalCarModelPrice.do"
+  ],
+  "payload": {
+    "region": {
+      "year": 2026,
+      "carType": "13",
+      "province": "강원",
+      "name": "철원군",
+      "localCode": "4278",
+      "summaryText": "승용 972\n\n경·소형 735\n초소형 608\n\n\n소형 2,030\n소형 5,284\n\n중형 13,633\n\n대형 19,924",
+      "sourceURL": "https://ev.or.kr/nportal/buySupprt/initPsLocalCarPirceAction.do"
+    },
+    "entries": [
+      {
+        "year": 2026,
+        "carType": "13",
+        "region": "철원군",
+        "province": "강원",
+        "localCode": "4278",
+        "vehicleClass": "승합(중형)",
+        "maker": "현대자동차",
+        "vehicle": "카운티일렉트릭(어린이버스)",
+        "trim": "기본",
+        "rawModelName": "카운티일렉트릭(어린이버스)",
+        "amounts": {
+          "national": 8313,
+          "local": 5320,
+          "total": 13633
+        },
+        "sourceURL": "https://www.ev.or.kr/nportal/buySupprt/psPopupLocalCarModelPrice.do",
+        "fetchedAt": "2026-04-09T13:09:31.518634Z"
+      },
+      {
+        "year": 2026,
+        "carType": "13",
+        "region": "철원군",
+        "province": "강원",
+        "localCode": "4278",
+        "vehicleClass": "승합(중형)",
+        "maker": "현대자동차",
+        "vehicle": "카운티일렉트릭",
+        "trim": "기본",
+        "rawModelName": "카운티일렉트릭",
+        "amounts": {
+          "national": 5000,
+          "local": 3200,
+          "total": 8200
+        },
+        "sourceURL": "https://www.ev.or.kr/nportal/buySupprt/psPopupLocalCarModelPrice.do",
+        "fetchedAt": "2026-04-09T13:09:31.518634Z"
+      },
+      {
+        "year": 2026,
+        "carType": "13",
+        "region": "철원군",
+        "province": "강원",
+        "localCode": "4278",
+        "vehicleClass": "승합(중형)",
+        "maker": "현대자동차",
+        "vehicle": "카운티일렉트릭(마을버스)",
+        "trim": "기본",
+        "rawModelName": "카운티일렉트릭(마을버스)",
+        "amounts": {
+          "national": 5000,
+          "local": 3200,
+          "total": 8200
+        },
+        "sourceURL": "https://www.ev.or.kr/nportal/buySupprt/psPopupLocalCarModelPrice.do",
+        "fetchedAt": "2026-04-09T13:09:31.518634Z"
+      },
+      {
+        "year": 2026,
+        "carType": "13",
+        "region": "철원군",
+        "province": "강원",
+        "localCode": "4278",
+        "vehicleClass": "승합(중형)",
+        "maker": "우진산전",
+        "vehicle": "아폴로700",
+        "trim": "기본",
+        "rawModelName": "아폴로700",
+        "amounts": {
+          "national": 5000,
+          "local": 3200,
+          "total": 8200
+        },
+        "sourceURL": "https://www.ev.or.kr/nportal/buySupprt/psPopupLocalCarModelPrice.do",
+        "fetchedAt": "2026-04-09T13:09:31.518634Z"
+      },
+      {
+        "year": 2026,
+        "carType": "13",
+        "region": "철원군",
+        "province": "강원",
+        "localCode": "4278",
+        "vehicleClass": "승합(중형)",
+        "maker": "한차",
+        "vehicle": "GREENWAY720",
+        "trim": "기본",
+        "rawModelName": "GREENWAY720",
+        "amounts": {
+          "national": 3870,
+          "local": 2476,
+          "total": 6346
+        },
+        "sourceURL": "https://www.ev.or.kr/nportal/buySupprt/psPopupLocalCarModelPrice.do",
+        "fetchedAt": "2026-04-09T13:09:31.518634Z"
+      },
+      {
+        "year": 2026,
+        "carType": "13",
+        "region": "철원군",
+        "province": "강원",
+        "localCode": "4278",
+        "vehicleClass": "승합(중형)",
+        "maker": "에빅오토모티브코리아",
+        "vehicle": "세레온(어린이)",
+        "trim": "기본",
+        "rawModelName": "세레온(어린이)",
+        "amounts": {
+          "national": 8264,
+          "local": 5288,
+          "total": 13552
+        },
+        "sourceURL": "https://www.ev.or.kr/nportal/buySupprt/psPopupLocalCarModelPrice.do",
+        "fetchedAt": "2026-04-09T13:09:31.518634Z"
+      },
+      {
+        "year": 2026,
+        "carType": "13",
+        "region": "철원군",
+        "province": "강원",
+        "localCode": "4278",
+        "vehicleClass": "승합(중형)",
+        "maker": "에빅오토모티브코리아",
+        "vehicle": "세레온(마을)",
+        "trim": "기본",
+        "rawModelName": "세레온(마을)",
+        "amounts": {
+          "national": 4853,
+          "local": 3105,
+          "total": 7958
+        },
+        "sourceURL": "https://www.ev.or.kr/nportal/buySupprt/psPopupLocalCarModelPrice.do",
+        "fetchedAt": "2026-04-09T13:09:31.518634Z"
+      },
+      {
+        "year": 2026,
+        "carType": "13",
+        "region": "철원군",
+        "province": "강원",
+        "localCode": "4278",
+        "vehicleClass": "승합(소형)",
+        "maker": "MTR",
+        "vehicle": "엠티알ST1어린이운송승합차(CV1KIDS)",
+        "trim": "기본",
+        "rawModelName": "엠티알ST1어린이운송승합차(CV1KIDS)",
+        "amounts": {
+          "national": 2936,
+          "local": 2348,
+          "total": 5284
+        },
+        "sourceURL": "https://www.ev.or.kr/nportal/buySupprt/psPopupLocalCarModelPrice.do",
+        "fetchedAt": "2026-04-09T13:09:31.518634Z"
+      },
+      {
+        "year": 2026,
+        "carType": "13",
+        "region": "철원군",
+        "province": "강원",
+        "localCode": "4278",
+        "vehicleClass": "승합(소형)",
+        "maker": "MTR",
+        "vehicle": "엠티알ST1승합자동차(CV1)",
+        "trim": "기본",
+        "rawModelName": "엠티알ST1승합자동차(CV1)",
+        "amounts": {
+          "national": 1471,
+          "local": 1176,
+          "total": 2647
+        },
+        "sourceURL": "https://www.ev.or.kr/nportal/buySupprt/psPopupLocalCarModelPrice.do",
+        "fetchedAt": "2026-04-09T13:09:31.518634Z"
+      },
+      {
+        "year": 2026,
+        "carType": "13",
+        "region": "철원군",
+        "province": "강원",
+        "localCode": "4278",
+        "vehicleClass": "승합(대형)",
+        "maker": "현대자동차",
+        "vehicle": "일렉시티 이층버스",
+        "trim": "기본",
+        "rawModelName": "일렉시티 이층버스",
+        "amounts": {
+          "national": 11069,
+          "local": 8855,
+          "total": 19924
+        },
+        "sourceURL": "https://www.ev.or.kr/nportal/buySupprt/psPopupLocalCarModelPrice.do",
+        "fetchedAt": "2026-04-09T13:09:31.518634Z"
+      },
+      {
+        "year": 2026,
+        "carType": "13",
+        "region": "철원군",
+        "province": "강원",
+        "localCode": "4278",
+        "vehicleClass": "승합(대형)",
+        "maker": "현대자동차",
+        "vehicle": "일렉시티(4PACKV2)",
+        "trim": "기본",
+        "rawModelName": "일렉시티(4PACKV2)",
+        "amounts": {
+          "national": 6683,
+          "local": 5346,
+          "total": 12029
+        },
+        "sourceURL": "https://www.ev.or.kr/nportal/buySupprt/psPopupLocalCarModelPrice.do",
+        "fetchedAt": "2026-04-09T13:09:31.518634Z"
+      },
+      {
+        "year": 2026,
+        "carType": "13",
+        "region": "철원군",
+        "province": "강원",
+        "localCode": "4278",
+        "vehicleClass": "승합(대형)",
+        "maker": "현대자동차",
+        "vehicle": "일렉시티(4PACKV1)",
+        "trim": "기본",
+        "rawModelName": "일렉시티(4PACKV1)",
+        "amounts": {
+          "national": 6994,
+          "local": 5595,
+          "total": 12589
+        },
+        "sourceURL": "https://www.ev.or.kr/nportal/buySupprt/psPopupLocalCarModelPrice.do",
+        "fetchedAt": "2026-04-09T13:09:31.518634Z"
+      },
+      {
+        "year": 2026,
+        "carType": "13",
+        "region": "철원군",
+        "province": "강원",
+        "localCode": "4278",
+        "vehicleClass": "승합(대형)",
+        "maker": "현대자동차",
+        "vehicle": "일렉시티타운",
+        "trim": "기본",
+        "rawModelName": "일렉시티타운",
+        "amounts": {
+          "national": 6403,
+          "local": 5122,
+          "total": 11525
+        },
+        "sourceURL": "https://www.ev.or.kr/nportal/buySupprt/psPopupLocalCarModelPrice.do",
+        "fetchedAt": "2026-04-09T13:09:31.518634Z"
+      },
+      {
+        "year": 2026,
+        "carType": "13",
+        "region": "철원군",
+        "province": "강원",
+        "localCode": "4278",
+        "vehicleClass": "승합(대형)",
+        "maker": "케이지모빌리티커머셜",
+        "vehicle": "KGC110",
+        "trim": "기본",
+        "rawModelName": "KGC110",
+        "amounts": {
+          "national": 6445,
+          "local": 5156,
+          "total": 11601
+        },
+        "sourceURL": "https://www.ev.or.kr/nportal/buySupprt/psPopupLocalCarModelPrice.do",
+        "fetchedAt": "2026-04-09T13:09:31.518634Z"
+      },
+      {
+        "year": 2026,
+        "carType": "13",
+        "region": "철원군",
+        "province": "강원",
+        "localCode": "4278",
+        "vehicleClass": "승합(대형)",
+        "maker": "케이지모빌리티커머셜",
+        "vehicle": "KGC090(27인승)",
+        "trim": "기본",
+        "rawModelName": "KGC090(27인승)",
+        "amounts": {
+          "national": 5669,
+          "local": 4535,
+          "total": 10204
+        },
+        "sourceURL": "https://www.ev.or.kr/nportal/buySupprt/psPopupLocalCarModelPrice.do",
+        "fetchedAt": "2026-04-09T13:09:31.518634Z"
+      },
+      {
+        "year": 2026,
+        "carType": "13",
+        "region": "철원군",
+        "province": "강원",
+        "localCode": "4278",
+        "vehicleClass": "승합(대형)",
+        "maker": "케이지모빌리티커머셜",
+        "vehicle": "KGC090(42인승)",
+        "trim": "기본",
+        "rawModelName": "KGC090(42인승)",
+        "amounts": {
+          "national": 6015,
+          "local": 4812,
+          "total": 10827
+        },
+        "sourceURL": "https://www.ev.or.kr/nportal/buySupprt/psPopupLocalCarModelPrice.do",
+        "fetchedAt": "2026-04-09T13:09:31.518634Z"
+      },
+      {
+        "year": 2026,
+        "carType": "13",
+        "region": "철원군",
+        "province": "강원",
+        "localCode": "4278",
+        "vehicleClass": "승합(대형)",
+        "maker": "우진산전",
+        "vehicle": "아폴로1200-S42",
+        "trim": "기본",
+        "rawModelName": "아폴로1200-S42",
+        "amounts": {
+          "national": 7000,
+          "local": 5600,
+          "total": 12600
+        },
+        "sourceURL": "https://www.ev.or.kr/nportal/buySupprt/psPopupLocalCarModelPrice.do",
+        "fetchedAt": "2026-04-09T13:09:31.518634Z"
+      },
+      {
+        "year": 2026,
+        "carType": "13",
+        "region": "철원군",
+        "province": "강원",
+        "localCode": "4278",
+        "vehicleClass": "승합(대형)",
+        "maker": "우진산전",
+        "vehicle": "아폴로1100V2.5",
+        "trim": "기본",
+        "rawModelName": "아폴로1100V2.5",
+        "amounts": {
+          "national": 6681,
+          "local": 5344,
+          "total": 12025
+        },
+        "sourceURL": "https://www.ev.or.kr/nportal/buySupprt/psPopupLocalCarModelPrice.do",
+        "fetchedAt": "2026-04-09T13:09:31.518634Z"
+      },
+      {
+        "year": 2026,
+        "carType": "13",
+        "region": "철원군",
+        "province": "강원",
+        "localCode": "4278",
+        "vehicleClass": "승합(대형)",
+        "maker": "우진산전",
+        "vehicle": "아폴로900V2.0",
+        "trim": "기본",
+        "rawModelName": "아폴로900V2.0",
+        "amounts": {
+          "national": 5921,
+          "local": 4736,
+          "total": 10657
+        },
+        "sourceURL": "https://www.ev.or.kr/nportal/buySupprt/psPopupLocalCarModelPrice.do",
+        "fetchedAt": "2026-04-09T13:09:31.518634Z"
+      },
+      {
+        "year": 2026,
+        "carType": "13",
+        "region": "철원군",
+        "province": "강원",
+        "localCode": "4278",
+        "vehicleClass": "승합(대형)",
+        "maker": "우진산전",
+        "vehicle": "아폴로1100 V2.5",
+        "trim": "양문형",
+        "rawModelName": "아폴로1100 V2.5 양문형",
+        "amounts": {
+          "national": 6680,
+          "local": 5344,
+          "total": 12024
+        },
+        "sourceURL": "https://www.ev.or.kr/nportal/buySupprt/psPopupLocalCarModelPrice.do",
+        "fetchedAt": "2026-04-09T13:09:31.518634Z"
+      },
+      {
+        "year": 2026,
+        "carType": "13",
+        "region": "철원군",
+        "province": "강원",
+        "localCode": "4278",
+        "vehicleClass": "승합(대형)",
+        "maker": "우진산전",
+        "vehicle": "아폴로900 V2.0(25인승)",
+        "trim": "기본",
+        "rawModelName": "아폴로900 V2.0(25인승)",
+        "amounts": {
+          "national": 5910,
+          "local": 4728,
+          "total": 10638
+        },
+        "sourceURL": "https://www.ev.or.kr/nportal/buySupprt/psPopupLocalCarModelPrice.do",
+        "fetchedAt": "2026-04-09T13:09:31.518634Z"
+      },
+      {
+        "year": 2026,
+        "carType": "13",
+        "region": "철원군",
+        "province": "강원",
+        "localCode": "4278",
+        "vehicleClass": "승합(대형)",
+        "maker": "범한자동차",
+        "vehicle": "E-STAR 8K",
+        "trim": "기본",
+        "rawModelName": "E-STAR 8K",
+        "amounts": {
+          "national": 5015,
+          "local": 0,
+          "total": 5015
+        },
+        "sourceURL": "https://www.ev.or.kr/nportal/buySupprt/psPopupLocalCarModelPrice.do",
+        "fetchedAt": "2026-04-09T13:09:31.518634Z"
+      },
+      {
+        "year": 2026,
+        "carType": "13",
+        "region": "철원군",
+        "province": "강원",
+        "localCode": "4278",
+        "vehicleClass": "승합(대형)",
+        "maker": "범한자동차",
+        "vehicle": "E-STAR 11K",
+        "trim": "기본",
+        "rawModelName": "E-STAR 11K",
+        "amounts": {
+          "national": 5834,
+          "local": 0,
+          "total": 5834
+        },
+        "sourceURL": "https://www.ev.or.kr/nportal/buySupprt/psPopupLocalCarModelPrice.do",
+        "fetchedAt": "2026-04-09T13:09:31.518634Z"
+      },
+      {
+        "year": 2026,
+        "carType": "13",
+        "region": "철원군",
+        "province": "강원",
+        "localCode": "4278",
+        "vehicleClass": "승합(대형)",
+        "maker": "티에스모터스",
+        "vehicle": "여울900",
+        "trim": "기본",
+        "rawModelName": "여울900",
+        "amounts": {
+          "national": 5921,
+          "local": 0,
+          "total": 5921
+        },
+        "sourceURL": "https://www.ev.or.kr/nportal/buySupprt/psPopupLocalCarModelPrice.do",
+        "fetchedAt": "2026-04-09T13:09:31.518634Z"
+      },
+      {
+        "year": 2026,
+        "carType": "13",
+        "region": "철원군",
+        "province": "강원",
+        "localCode": "4278",
+        "vehicleClass": "승합(대형)",
+        "maker": "티에스모터스",
+        "vehicle": "여울1100",
+        "trim": "기본",
+        "rawModelName": "여울1100",
+        "amounts": {
+          "national": 6101,
+          "local": 0,
+          "total": 6101
+        },
+        "sourceURL": "https://www.ev.or.kr/nportal/buySupprt/psPopupLocalCarModelPrice.do",
+        "fetchedAt": "2026-04-09T13:09:31.518634Z"
+      },
+      {
+        "year": 2026,
+        "carType": "13",
+        "region": "철원군",
+        "province": "강원",
+        "localCode": "4278",
+        "vehicleClass": "승합(대형)",
+        "maker": "이엠코리아",
+        "vehicle": "에픽시티(NCM)",
+        "trim": "기본",
+        "rawModelName": "에픽시티(NCM)",
+        "amounts": {
+          "national": 5931,
+          "local": 0,
+          "total": 5931
+        },
+        "sourceURL": "https://www.ev.or.kr/nportal/buySupprt/psPopupLocalCarModelPrice.do",
+        "fetchedAt": "2026-04-09T13:09:31.518634Z"
+      },
+      {
+        "year": 2026,
+        "carType": "13",
+        "region": "철원군",
+        "province": "강원",
+        "localCode": "4278",
+        "vehicleClass": "승합(대형)",
+        "maker": "이엠코리아",
+        "vehicle": "에픽타운(NCM)",
+        "trim": "기본",
+        "rawModelName": "에픽타운(NCM)",
+        "amounts": {
+          "national": 5296,
+          "local": 0,
+          "total": 5296
+        },
+        "sourceURL": "https://www.ev.or.kr/nportal/buySupprt/psPopupLocalCarModelPrice.do",
+        "fetchedAt": "2026-04-09T13:09:31.518634Z"
+      },
+      {
+        "year": 2026,
+        "carType": "13",
+        "region": "철원군",
+        "province": "강원",
+        "localCode": "4278",
+        "vehicleClass": "승합(대형)",
+        "maker": "아이버스",
+        "vehicle": "아이버스어린이운송차",
+        "trim": "기본",
+        "rawModelName": "아이버스어린이운송차",
+        "amounts": {
+          "national": 7889,
+          "local": 6311,
+          "total": 14200
+        },
+        "sourceURL": "https://www.ev.or.kr/nportal/buySupprt/psPopupLocalCarModelPrice.do",
+        "fetchedAt": "2026-04-09T13:09:31.518634Z"
+      },
+      {
+        "year": 2026,
+        "carType": "13",
+        "region": "철원군",
+        "province": "강원",
+        "localCode": "4278",
+        "vehicleClass": "승합(대형)",
+        "maker": "아이버스",
+        "vehicle": "아이버스아폴로1200어린이운송차",
+        "trim": "기본",
+        "rawModelName": "아이버스아폴로1200어린이운송차",
+        "amounts": {
+          "national": 8631,
+          "local": 6904,
+          "total": 15535
+        },
+        "sourceURL": "https://www.ev.or.kr/nportal/buySupprt/psPopupLocalCarModelPrice.do",
+        "fetchedAt": "2026-04-09T13:09:31.518634Z"
+      },
+      {
+        "year": 2026,
+        "carType": "13",
+        "region": "철원군",
+        "province": "강원",
+        "localCode": "4278",
+        "vehicleClass": "승합(중형)",
+        "maker": "아이버스",
+        "vehicle": "아이버스아폴로700어린이운송차",
+        "trim": "기본",
+        "rawModelName": "아이버스아폴로700어린이운송차",
+        "amounts": {
+          "national": 6927,
+          "local": 4433,
+          "total": 11360
+        },
+        "sourceURL": "https://www.ev.or.kr/nportal/buySupprt/psPopupLocalCarModelPrice.do",
+        "fetchedAt": "2026-04-09T13:09:31.518634Z"
+      },
+      {
+        "year": 2026,
+        "carType": "13",
+        "region": "철원군",
+        "province": "강원",
+        "localCode": "4278",
+        "vehicleClass": "승합(중형)",
+        "maker": "케이지모빌리티커머셜",
+        "vehicle": "KG C070",
+        "trim": "E-STANA",
+        "rawModelName": "KG C070 E-STANA",
+        "amounts": {
+          "national": 5000,
+          "local": 3200,
+          "total": 8200
+        },
+        "sourceURL": "https://www.ev.or.kr/nportal/buySupprt/psPopupLocalCarModelPrice.do",
+        "fetchedAt": "2026-04-09T13:09:31.518634Z"
+      },
+      {
+        "year": 2026,
+        "carType": "13",
+        "region": "철원군",
+        "province": "강원",
+        "localCode": "4278",
+        "vehicleClass": "승합(중형)",
+        "maker": "피라인모터스",
+        "vehicle": "HYPERS1607P",
+        "trim": "기본",
+        "rawModelName": "HYPERS1607P",
+        "amounts": {
+          "national": 4045,
+          "local": 2588,
+          "total": 6633
+        },
+        "sourceURL": "https://www.ev.or.kr/nportal/buySupprt/psPopupLocalCarModelPrice.do",
+        "fetchedAt": "2026-04-09T13:09:31.518634Z"
+      },
+      {
+        "year": 2026,
+        "carType": "13",
+        "region": "철원군",
+        "province": "강원",
+        "localCode": "4278",
+        "vehicleClass": "승합(중형)",
+        "maker": "중원자동차",
+        "vehicle": "EV J2",
+        "trim": "기본",
+        "rawModelName": "EV J2",
+        "amounts": {
+          "national": 7787,
+          "local": 4983,
+          "total": 12770
+        },
+        "sourceURL": "https://www.ev.or.kr/nportal/buySupprt/psPopupLocalCarModelPrice.do",
+        "fetchedAt": "2026-04-09T13:09:31.518634Z"
+      }
+    ],
+    "fetchedAt": "2026-04-09T13:09:31.518634Z"
+  }
+}

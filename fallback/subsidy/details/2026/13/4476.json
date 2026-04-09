@@ -1,0 +1,346 @@
+{
+  "schemaVersion": 1,
+  "publishedAt": "2026-04-09T13:01:45.150932Z",
+  "sourceFetchedAt": "2026-04-09T13:10:00.578672Z",
+  "sourceStatus": "ok",
+  "sourceURLs": [
+    "https://www.ev.or.kr/nportal/buySupprt/psPopupLocalCarModelPrice.do"
+  ],
+  "payload": {
+    "region": {
+      "year": 2026,
+      "carType": "13",
+      "province": "충남",
+      "name": "부여군",
+      "localCode": "4476",
+      "summaryText": "승용 1,248\n\n경·소형 953\n초소형 520\n\n\n소형 2,250\n소형 2,936\n\n중형 8,313\n\n대형 11,069",
+      "sourceURL": "https://ev.or.kr/nportal/buySupprt/initPsLocalCarPirceAction.do"
+    },
+    "entries": [
+      {
+        "year": 2026,
+        "carType": "13",
+        "region": "부여군",
+        "province": "충남",
+        "localCode": "4476",
+        "vehicleClass": "승합(중형)",
+        "maker": "현대자동차",
+        "vehicle": "카운티일렉트릭(어린이버스)",
+        "trim": "기본",
+        "rawModelName": "카운티일렉트릭(어린이버스)",
+        "amounts": {
+          "national": 8313,
+          "local": 0,
+          "total": 8313
+        },
+        "sourceURL": "https://www.ev.or.kr/nportal/buySupprt/psPopupLocalCarModelPrice.do",
+        "fetchedAt": "2026-04-09T13:10:00.578672Z"
+      },
+      {
+        "year": 2026,
+        "carType": "13",
+        "region": "부여군",
+        "province": "충남",
+        "localCode": "4476",
+        "vehicleClass": "승합(중형)",
+        "maker": "현대자동차",
+        "vehicle": "카운티일렉트릭",
+        "trim": "기본",
+        "rawModelName": "카운티일렉트릭",
+        "amounts": {
+          "national": 5000,
+          "local": 0,
+          "total": 5000
+        },
+        "sourceURL": "https://www.ev.or.kr/nportal/buySupprt/psPopupLocalCarModelPrice.do",
+        "fetchedAt": "2026-04-09T13:10:00.578672Z"
+      },
+      {
+        "year": 2026,
+        "carType": "13",
+        "region": "부여군",
+        "province": "충남",
+        "localCode": "4476",
+        "vehicleClass": "승합(중형)",
+        "maker": "현대자동차",
+        "vehicle": "카운티일렉트릭(마을버스)",
+        "trim": "기본",
+        "rawModelName": "카운티일렉트릭(마을버스)",
+        "amounts": {
+          "national": 5000,
+          "local": 0,
+          "total": 5000
+        },
+        "sourceURL": "https://www.ev.or.kr/nportal/buySupprt/psPopupLocalCarModelPrice.do",
+        "fetchedAt": "2026-04-09T13:10:00.578672Z"
+      },
+      {
+        "year": 2026,
+        "carType": "13",
+        "region": "부여군",
+        "province": "충남",
+        "localCode": "4476",
+        "vehicleClass": "승합(중형)",
+        "maker": "우진산전",
+        "vehicle": "아폴로700",
+        "trim": "기본",
+        "rawModelName": "아폴로700",
+        "amounts": {
+          "national": 5000,
+          "local": 0,
+          "total": 5000
+        },
+        "sourceURL": "https://www.ev.or.kr/nportal/buySupprt/psPopupLocalCarModelPrice.do",
+        "fetchedAt": "2026-04-09T13:10:00.578672Z"
+      },
+      {
+        "year": 2026,
+        "carType": "13",
+        "region": "부여군",
+        "province": "충남",
+        "localCode": "4476",
+        "vehicleClass": "승합(소형)",
+        "maker": "MTR",
+        "vehicle": "엠티알ST1어린이운송승합차(CV1KIDS)",
+        "trim": "기본",
+        "rawModelName": "엠티알ST1어린이운송승합차(CV1KIDS)",
+        "amounts": {
+          "national": 2936,
+          "local": 0,
+          "total": 2936
+        },
+        "sourceURL": "https://www.ev.or.kr/nportal/buySupprt/psPopupLocalCarModelPrice.do",
+        "fetchedAt": "2026-04-09T13:10:00.578672Z"
+      },
+      {
+        "year": 2026,
+        "carType": "13",
+        "region": "부여군",
+        "province": "충남",
+        "localCode": "4476",
+        "vehicleClass": "승합(소형)",
+        "maker": "MTR",
+        "vehicle": "엠티알ST1승합자동차(CV1)",
+        "trim": "기본",
+        "rawModelName": "엠티알ST1승합자동차(CV1)",
+        "amounts": {
+          "national": 1471,
+          "local": 0,
+          "total": 1471
+        },
+        "sourceURL": "https://www.ev.or.kr/nportal/buySupprt/psPopupLocalCarModelPrice.do",
+        "fetchedAt": "2026-04-09T13:10:00.578672Z"
+      },
+      {
+        "year": 2026,
+        "carType": "13",
+        "region": "부여군",
+        "province": "충남",
+        "localCode": "4476",
+        "vehicleClass": "승합(대형)",
+        "maker": "현대자동차",
+        "vehicle": "일렉시티 이층버스",
+        "trim": "기본",
+        "rawModelName": "일렉시티 이층버스",
+        "amounts": {
+          "national": 11069,
+          "local": 0,
+          "total": 11069
+        },
+        "sourceURL": "https://www.ev.or.kr/nportal/buySupprt/psPopupLocalCarModelPrice.do",
+        "fetchedAt": "2026-04-09T13:10:00.578672Z"
+      },
+      {
+        "year": 2026,
+        "carType": "13",
+        "region": "부여군",
+        "province": "충남",
+        "localCode": "4476",
+        "vehicleClass": "승합(대형)",
+        "maker": "현대자동차",
+        "vehicle": "일렉시티(4PACKV2)",
+        "trim": "기본",
+        "rawModelName": "일렉시티(4PACKV2)",
+        "amounts": {
+          "national": 6683,
+          "local": 0,
+          "total": 6683
+        },
+        "sourceURL": "https://www.ev.or.kr/nportal/buySupprt/psPopupLocalCarModelPrice.do",
+        "fetchedAt": "2026-04-09T13:10:00.578672Z"
+      },
+      {
+        "year": 2026,
+        "carType": "13",
+        "region": "부여군",
+        "province": "충남",
+        "localCode": "4476",
+        "vehicleClass": "승합(대형)",
+        "maker": "현대자동차",
+        "vehicle": "일렉시티(4PACKV1)",
+        "trim": "기본",
+        "rawModelName": "일렉시티(4PACKV1)",
+        "amounts": {
+          "national": 6994,
+          "local": 0,
+          "total": 6994
+        },
+        "sourceURL": "https://www.ev.or.kr/nportal/buySupprt/psPopupLocalCarModelPrice.do",
+        "fetchedAt": "2026-04-09T13:10:00.578672Z"
+      },
+      {
+        "year": 2026,
+        "carType": "13",
+        "region": "부여군",
+        "province": "충남",
+        "localCode": "4476",
+        "vehicleClass": "승합(대형)",
+        "maker": "현대자동차",
+        "vehicle": "일렉시티타운",
+        "trim": "기본",
+        "rawModelName": "일렉시티타운",
+        "amounts": {
+          "national": 6403,
+          "local": 0,
+          "total": 6403
+        },
+        "sourceURL": "https://www.ev.or.kr/nportal/buySupprt/psPopupLocalCarModelPrice.do",
+        "fetchedAt": "2026-04-09T13:10:00.578672Z"
+      },
+      {
+        "year": 2026,
+        "carType": "13",
+        "region": "부여군",
+        "province": "충남",
+        "localCode": "4476",
+        "vehicleClass": "승합(대형)",
+        "maker": "케이지모빌리티커머셜",
+        "vehicle": "KGC110",
+        "trim": "기본",
+        "rawModelName": "KGC110",
+        "amounts": {
+          "national": 6445,
+          "local": 0,
+          "total": 6445
+        },
+        "sourceURL": "https://www.ev.or.kr/nportal/buySupprt/psPopupLocalCarModelPrice.do",
+        "fetchedAt": "2026-04-09T13:10:00.578672Z"
+      },
+      {
+        "year": 2026,
+        "carType": "13",
+        "region": "부여군",
+        "province": "충남",
+        "localCode": "4476",
+        "vehicleClass": "승합(대형)",
+        "maker": "케이지모빌리티커머셜",
+        "vehicle": "KGC090(27인승)",
+        "trim": "기본",
+        "rawModelName": "KGC090(27인승)",
+        "amounts": {
+          "national": 5669,
+          "local": 0,
+          "total": 5669
+        },
+        "sourceURL": "https://www.ev.or.kr/nportal/buySupprt/psPopupLocalCarModelPrice.do",
+        "fetchedAt": "2026-04-09T13:10:00.578672Z"
+      },
+      {
+        "year": 2026,
+        "carType": "13",
+        "region": "부여군",
+        "province": "충남",
+        "localCode": "4476",
+        "vehicleClass": "승합(대형)",
+        "maker": "케이지모빌리티커머셜",
+        "vehicle": "KGC090(42인승)",
+        "trim": "기본",
+        "rawModelName": "KGC090(42인승)",
+        "amounts": {
+          "national": 6015,
+          "local": 0,
+          "total": 6015
+        },
+        "sourceURL": "https://www.ev.or.kr/nportal/buySupprt/psPopupLocalCarModelPrice.do",
+        "fetchedAt": "2026-04-09T13:10:00.578672Z"
+      },
+      {
+        "year": 2026,
+        "carType": "13",
+        "region": "부여군",
+        "province": "충남",
+        "localCode": "4476",
+        "vehicleClass": "승합(대형)",
+        "maker": "우진산전",
+        "vehicle": "아폴로1200-S42",
+        "trim": "기본",
+        "rawModelName": "아폴로1200-S42",
+        "amounts": {
+          "national": 7000,
+          "local": 0,
+          "total": 7000
+        },
+        "sourceURL": "https://www.ev.or.kr/nportal/buySupprt/psPopupLocalCarModelPrice.do",
+        "fetchedAt": "2026-04-09T13:10:00.578672Z"
+      },
+      {
+        "year": 2026,
+        "carType": "13",
+        "region": "부여군",
+        "province": "충남",
+        "localCode": "4476",
+        "vehicleClass": "승합(대형)",
+        "maker": "우진산전",
+        "vehicle": "아폴로1100V2.5",
+        "trim": "기본",
+        "rawModelName": "아폴로1100V2.5",
+        "amounts": {
+          "national": 6681,
+          "local": 0,
+          "total": 6681
+        },
+        "sourceURL": "https://www.ev.or.kr/nportal/buySupprt/psPopupLocalCarModelPrice.do",
+        "fetchedAt": "2026-04-09T13:10:00.578672Z"
+      },
+      {
+        "year": 2026,
+        "carType": "13",
+        "region": "부여군",
+        "province": "충남",
+        "localCode": "4476",
+        "vehicleClass": "승합(대형)",
+        "maker": "우진산전",
+        "vehicle": "아폴로900V2.0",
+        "trim": "기본",
+        "rawModelName": "아폴로900V2.0",
+        "amounts": {
+          "national": 5921,
+          "local": 0,
+          "total": 5921
+        },
+        "sourceURL": "https://www.ev.or.kr/nportal/buySupprt/psPopupLocalCarModelPrice.do",
+        "fetchedAt": "2026-04-09T13:10:00.578672Z"
+      },
+      {
+        "year": 2026,
+        "carType": "13",
+        "region": "부여군",
+        "province": "충남",
+        "localCode": "4476",
+        "vehicleClass": "승합(중형)",
+        "maker": "아이버스",
+        "vehicle": "아이버스아폴로700어린이운송차",
+        "trim": "기본",
+        "rawModelName": "아이버스아폴로700어린이운송차",
+        "amounts": {
+          "national": 6927,
+          "local": 0,
+          "total": 6927
+        },
+        "sourceURL": "https://www.ev.or.kr/nportal/buySupprt/psPopupLocalCarModelPrice.do",
+        "fetchedAt": "2026-04-09T13:10:00.578672Z"
+      }
+    ],
+    "fetchedAt": "2026-04-09T13:10:00.578672Z"
+  }
+}

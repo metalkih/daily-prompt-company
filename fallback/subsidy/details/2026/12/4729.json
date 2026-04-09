@@ -1,0 +1,821 @@
+{
+  "schemaVersion": 1,
+  "publishedAt": "2026-04-09T13:01:45.150932Z",
+  "sourceFetchedAt": "2026-04-09T13:07:53.100088Z",
+  "sourceStatus": "ok",
+  "sourceURLs": [
+    "https://www.ev.or.kr/nportal/buySupprt/psPopupLocalCarModelPrice.do"
+  ],
+  "payload": {
+    "region": {
+      "year": 2026,
+      "carType": "12",
+      "province": "경북",
+      "name": "경산시",
+      "localCode": "4729",
+      "summaryText": "승용 1,315\n\n경·소형 1,043\n초소형 596\n\n\n소형 2,277\n소형 3,830\n\n중형 10,843\n\n대형 11,069",
+      "sourceURL": "https://ev.or.kr/nportal/buySupprt/initPsLocalCarPirceAction.do"
+    },
+    "entries": [
+      {
+        "year": 2026,
+        "carType": "12",
+        "region": "경산시",
+        "province": "경북",
+        "localCode": "4729",
+        "vehicleClass": "화물(초소형)",
+        "maker": "디피코",
+        "vehicle": "포트로-탑S",
+        "trim": "기본",
+        "rawModelName": "포트로-탑S",
+        "amounts": {
+          "national": 380,
+          "local": 216,
+          "total": 596
+        },
+        "sourceURL": "https://www.ev.or.kr/nportal/buySupprt/psPopupLocalCarModelPrice.do",
+        "fetchedAt": "2026-04-09T13:07:53.100088Z"
+      },
+      {
+        "year": 2026,
+        "carType": "12",
+        "region": "경산시",
+        "province": "경북",
+        "localCode": "4729",
+        "vehicleClass": "화물(초소형)",
+        "maker": "디피코",
+        "vehicle": "포트로-픽업S",
+        "trim": "기본",
+        "rawModelName": "포트로-픽업S",
+        "amounts": {
+          "national": 380,
+          "local": 216,
+          "total": 596
+        },
+        "sourceURL": "https://www.ev.or.kr/nportal/buySupprt/psPopupLocalCarModelPrice.do",
+        "fetchedAt": "2026-04-09T13:07:53.100088Z"
+      },
+      {
+        "year": 2026,
+        "carType": "12",
+        "region": "경산시",
+        "province": "경북",
+        "localCode": "4729",
+        "vehicleClass": "화물(소형)",
+        "maker": "현대자동차",
+        "vehicle": "포터Ⅱ 일렉트릭",
+        "trim": "하이내장탑차",
+        "rawModelName": "포터Ⅱ 일렉트릭 하이내장탑차",
+        "amounts": {
+          "national": 780,
+          "local": 445,
+          "total": 1225
+        },
+        "sourceURL": "https://www.ev.or.kr/nportal/buySupprt/psPopupLocalCarModelPrice.do",
+        "fetchedAt": "2026-04-09T13:07:53.100088Z"
+      },
+      {
+        "year": 2026,
+        "carType": "12",
+        "region": "경산시",
+        "province": "경북",
+        "localCode": "4729",
+        "vehicleClass": "화물(소형)",
+        "maker": "현대자동차",
+        "vehicle": "포터Ⅱ 일렉트릭",
+        "trim": "저상내장탑차",
+        "rawModelName": "포터Ⅱ 일렉트릭 저상내장탑차",
+        "amounts": {
+          "national": 780,
+          "local": 445,
+          "total": 1225
+        },
+        "sourceURL": "https://www.ev.or.kr/nportal/buySupprt/psPopupLocalCarModelPrice.do",
+        "fetchedAt": "2026-04-09T13:07:53.100088Z"
+      },
+      {
+        "year": 2026,
+        "carType": "12",
+        "region": "경산시",
+        "province": "경북",
+        "localCode": "4729",
+        "vehicleClass": "화물(소형)",
+        "maker": "현대자동차",
+        "vehicle": "포터Ⅱ 일렉트릭",
+        "trim": "내장탑차",
+        "rawModelName": "포터Ⅱ 일렉트릭 내장탑차",
+        "amounts": {
+          "national": 780,
+          "local": 445,
+          "total": 1225
+        },
+        "sourceURL": "https://www.ev.or.kr/nportal/buySupprt/psPopupLocalCarModelPrice.do",
+        "fetchedAt": "2026-04-09T13:07:53.100088Z"
+      },
+      {
+        "year": 2026,
+        "carType": "12",
+        "region": "경산시",
+        "province": "경북",
+        "localCode": "4729",
+        "vehicleClass": "화물(소형)",
+        "maker": "현대자동차",
+        "vehicle": "포터Ⅱ 일렉트릭",
+        "trim": "기본",
+        "rawModelName": "포터Ⅱ 일렉트릭",
+        "amounts": {
+          "national": 968,
+          "local": 552,
+          "total": 1520
+        },
+        "sourceURL": "https://www.ev.or.kr/nportal/buySupprt/psPopupLocalCarModelPrice.do",
+        "fetchedAt": "2026-04-09T13:07:53.100088Z"
+      },
+      {
+        "year": 2026,
+        "carType": "12",
+        "region": "경산시",
+        "province": "경북",
+        "localCode": "4729",
+        "vehicleClass": "화물(소형)",
+        "maker": "현대자동차",
+        "vehicle": "포터Ⅱ일렉트릭파워게이트",
+        "trim": "기본",
+        "rawModelName": "포터Ⅱ일렉트릭파워게이트",
+        "amounts": {
+          "national": 780,
+          "local": 445,
+          "total": 1225
+        },
+        "sourceURL": "https://www.ev.or.kr/nportal/buySupprt/psPopupLocalCarModelPrice.do",
+        "fetchedAt": "2026-04-09T13:07:53.100088Z"
+      },
+      {
+        "year": 2026,
+        "carType": "12",
+        "region": "경산시",
+        "province": "경북",
+        "localCode": "4729",
+        "vehicleClass": "화물(소형)",
+        "maker": "현대자동차",
+        "vehicle": "포터Ⅱ 일렉트릭 전동식",
+        "trim": "윙바디",
+        "rawModelName": "포터Ⅱ 일렉트릭 전동식 윙바디",
+        "amounts": {
+          "national": 780,
+          "local": 445,
+          "total": 1225
+        },
+        "sourceURL": "https://www.ev.or.kr/nportal/buySupprt/psPopupLocalCarModelPrice.do",
+        "fetchedAt": "2026-04-09T13:07:53.100088Z"
+      },
+      {
+        "year": 2026,
+        "carType": "12",
+        "region": "경산시",
+        "province": "경북",
+        "localCode": "4729",
+        "vehicleClass": "화물(소형)",
+        "maker": "현대자동차",
+        "vehicle": "포터Ⅱ 일렉트릭 수동식",
+        "trim": "윙바디",
+        "rawModelName": "포터Ⅱ 일렉트릭 수동식 윙바디",
+        "amounts": {
+          "national": 780,
+          "local": 445,
+          "total": 1225
+        },
+        "sourceURL": "https://www.ev.or.kr/nportal/buySupprt/psPopupLocalCarModelPrice.do",
+        "fetchedAt": "2026-04-09T13:07:53.100088Z"
+      },
+      {
+        "year": 2026,
+        "carType": "12",
+        "region": "경산시",
+        "province": "경북",
+        "localCode": "4729",
+        "vehicleClass": "화물(소형)",
+        "maker": "현대자동차",
+        "vehicle": "ST1 기본형",
+        "trim": "카고",
+        "rawModelName": "ST1 기본형 카고",
+        "amounts": {
+          "national": 1200,
+          "local": 685,
+          "total": 1885
+        },
+        "sourceURL": "https://www.ev.or.kr/nportal/buySupprt/psPopupLocalCarModelPrice.do",
+        "fetchedAt": "2026-04-09T13:07:53.100088Z"
+      },
+      {
+        "year": 2026,
+        "carType": "12",
+        "region": "경산시",
+        "province": "경북",
+        "localCode": "4729",
+        "vehicleClass": "화물(소형)",
+        "maker": "현대자동차",
+        "vehicle": "ST1 기본형",
+        "trim": "하이탑",
+        "rawModelName": "ST1 기본형 하이탑",
+        "amounts": {
+          "national": 1100,
+          "local": 628,
+          "total": 1728
+        },
+        "sourceURL": "https://www.ev.or.kr/nportal/buySupprt/psPopupLocalCarModelPrice.do",
+        "fetchedAt": "2026-04-09T13:07:53.100088Z"
+      },
+      {
+        "year": 2026,
+        "carType": "12",
+        "region": "경산시",
+        "province": "경북",
+        "localCode": "4729",
+        "vehicleClass": "화물(소형)",
+        "maker": "현대자동차",
+        "vehicle": "ST1 기본형",
+        "trim": "카고냉동",
+        "rawModelName": "ST1 기본형 카고냉동",
+        "amounts": {
+          "national": 1450,
+          "local": 827,
+          "total": 2277
+        },
+        "sourceURL": "https://www.ev.or.kr/nportal/buySupprt/psPopupLocalCarModelPrice.do",
+        "fetchedAt": "2026-04-09T13:07:53.100088Z"
+      },
+      {
+        "year": 2026,
+        "carType": "12",
+        "region": "경산시",
+        "province": "경북",
+        "localCode": "4729",
+        "vehicleClass": "화물(소형)",
+        "maker": "기아",
+        "vehicle": "봉고 전기차",
+        "trim": "기본",
+        "rawModelName": "봉고 전기차",
+        "amounts": {
+          "national": 1000,
+          "local": 571,
+          "total": 1571
+        },
+        "sourceURL": "https://www.ev.or.kr/nportal/buySupprt/psPopupLocalCarModelPrice.do",
+        "fetchedAt": "2026-04-09T13:07:53.100088Z"
+      },
+      {
+        "year": 2026,
+        "carType": "12",
+        "region": "경산시",
+        "province": "경북",
+        "localCode": "4729",
+        "vehicleClass": "화물(소형)",
+        "maker": "기아",
+        "vehicle": "봉고 전기차",
+        "trim": "냉동탑차",
+        "rawModelName": "봉고 전기차 냉동탑차",
+        "amounts": {
+          "national": 1172,
+          "local": 669,
+          "total": 1841
+        },
+        "sourceURL": "https://www.ev.or.kr/nportal/buySupprt/psPopupLocalCarModelPrice.do",
+        "fetchedAt": "2026-04-09T13:07:53.100088Z"
+      },
+      {
+        "year": 2026,
+        "carType": "12",
+        "region": "경산시",
+        "province": "경북",
+        "localCode": "4729",
+        "vehicleClass": "화물(소형)",
+        "maker": "기아",
+        "vehicle": "봉고 전기차",
+        "trim": "양문형 미닫이탑차",
+        "rawModelName": "봉고 전기차 양문형 미닫이탑차",
+        "amounts": {
+          "national": 822,
+          "local": 469,
+          "total": 1291
+        },
+        "sourceURL": "https://www.ev.or.kr/nportal/buySupprt/psPopupLocalCarModelPrice.do",
+        "fetchedAt": "2026-04-09T13:07:53.100088Z"
+      },
+      {
+        "year": 2026,
+        "carType": "12",
+        "region": "경산시",
+        "province": "경북",
+        "localCode": "4729",
+        "vehicleClass": "화물(소형)",
+        "maker": "기아",
+        "vehicle": "봉고 전기차",
+        "trim": "로우 양문형 미닫이탑차",
+        "rawModelName": "봉고 전기차 로우 양문형 미닫이탑차",
+        "amounts": {
+          "national": 822,
+          "local": 469,
+          "total": 1291
+        },
+        "sourceURL": "https://www.ev.or.kr/nportal/buySupprt/psPopupLocalCarModelPrice.do",
+        "fetchedAt": "2026-04-09T13:07:53.100088Z"
+      },
+      {
+        "year": 2026,
+        "carType": "12",
+        "region": "경산시",
+        "province": "경북",
+        "localCode": "4729",
+        "vehicleClass": "화물(소형)",
+        "maker": "기아",
+        "vehicle": "봉고 전기차",
+        "trim": "턴인형 파워게이트",
+        "rawModelName": "봉고 전기차 턴인형 파워게이트",
+        "amounts": {
+          "national": 822,
+          "local": 469,
+          "total": 1291
+        },
+        "sourceURL": "https://www.ev.or.kr/nportal/buySupprt/psPopupLocalCarModelPrice.do",
+        "fetchedAt": "2026-04-09T13:07:53.100088Z"
+      },
+      {
+        "year": 2026,
+        "carType": "12",
+        "region": "경산시",
+        "province": "경북",
+        "localCode": "4729",
+        "vehicleClass": "화물(소형)",
+        "maker": "기아",
+        "vehicle": "봉고 전기차",
+        "trim": "수직형 파워게이트",
+        "rawModelName": "봉고 전기차 수직형 파워게이트",
+        "amounts": {
+          "national": 822,
+          "local": 469,
+          "total": 1291
+        },
+        "sourceURL": "https://www.ev.or.kr/nportal/buySupprt/psPopupLocalCarModelPrice.do",
+        "fetchedAt": "2026-04-09T13:07:53.100088Z"
+      },
+      {
+        "year": 2026,
+        "carType": "12",
+        "region": "경산시",
+        "province": "경북",
+        "localCode": "4729",
+        "vehicleClass": "화물(소형)",
+        "maker": "기아",
+        "vehicle": "봉고 전기차",
+        "trim": "내장탑차",
+        "rawModelName": "봉고 전기차 내장탑차",
+        "amounts": {
+          "national": 822,
+          "local": 469,
+          "total": 1291
+        },
+        "sourceURL": "https://www.ev.or.kr/nportal/buySupprt/psPopupLocalCarModelPrice.do",
+        "fetchedAt": "2026-04-09T13:07:53.100088Z"
+      },
+      {
+        "year": 2026,
+        "carType": "12",
+        "region": "경산시",
+        "province": "경북",
+        "localCode": "4729",
+        "vehicleClass": "화물(소형)",
+        "maker": "기아",
+        "vehicle": "봉고 전기차 전동식",
+        "trim": "윙바디",
+        "rawModelName": "봉고 전기차 전동식 윙바디",
+        "amounts": {
+          "national": 822,
+          "local": 469,
+          "total": 1291
+        },
+        "sourceURL": "https://www.ev.or.kr/nportal/buySupprt/psPopupLocalCarModelPrice.do",
+        "fetchedAt": "2026-04-09T13:07:53.100088Z"
+      },
+      {
+        "year": 2026,
+        "carType": "12",
+        "region": "경산시",
+        "province": "경북",
+        "localCode": "4729",
+        "vehicleClass": "화물(소형)",
+        "maker": "기아",
+        "vehicle": "봉고 전기차 수동식",
+        "trim": "윙바디",
+        "rawModelName": "봉고 전기차 수동식 윙바디",
+        "amounts": {
+          "national": 822,
+          "local": 469,
+          "total": 1291
+        },
+        "sourceURL": "https://www.ev.or.kr/nportal/buySupprt/psPopupLocalCarModelPrice.do",
+        "fetchedAt": "2026-04-09T13:07:53.100088Z"
+      },
+      {
+        "year": 2026,
+        "carType": "12",
+        "region": "경산시",
+        "province": "경북",
+        "localCode": "4729",
+        "vehicleClass": "화물(소형)",
+        "maker": "기아",
+        "vehicle": "PV5 카고 롱",
+        "trim": "롱레인지 4도어",
+        "rawModelName": "PV5 카고 롱 롱레인지 4도어",
+        "amounts": {
+          "national": 1150,
+          "local": 656,
+          "total": 1806
+        },
+        "sourceURL": "https://www.ev.or.kr/nportal/buySupprt/psPopupLocalCarModelPrice.do",
+        "fetchedAt": "2026-04-09T13:07:53.100088Z"
+      },
+      {
+        "year": 2026,
+        "carType": "12",
+        "region": "경산시",
+        "province": "경북",
+        "localCode": "4729",
+        "vehicleClass": "화물(소형)",
+        "maker": "기아",
+        "vehicle": "PV5 카고 롱",
+        "trim": "롱레인지 3도어",
+        "rawModelName": "PV5 카고 롱 롱레인지 3도어",
+        "amounts": {
+          "national": 1150,
+          "local": 656,
+          "total": 1806
+        },
+        "sourceURL": "https://www.ev.or.kr/nportal/buySupprt/psPopupLocalCarModelPrice.do",
+        "fetchedAt": "2026-04-09T13:07:53.100088Z"
+      },
+      {
+        "year": 2026,
+        "carType": "12",
+        "region": "경산시",
+        "province": "경북",
+        "localCode": "4729",
+        "vehicleClass": "화물(소형)",
+        "maker": "기아",
+        "vehicle": "PV5 카고 롱",
+        "trim": "스탠다드 4도어",
+        "rawModelName": "PV5 카고 롱 스탠다드 4도어",
+        "amounts": {
+          "national": 1000,
+          "local": 571,
+          "total": 1571
+        },
+        "sourceURL": "https://www.ev.or.kr/nportal/buySupprt/psPopupLocalCarModelPrice.do",
+        "fetchedAt": "2026-04-09T13:07:53.100088Z"
+      },
+      {
+        "year": 2026,
+        "carType": "12",
+        "region": "경산시",
+        "province": "경북",
+        "localCode": "4729",
+        "vehicleClass": "화물(소형)",
+        "maker": "기아",
+        "vehicle": "PV5 카고 롱",
+        "trim": "스탠다드 3도어",
+        "rawModelName": "PV5 카고 롱 스탠다드 3도어",
+        "amounts": {
+          "national": 1000,
+          "local": 571,
+          "total": 1571
+        },
+        "sourceURL": "https://www.ev.or.kr/nportal/buySupprt/psPopupLocalCarModelPrice.do",
+        "fetchedAt": "2026-04-09T13:07:53.100088Z"
+      },
+      {
+        "year": 2026,
+        "carType": "12",
+        "region": "경산시",
+        "province": "경북",
+        "localCode": "4729",
+        "vehicleClass": "화물(소형)",
+        "maker": "기아",
+        "vehicle": "봉고 전기차",
+        "trim": "하이 내장탑차",
+        "rawModelName": "봉고 전기차 하이 내장탑차",
+        "amounts": {
+          "national": 822,
+          "local": 469,
+          "total": 1291
+        },
+        "sourceURL": "https://www.ev.or.kr/nportal/buySupprt/psPopupLocalCarModelPrice.do",
+        "fetchedAt": "2026-04-09T13:07:53.100088Z"
+      },
+      {
+        "year": 2026,
+        "carType": "12",
+        "region": "경산시",
+        "province": "경북",
+        "localCode": "4729",
+        "vehicleClass": "화물(소형)",
+        "maker": "기아",
+        "vehicle": "봉고 전기차",
+        "trim": "로우 내장탑차",
+        "rawModelName": "봉고 전기차 로우 내장탑차",
+        "amounts": {
+          "national": 822,
+          "local": 469,
+          "total": 1291
+        },
+        "sourceURL": "https://www.ev.or.kr/nportal/buySupprt/psPopupLocalCarModelPrice.do",
+        "fetchedAt": "2026-04-09T13:07:53.100088Z"
+      },
+      {
+        "year": 2026,
+        "carType": "12",
+        "region": "경산시",
+        "province": "경북",
+        "localCode": "4729",
+        "vehicleClass": "화물(소형)",
+        "maker": "기아",
+        "vehicle": "봉고 전기차 하이",
+        "trim": "냉동탑차",
+        "rawModelName": "봉고 전기차 하이 냉동탑차",
+        "amounts": {
+          "national": 1172,
+          "local": 669,
+          "total": 1841
+        },
+        "sourceURL": "https://www.ev.or.kr/nportal/buySupprt/psPopupLocalCarModelPrice.do",
+        "fetchedAt": "2026-04-09T13:07:53.100088Z"
+      },
+      {
+        "year": 2026,
+        "carType": "12",
+        "region": "경산시",
+        "province": "경북",
+        "localCode": "4729",
+        "vehicleClass": "화물(소형)",
+        "maker": "기아",
+        "vehicle": "봉고 전기차 로우",
+        "trim": "냉동탑차",
+        "rawModelName": "봉고 전기차 로우 냉동탑차",
+        "amounts": {
+          "national": 1172,
+          "local": 669,
+          "total": 1841
+        },
+        "sourceURL": "https://www.ev.or.kr/nportal/buySupprt/psPopupLocalCarModelPrice.do",
+        "fetchedAt": "2026-04-09T13:07:53.100088Z"
+      },
+      {
+        "year": 2026,
+        "carType": "12",
+        "region": "경산시",
+        "province": "경북",
+        "localCode": "4729",
+        "vehicleClass": "화물(소형)",
+        "maker": "기아",
+        "vehicle": "PV5 오픈베드",
+        "trim": "스탠다드",
+        "rawModelName": "PV5 오픈베드 스탠다드",
+        "amounts": {
+          "national": 1000,
+          "local": 571,
+          "total": 1571
+        },
+        "sourceURL": "https://www.ev.or.kr/nportal/buySupprt/psPopupLocalCarModelPrice.do",
+        "fetchedAt": "2026-04-09T13:07:53.100088Z"
+      },
+      {
+        "year": 2026,
+        "carType": "12",
+        "region": "경산시",
+        "province": "경북",
+        "localCode": "4729",
+        "vehicleClass": "화물(소형)",
+        "maker": "기아",
+        "vehicle": "PV5 오픈베드",
+        "trim": "롱레인지",
+        "rawModelName": "PV5 오픈베드 롱레인지",
+        "amounts": {
+          "national": 1150,
+          "local": 656,
+          "total": 1806
+        },
+        "sourceURL": "https://www.ev.or.kr/nportal/buySupprt/psPopupLocalCarModelPrice.do",
+        "fetchedAt": "2026-04-09T13:07:53.100088Z"
+      },
+      {
+        "year": 2026,
+        "carType": "12",
+        "region": "경산시",
+        "province": "경북",
+        "localCode": "4729",
+        "vehicleClass": "화물(소형)",
+        "maker": "일진정공",
+        "vehicle": "일진무시동전기냉동탑차(포터)",
+        "trim": "기본",
+        "rawModelName": "일진무시동전기냉동탑차(포터)",
+        "amounts": {
+          "national": 1154,
+          "local": 658,
+          "total": 1812
+        },
+        "sourceURL": "https://www.ev.or.kr/nportal/buySupprt/psPopupLocalCarModelPrice.do",
+        "fetchedAt": "2026-04-09T13:07:53.100088Z"
+      },
+      {
+        "year": 2026,
+        "carType": "12",
+        "region": "경산시",
+        "province": "경북",
+        "localCode": "4729",
+        "vehicleClass": "화물(소형)",
+        "maker": "일진정공",
+        "vehicle": "일진무시동전기냉동탑차(ST1)",
+        "trim": "기본",
+        "rawModelName": "일진무시동전기냉동탑차(ST1)",
+        "amounts": {
+          "national": 1450,
+          "local": 827,
+          "total": 2277
+        },
+        "sourceURL": "https://www.ev.or.kr/nportal/buySupprt/psPopupLocalCarModelPrice.do",
+        "fetchedAt": "2026-04-09T13:07:53.100088Z"
+      },
+      {
+        "year": 2026,
+        "carType": "12",
+        "region": "경산시",
+        "province": "경북",
+        "localCode": "4729",
+        "vehicleClass": "화물(소형)",
+        "maker": "일진정공",
+        "vehicle": "일진무시동전기탑차(ST1)",
+        "trim": "기본",
+        "rawModelName": "일진무시동전기탑차(ST1)",
+        "amounts": {
+          "national": 1100,
+          "local": 628,
+          "total": 1728
+        },
+        "sourceURL": "https://www.ev.or.kr/nportal/buySupprt/psPopupLocalCarModelPrice.do",
+        "fetchedAt": "2026-04-09T13:07:53.100088Z"
+      },
+      {
+        "year": 2026,
+        "carType": "12",
+        "region": "경산시",
+        "province": "경북",
+        "localCode": "4729",
+        "vehicleClass": "화물(소형)",
+        "maker": "한국쓰리축",
+        "vehicle": "한국쓰리축1톤ST1트럭",
+        "trim": "기본",
+        "rawModelName": "한국쓰리축1톤ST1트럭",
+        "amounts": {
+          "national": 1200,
+          "local": 685,
+          "total": 1885
+        },
+        "sourceURL": "https://www.ev.or.kr/nportal/buySupprt/psPopupLocalCarModelPrice.do",
+        "fetchedAt": "2026-04-09T13:07:53.100088Z"
+      },
+      {
+        "year": 2026,
+        "carType": "12",
+        "region": "경산시",
+        "province": "경북",
+        "localCode": "4729",
+        "vehicleClass": "화물(소형)",
+        "maker": "케이지모빌리티",
+        "vehicle": "토레스 EVX VAN",
+        "trim": "20인치",
+        "rawModelName": "토레스 EVX VAN 20인치",
+        "amounts": {
+          "national": 312,
+          "local": 178,
+          "total": 490
+        },
+        "sourceURL": "https://www.ev.or.kr/nportal/buySupprt/psPopupLocalCarModelPrice.do",
+        "fetchedAt": "2026-04-09T13:07:53.100088Z"
+      },
+      {
+        "year": 2026,
+        "carType": "12",
+        "region": "경산시",
+        "province": "경북",
+        "localCode": "4729",
+        "vehicleClass": "화물(소형)",
+        "maker": "케이지모빌리티",
+        "vehicle": "토레스 EVX VAN",
+        "trim": "18인치",
+        "rawModelName": "토레스 EVX VAN 18인치",
+        "amounts": {
+          "national": 314,
+          "local": 179,
+          "total": 493
+        },
+        "sourceURL": "https://www.ev.or.kr/nportal/buySupprt/psPopupLocalCarModelPrice.do",
+        "fetchedAt": "2026-04-09T13:07:53.100088Z"
+      },
+      {
+        "year": 2026,
+        "carType": "12",
+        "region": "경산시",
+        "province": "경북",
+        "localCode": "4729",
+        "vehicleClass": "화물(소형)",
+        "maker": "케이지모빌리티",
+        "vehicle": "MUSSO EV",
+        "trim": "2WD 17인치",
+        "rawModelName": "MUSSO EV 2WD 17인치",
+        "amounts": {
+          "national": 639,
+          "local": 364,
+          "total": 1003
+        },
+        "sourceURL": "https://www.ev.or.kr/nportal/buySupprt/psPopupLocalCarModelPrice.do",
+        "fetchedAt": "2026-04-09T13:07:53.100088Z"
+      },
+      {
+        "year": 2026,
+        "carType": "12",
+        "region": "경산시",
+        "province": "경북",
+        "localCode": "4729",
+        "vehicleClass": "화물(소형)",
+        "maker": "케이지모빌리티",
+        "vehicle": "MUSSO EV",
+        "trim": "AWD 17인치",
+        "rawModelName": "MUSSO EV AWD 17인치",
+        "amounts": {
+          "national": 618,
+          "local": 352,
+          "total": 970
+        },
+        "sourceURL": "https://www.ev.or.kr/nportal/buySupprt/psPopupLocalCarModelPrice.do",
+        "fetchedAt": "2026-04-09T13:07:53.100088Z"
+      },
+      {
+        "year": 2026,
+        "carType": "12",
+        "region": "경산시",
+        "province": "경북",
+        "localCode": "4729",
+        "vehicleClass": "화물(소형)",
+        "maker": "케이지모빌리티",
+        "vehicle": "토레스 EVX",
+        "trim": "밴 20인치",
+        "rawModelName": "토레스 EVX 밴 20인치",
+        "amounts": {
+          "national": 344,
+          "local": 196,
+          "total": 540
+        },
+        "sourceURL": "https://www.ev.or.kr/nportal/buySupprt/psPopupLocalCarModelPrice.do",
+        "fetchedAt": "2026-04-09T13:07:53.100088Z"
+      },
+      {
+        "year": 2026,
+        "carType": "12",
+        "region": "경산시",
+        "province": "경북",
+        "localCode": "4729",
+        "vehicleClass": "화물(소형)",
+        "maker": "케이지모빌리티",
+        "vehicle": "토레스 EVX",
+        "trim": "밴 18인치",
+        "rawModelName": "토레스 EVX 밴 18인치",
+        "amounts": {
+          "national": 348,
+          "local": 198,
+          "total": 546
+        },
+        "sourceURL": "https://www.ev.or.kr/nportal/buySupprt/psPopupLocalCarModelPrice.do",
+        "fetchedAt": "2026-04-09T13:07:53.100088Z"
+      },
+      {
+        "year": 2026,
+        "carType": "12",
+        "region": "경산시",
+        "province": "경북",
+        "localCode": "4729",
+        "vehicleClass": "화물(소형)",
+        "maker": "케이지모빌리티",
+        "vehicle": "토레스 EVX",
+        "trim": "밴 18인치(2026)",
+        "rawModelName": "토레스 EVX 밴 18인치(2026)",
+        "amounts": {
+          "national": 355,
+          "local": 202,
+          "total": 557
+        },
+        "sourceURL": "https://www.ev.or.kr/nportal/buySupprt/psPopupLocalCarModelPrice.do",
+        "fetchedAt": "2026-04-09T13:07:53.100088Z"
+      }
+    ],
+    "fetchedAt": "2026-04-09T13:07:53.100088Z"
+  }
+}

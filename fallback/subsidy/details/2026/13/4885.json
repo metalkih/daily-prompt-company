@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "publishedAt": "2026-04-09T13:01:45.150932Z",
+  "sourceFetchedAt": "2026-04-09T13:11:25.813612Z",
+  "sourceStatus": "ok",
+  "sourceURLs": [
+    "https://www.ev.or.kr/nportal/buySupprt/psPopupLocalCarModelPrice.do"
+  ],
+  "payload": {
+    "region": {
+      "year": 2026,
+      "carType": "13",
+      "province": "경남",
+      "name": "하동군",
+      "localCode": "4885",
+      "summaryText": "승용 843\n\n경·소형 637\n초소형 380\n\n\n소형 1,885",
+      "sourceURL": "https://ev.or.kr/nportal/buySupprt/initPsLocalCarPirceAction.do"
+    },
+    "entries": [],
+    "fetchedAt": "2026-04-09T13:11:25.813612Z"
+  }
+}

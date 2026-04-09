@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "publishedAt": "2026-04-09T13:01:45.150932Z",
+  "sourceFetchedAt": "2026-04-09T13:09:45.624210Z",
+  "sourceStatus": "ok",
+  "sourceURLs": [
+    "https://www.ev.or.kr/nportal/buySupprt/psPopupLocalCarModelPrice.do"
+  ],
+  "payload": {
+    "region": {
+      "year": 2026,
+      "carType": "13",
+      "province": "충북",
+      "name": "괴산군",
+      "localCode": "4376",
+      "summaryText": "승용 1,296\n\n경·소형 980\n초소형 380\n\n\n소형 2,416",
+      "sourceURL": "https://ev.or.kr/nportal/buySupprt/initPsLocalCarPirceAction.do"
+    },
+    "entries": [],
+    "fetchedAt": "2026-04-09T13:09:45.624210Z"
+  }
+}

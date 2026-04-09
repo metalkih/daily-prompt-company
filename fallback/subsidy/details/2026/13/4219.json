@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "publishedAt": "2026-04-09T13:01:45.150932Z",
+  "sourceFetchedAt": "2026-04-09T13:09:21.865234Z",
+  "sourceStatus": "ok",
+  "sourceURLs": [
+    "https://www.ev.or.kr/nportal/buySupprt/psPopupLocalCarModelPrice.do"
+  ],
+  "payload": {
+    "region": {
+      "year": 2026,
+      "carType": "13",
+      "province": "강원",
+      "name": "태백시",
+      "localCode": "4219",
+      "summaryText": "승용 972\n\n경·소형 735\n초소형 608\n\n\n소형 2,030",
+      "sourceURL": "https://ev.or.kr/nportal/buySupprt/initPsLocalCarPirceAction.do"
+    },
+    "entries": [],
+    "fetchedAt": "2026-04-09T13:09:21.865234Z"
+  }
+}

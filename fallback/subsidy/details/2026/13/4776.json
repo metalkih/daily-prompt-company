@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "publishedAt": "2026-04-09T13:01:45.150932Z",
+  "sourceFetchedAt": "2026-04-09T13:10:59.511428Z",
+  "sourceStatus": "ok",
+  "sourceURLs": [
+    "https://www.ev.or.kr/nportal/buySupprt/psPopupLocalCarModelPrice.do"
+  ],
+  "payload": {
+    "region": {
+      "year": 2026,
+      "carType": "13",
+      "province": "경북",
+      "name": "영양군",
+      "localCode": "4776",
+      "summaryText": "승용 1,315\n\n경·소형 1,043\n초소형 596\n\n\n소형 2,277",
+      "sourceURL": "https://ev.or.kr/nportal/buySupprt/initPsLocalCarPirceAction.do"
+    },
+    "entries": [],
+    "fetchedAt": "2026-04-09T13:10:59.511428Z"
+  }
+}

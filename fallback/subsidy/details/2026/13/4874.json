@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "publishedAt": "2026-04-09T13:01:45.150932Z",
+  "sourceFetchedAt": "2026-04-09T13:11:21.759645Z",
+  "sourceStatus": "ok",
+  "sourceURLs": [
+    "https://www.ev.or.kr/nportal/buySupprt/psPopupLocalCarModelPrice.do"
+  ],
+  "payload": {
+    "region": {
+      "year": 2026,
+      "carType": "13",
+      "province": "경남",
+      "name": "창녕군",
+      "localCode": "4874",
+      "summaryText": "승용 1,103\n\n경·소형 833\n초소형 570\n\n\n소형 2,175",
+      "sourceURL": "https://ev.or.kr/nportal/buySupprt/initPsLocalCarPirceAction.do"
+    },
+    "entries": [],
+    "fetchedAt": "2026-04-09T13:11:21.759645Z"
+  }
+}

@@ -1,0 +1,2113 @@
+{
+  "schemaVersion": 1,
+  "publishedAt": "2026-04-09T13:01:45.150932Z",
+  "sourceFetchedAt": "2026-04-09T13:02:12.815943Z",
+  "sourceStatus": "ok",
+  "sourceURLs": [
+    "https://www.ev.or.kr/nportal/buySupprt/psPopupLocalCarModelPrice.do"
+  ],
+  "payload": {
+    "region": {
+      "year": 2026,
+      "carType": "11",
+      "province": "경기",
+      "name": "고양시",
+      "localCode": "4128",
+      "summaryText": "승용 907\n\n경·소형 686\n초소형 494\n\n\n소형 1,885\n소형 4,080\n\n중형 11,553\n\n대형 14,390",
+      "sourceURL": "https://ev.or.kr/nportal/buySupprt/initPsLocalCarPirceAction.do"
+    },
+    "entries": [
+      {
+        "year": 2026,
+        "carType": "11",
+        "region": "고양시",
+        "province": "경기",
+        "localCode": "4128",
+        "vehicleClass": "일반승용",
+        "maker": "현대자동차",
+        "vehicle": "GV60 스탠다드",
+        "trim": "2WD 19인치",
+        "rawModelName": "GV60 스탠다드 2WD 19인치",
+        "amounts": {
+          "national": 285,
+          "local": 114,
+          "total": 399
+        },
+        "sourceURL": "https://www.ev.or.kr/nportal/buySupprt/psPopupLocalCarModelPrice.do",
+        "fetchedAt": "2026-04-09T13:02:12.815943Z"
+      },
+      {
+        "year": 2026,
+        "carType": "11",
+        "region": "고양시",
+        "province": "경기",
+        "localCode": "4128",
+        "vehicleClass": "일반승용",
+        "maker": "현대자동차",
+        "vehicle": "GV60 스탠다드",
+        "trim": "AWD 19인치",
+        "rawModelName": "GV60 스탠다드 AWD 19인치",
+        "amounts": {
+          "national": 272,
+          "local": 108,
+          "total": 380
+        },
+        "sourceURL": "https://www.ev.or.kr/nportal/buySupprt/psPopupLocalCarModelPrice.do",
+        "fetchedAt": "2026-04-09T13:02:12.815943Z"
+      },
+      {
+        "year": 2026,
+        "carType": "11",
+        "region": "고양시",
+        "province": "경기",
+        "localCode": "4128",
+        "vehicleClass": "일반승용",
+        "maker": "현대자동차",
+        "vehicle": "GV60 스탠다드",
+        "trim": "AWD 20인치",
+        "rawModelName": "GV60 스탠다드 AWD 20인치",
+        "amounts": {
+          "national": 261,
+          "local": 104,
+          "total": 365
+        },
+        "sourceURL": "https://www.ev.or.kr/nportal/buySupprt/psPopupLocalCarModelPrice.do",
+        "fetchedAt": "2026-04-09T13:02:12.815943Z"
+      },
+      {
+        "year": 2026,
+        "carType": "11",
+        "region": "고양시",
+        "province": "경기",
+        "localCode": "4128",
+        "vehicleClass": "일반승용",
+        "maker": "현대자동차",
+        "vehicle": "코나 일렉트릭",
+        "trim": "2WD 스탠다드 17인치",
+        "rawModelName": "코나 일렉트릭 2WD 스탠다드 17인치",
+        "amounts": {
+          "national": 437,
+          "local": 174,
+          "total": 611
+        },
+        "sourceURL": "https://www.ev.or.kr/nportal/buySupprt/psPopupLocalCarModelPrice.do",
+        "fetchedAt": "2026-04-09T13:02:12.815943Z"
+      },
+      {
+        "year": 2026,
+        "carType": "11",
+        "region": "고양시",
+        "province": "경기",
+        "localCode": "4128",
+        "vehicleClass": "일반승용",
+        "maker": "현대자동차",
+        "vehicle": "코나 일렉트릭",
+        "trim": "2WD 롱레인지 17인치",
+        "rawModelName": "코나 일렉트릭 2WD 롱레인지 17인치",
+        "amounts": {
+          "national": 514,
+          "local": 205,
+          "total": 719
+        },
+        "sourceURL": "https://www.ev.or.kr/nportal/buySupprt/psPopupLocalCarModelPrice.do",
+        "fetchedAt": "2026-04-09T13:02:12.815943Z"
+      },
+      {
+        "year": 2026,
+        "carType": "11",
+        "region": "고양시",
+        "province": "경기",
+        "localCode": "4128",
+        "vehicleClass": "일반승용",
+        "maker": "현대자동차",
+        "vehicle": "아이오닉6",
+        "trim": "N",
+        "rawModelName": "아이오닉6 N",
+        "amounts": {
+          "national": 250,
+          "local": 100,
+          "total": 350
+        },
+        "sourceURL": "https://www.ev.or.kr/nportal/buySupprt/psPopupLocalCarModelPrice.do",
+        "fetchedAt": "2026-04-09T13:02:12.815943Z"
+      },
+      {
+        "year": 2026,
+        "carType": "11",
+        "region": "고양시",
+        "province": "경기",
+        "localCode": "4128",
+        "vehicleClass": "일반승용",
+        "maker": "현대자동차",
+        "vehicle": "코나 일렉트릭",
+        "trim": "2WD 롱레인지 17인치 빌트인 캠 미적용",
+        "rawModelName": "코나 일렉트릭 2WD 롱레인지 17인치 빌트인 캠 미적용",
+        "amounts": {
+          "national": 514,
+          "local": 205,
+          "total": 719
+        },
+        "sourceURL": "https://www.ev.or.kr/nportal/buySupprt/psPopupLocalCarModelPrice.do",
+        "fetchedAt": "2026-04-09T13:02:12.815943Z"
+      },
+      {
+        "year": 2026,
+        "carType": "11",
+        "region": "고양시",
+        "province": "경기",
+        "localCode": "4128",
+        "vehicleClass": "일반승용",
+        "maker": "현대자동차",
+        "vehicle": "코나 일렉트릭",
+        "trim": "2WD 롱레인지 19인치",
+        "rawModelName": "코나 일렉트릭 2WD 롱레인지 19인치",
+        "amounts": {
+          "national": 459,
+          "local": 183,
+          "total": 642
+        },
+        "sourceURL": "https://www.ev.or.kr/nportal/buySupprt/psPopupLocalCarModelPrice.do",
+        "fetchedAt": "2026-04-09T13:02:12.815943Z"
+      },
+      {
+        "year": 2026,
+        "carType": "11",
+        "region": "고양시",
+        "province": "경기",
+        "localCode": "4128",
+        "vehicleClass": "일반승용",
+        "maker": "현대자동차",
+        "vehicle": "ELECTRIFIED GV70",
+        "trim": "AWD 19인치",
+        "rawModelName": "ELECTRIFIED GV70 AWD 19인치",
+        "amounts": {
+          "national": 261,
+          "local": 104,
+          "total": 365
+        },
+        "sourceURL": "https://www.ev.or.kr/nportal/buySupprt/psPopupLocalCarModelPrice.do",
+        "fetchedAt": "2026-04-09T13:02:12.815943Z"
+      },
+      {
+        "year": 2026,
+        "carType": "11",
+        "region": "고양시",
+        "province": "경기",
+        "localCode": "4128",
+        "vehicleClass": "일반승용",
+        "maker": "현대자동차",
+        "vehicle": "ELECTRIFIED GV70",
+        "trim": "AWD 20인치",
+        "rawModelName": "ELECTRIFIED GV70 AWD 20인치",
+        "amounts": {
+          "national": 245,
+          "local": 98,
+          "total": 343
+        },
+        "sourceURL": "https://www.ev.or.kr/nportal/buySupprt/psPopupLocalCarModelPrice.do",
+        "fetchedAt": "2026-04-09T13:02:12.815943Z"
+      },
+      {
+        "year": 2026,
+        "carType": "11",
+        "region": "고양시",
+        "province": "경기",
+        "localCode": "4128",
+        "vehicleClass": "일반승용",
+        "maker": "현대자동차",
+        "vehicle": "ELECTRIFIED G80",
+        "trim": "기본",
+        "rawModelName": "ELECTRIFIED G80",
+        "amounts": {
+          "national": 270,
+          "local": 108,
+          "total": 378
+        },
+        "sourceURL": "https://www.ev.or.kr/nportal/buySupprt/psPopupLocalCarModelPrice.do",
+        "fetchedAt": "2026-04-09T13:02:12.815943Z"
+      },
+      {
+        "year": 2026,
+        "carType": "11",
+        "region": "고양시",
+        "province": "경기",
+        "localCode": "4128",
+        "vehicleClass": "일반승용",
+        "maker": "현대자동차",
+        "vehicle": "더 뉴 아이오닉5",
+        "trim": "2WD 스탠다드 19인치",
+        "rawModelName": "더 뉴 아이오닉5 2WD 스탠다드 19인치",
+        "amounts": {
+          "national": 483,
+          "local": 193,
+          "total": 676
+        },
+        "sourceURL": "https://www.ev.or.kr/nportal/buySupprt/psPopupLocalCarModelPrice.do",
+        "fetchedAt": "2026-04-09T13:02:12.815943Z"
+      },
+      {
+        "year": 2026,
+        "carType": "11",
+        "region": "고양시",
+        "province": "경기",
+        "localCode": "4128",
+        "vehicleClass": "일반승용",
+        "maker": "현대자동차",
+        "vehicle": "더 뉴 아이오닉5",
+        "trim": "2WD 롱레인지 19인치",
+        "rawModelName": "더 뉴 아이오닉5 2WD 롱레인지 19인치",
+        "amounts": {
+          "national": 564,
+          "local": 225,
+          "total": 789
+        },
+        "sourceURL": "https://www.ev.or.kr/nportal/buySupprt/psPopupLocalCarModelPrice.do",
+        "fetchedAt": "2026-04-09T13:02:12.815943Z"
+      },
+      {
+        "year": 2026,
+        "carType": "11",
+        "region": "고양시",
+        "province": "경기",
+        "localCode": "4128",
+        "vehicleClass": "일반승용",
+        "maker": "현대자동차",
+        "vehicle": "더 뉴 아이오닉5",
+        "trim": "2WD 롱레인지 19인치 빌트인 캠 미적용",
+        "rawModelName": "더 뉴 아이오닉5 2WD 롱레인지 19인치 빌트인 캠 미적용",
+        "amounts": {
+          "national": 567,
+          "local": 226,
+          "total": 793
+        },
+        "sourceURL": "https://www.ev.or.kr/nportal/buySupprt/psPopupLocalCarModelPrice.do",
+        "fetchedAt": "2026-04-09T13:02:12.815943Z"
+      },
+      {
+        "year": 2026,
+        "carType": "11",
+        "region": "고양시",
+        "province": "경기",
+        "localCode": "4128",
+        "vehicleClass": "일반승용",
+        "maker": "현대자동차",
+        "vehicle": "더 뉴 아이오닉5",
+        "trim": "2WD 롱레인지 20인치",
+        "rawModelName": "더 뉴 아이오닉5 2WD 롱레인지 20인치",
+        "amounts": {
+          "national": 559,
+          "local": 223,
+          "total": 782
+        },
+        "sourceURL": "https://www.ev.or.kr/nportal/buySupprt/psPopupLocalCarModelPrice.do",
+        "fetchedAt": "2026-04-09T13:02:12.815943Z"
+      },
+      {
+        "year": 2026,
+        "carType": "11",
+        "region": "고양시",
+        "province": "경기",
+        "localCode": "4128",
+        "vehicleClass": "일반승용",
+        "maker": "현대자동차",
+        "vehicle": "더 뉴 아이오닉5",
+        "trim": "2WD 롱레인지 N라인 20인치",
+        "rawModelName": "더 뉴 아이오닉5 2WD 롱레인지 N라인 20인치",
+        "amounts": {
+          "national": 541,
+          "local": 216,
+          "total": 757
+        },
+        "sourceURL": "https://www.ev.or.kr/nportal/buySupprt/psPopupLocalCarModelPrice.do",
+        "fetchedAt": "2026-04-09T13:02:12.815943Z"
+      },
+      {
+        "year": 2026,
+        "carType": "11",
+        "region": "고양시",
+        "province": "경기",
+        "localCode": "4128",
+        "vehicleClass": "일반승용",
+        "maker": "현대자동차",
+        "vehicle": "더 뉴 아이오닉5",
+        "trim": "AWD 롱레인지 19인치",
+        "rawModelName": "더 뉴 아이오닉5 AWD 롱레인지 19인치",
+        "amounts": {
+          "national": 558,
+          "local": 223,
+          "total": 781
+        },
+        "sourceURL": "https://www.ev.or.kr/nportal/buySupprt/psPopupLocalCarModelPrice.do",
+        "fetchedAt": "2026-04-09T13:02:12.815943Z"
+      },
+      {
+        "year": 2026,
+        "carType": "11",
+        "region": "고양시",
+        "province": "경기",
+        "localCode": "4128",
+        "vehicleClass": "일반승용",
+        "maker": "현대자동차",
+        "vehicle": "더 뉴 아이오닉5",
+        "trim": "AWD 롱레인지 20인치",
+        "rawModelName": "더 뉴 아이오닉5 AWD 롱레인지 20인치",
+        "amounts": {
+          "national": 532,
+          "local": 212,
+          "total": 744
+        },
+        "sourceURL": "https://www.ev.or.kr/nportal/buySupprt/psPopupLocalCarModelPrice.do",
+        "fetchedAt": "2026-04-09T13:02:12.815943Z"
+      },
+      {
+        "year": 2026,
+        "carType": "11",
+        "region": "고양시",
+        "province": "경기",
+        "localCode": "4128",
+        "vehicleClass": "일반승용",
+        "maker": "현대자동차",
+        "vehicle": "더 뉴 아이오닉5",
+        "trim": "AWD 롱레인지 N라인 20인치",
+        "rawModelName": "더 뉴 아이오닉5 AWD 롱레인지 N라인 20인치",
+        "amounts": {
+          "national": 510,
+          "local": 204,
+          "total": 714
+        },
+        "sourceURL": "https://www.ev.or.kr/nportal/buySupprt/psPopupLocalCarModelPrice.do",
+        "fetchedAt": "2026-04-09T13:02:12.815943Z"
+      },
+      {
+        "year": 2026,
+        "carType": "11",
+        "region": "고양시",
+        "province": "경기",
+        "localCode": "4128",
+        "vehicleClass": "일반승용",
+        "maker": "현대자동차",
+        "vehicle": "더 뉴 아이오닉6",
+        "trim": "2WD 스탠다드 18인치",
+        "rawModelName": "더 뉴 아이오닉6 2WD 스탠다드 18인치",
+        "amounts": {
+          "national": 560,
+          "local": 224,
+          "total": 784
+        },
+        "sourceURL": "https://www.ev.or.kr/nportal/buySupprt/psPopupLocalCarModelPrice.do",
+        "fetchedAt": "2026-04-09T13:02:12.815943Z"
+      },
+      {
+        "year": 2026,
+        "carType": "11",
+        "region": "고양시",
+        "province": "경기",
+        "localCode": "4128",
+        "vehicleClass": "일반승용",
+        "maker": "현대자동차",
+        "vehicle": "더 뉴 아이오닉6",
+        "trim": "2WD 롱레인지 18인치",
+        "rawModelName": "더 뉴 아이오닉6 2WD 롱레인지 18인치",
+        "amounts": {
+          "national": 570,
+          "local": 228,
+          "total": 798
+        },
+        "sourceURL": "https://www.ev.or.kr/nportal/buySupprt/psPopupLocalCarModelPrice.do",
+        "fetchedAt": "2026-04-09T13:02:12.815943Z"
+      },
+      {
+        "year": 2026,
+        "carType": "11",
+        "region": "고양시",
+        "province": "경기",
+        "localCode": "4128",
+        "vehicleClass": "일반승용",
+        "maker": "현대자동차",
+        "vehicle": "더 뉴 아이오닉6",
+        "trim": "2WD 롱레인지 20인치",
+        "rawModelName": "더 뉴 아이오닉6 2WD 롱레인지 20인치",
+        "amounts": {
+          "national": 570,
+          "local": 228,
+          "total": 798
+        },
+        "sourceURL": "https://www.ev.or.kr/nportal/buySupprt/psPopupLocalCarModelPrice.do",
+        "fetchedAt": "2026-04-09T13:02:12.815943Z"
+      },
+      {
+        "year": 2026,
+        "carType": "11",
+        "region": "고양시",
+        "province": "경기",
+        "localCode": "4128",
+        "vehicleClass": "일반승용",
+        "maker": "현대자동차",
+        "vehicle": "더 뉴 아이오닉6",
+        "trim": "2WD 롱레인지 N라인 20인치",
+        "rawModelName": "더 뉴 아이오닉6 2WD 롱레인지 N라인 20인치",
+        "amounts": {
+          "national": 570,
+          "local": 228,
+          "total": 798
+        },
+        "sourceURL": "https://www.ev.or.kr/nportal/buySupprt/psPopupLocalCarModelPrice.do",
+        "fetchedAt": "2026-04-09T13:02:12.815943Z"
+      },
+      {
+        "year": 2026,
+        "carType": "11",
+        "region": "고양시",
+        "province": "경기",
+        "localCode": "4128",
+        "vehicleClass": "일반승용",
+        "maker": "현대자동차",
+        "vehicle": "더 뉴 아이오닉6",
+        "trim": "AWD 롱레인지 18인치",
+        "rawModelName": "더 뉴 아이오닉6 AWD 롱레인지 18인치",
+        "amounts": {
+          "national": 570,
+          "local": 228,
+          "total": 798
+        },
+        "sourceURL": "https://www.ev.or.kr/nportal/buySupprt/psPopupLocalCarModelPrice.do",
+        "fetchedAt": "2026-04-09T13:02:12.815943Z"
+      },
+      {
+        "year": 2026,
+        "carType": "11",
+        "region": "고양시",
+        "province": "경기",
+        "localCode": "4128",
+        "vehicleClass": "일반승용",
+        "maker": "현대자동차",
+        "vehicle": "더 뉴 아이오닉6",
+        "trim": "AWD 롱레인지 20인치",
+        "rawModelName": "더 뉴 아이오닉6 AWD 롱레인지 20인치",
+        "amounts": {
+          "national": 553,
+          "local": 221,
+          "total": 774
+        },
+        "sourceURL": "https://www.ev.or.kr/nportal/buySupprt/psPopupLocalCarModelPrice.do",
+        "fetchedAt": "2026-04-09T13:02:12.815943Z"
+      },
+      {
+        "year": 2026,
+        "carType": "11",
+        "region": "고양시",
+        "province": "경기",
+        "localCode": "4128",
+        "vehicleClass": "일반승용",
+        "maker": "현대자동차",
+        "vehicle": "더 뉴 아이오닉6",
+        "trim": "AWD 롱레인지 N라인 20인치",
+        "rawModelName": "더 뉴 아이오닉6 AWD 롱레인지 N라인 20인치",
+        "amounts": {
+          "national": 537,
+          "local": 214,
+          "total": 751
+        },
+        "sourceURL": "https://www.ev.or.kr/nportal/buySupprt/psPopupLocalCarModelPrice.do",
+        "fetchedAt": "2026-04-09T13:02:12.815943Z"
+      },
+      {
+        "year": 2026,
+        "carType": "11",
+        "region": "고양시",
+        "province": "경기",
+        "localCode": "4128",
+        "vehicleClass": "일반승용",
+        "maker": "현대자동차",
+        "vehicle": "아이오닉 9 성능형",
+        "trim": "AWD",
+        "rawModelName": "아이오닉 9 성능형 AWD",
+        "amounts": {
+          "national": 272,
+          "local": 108,
+          "total": 380
+        },
+        "sourceURL": "https://www.ev.or.kr/nportal/buySupprt/psPopupLocalCarModelPrice.do",
+        "fetchedAt": "2026-04-09T13:02:12.815943Z"
+      },
+      {
+        "year": 2026,
+        "carType": "11",
+        "region": "고양시",
+        "province": "경기",
+        "localCode": "4128",
+        "vehicleClass": "일반승용",
+        "maker": "현대자동차",
+        "vehicle": "아이오닉 9 항속형",
+        "trim": "2WD",
+        "rawModelName": "아이오닉 9 항속형 2WD",
+        "amounts": {
+          "national": 274,
+          "local": 109,
+          "total": 383
+        },
+        "sourceURL": "https://www.ev.or.kr/nportal/buySupprt/psPopupLocalCarModelPrice.do",
+        "fetchedAt": "2026-04-09T13:02:12.815943Z"
+      },
+      {
+        "year": 2026,
+        "carType": "11",
+        "region": "고양시",
+        "province": "경기",
+        "localCode": "4128",
+        "vehicleClass": "일반승용",
+        "maker": "현대자동차",
+        "vehicle": "아이오닉 9 항속형",
+        "trim": "AWD",
+        "rawModelName": "아이오닉 9 항속형 AWD",
+        "amounts": {
+          "national": 271,
+          "local": 108,
+          "total": 379
+        },
+        "sourceURL": "https://www.ev.or.kr/nportal/buySupprt/psPopupLocalCarModelPrice.do",
+        "fetchedAt": "2026-04-09T13:02:12.815943Z"
+      },
+      {
+        "year": 2026,
+        "carType": "11",
+        "region": "고양시",
+        "province": "경기",
+        "localCode": "4128",
+        "vehicleClass": "일반승용",
+        "maker": "기아",
+        "vehicle": "The all-new Kia",
+        "trim": "Niro EV",
+        "rawModelName": "The all-new Kia Niro EV",
+        "amounts": {
+          "national": 489,
+          "local": 195,
+          "total": 684
+        },
+        "sourceURL": "https://www.ev.or.kr/nportal/buySupprt/psPopupLocalCarModelPrice.do",
+        "fetchedAt": "2026-04-09T13:02:12.815943Z"
+      },
+      {
+        "year": 2026,
+        "carType": "11",
+        "region": "고양시",
+        "province": "경기",
+        "localCode": "4128",
+        "vehicleClass": "일반승용",
+        "maker": "기아",
+        "vehicle": "EV9 롱레인지",
+        "trim": "2WD 19인치",
+        "rawModelName": "EV9 롱레인지 2WD 19인치",
+        "amounts": {
+          "national": 270,
+          "local": 108,
+          "total": 378
+        },
+        "sourceURL": "https://www.ev.or.kr/nportal/buySupprt/psPopupLocalCarModelPrice.do",
+        "fetchedAt": "2026-04-09T13:02:12.815943Z"
+      },
+      {
+        "year": 2026,
+        "carType": "11",
+        "region": "고양시",
+        "province": "경기",
+        "localCode": "4128",
+        "vehicleClass": "일반승용",
+        "maker": "기아",
+        "vehicle": "EV9 롱레인지",
+        "trim": "2WD 20인치",
+        "rawModelName": "EV9 롱레인지 2WD 20인치",
+        "amounts": {
+          "national": 268,
+          "local": 107,
+          "total": 375
+        },
+        "sourceURL": "https://www.ev.or.kr/nportal/buySupprt/psPopupLocalCarModelPrice.do",
+        "fetchedAt": "2026-04-09T13:02:12.815943Z"
+      },
+      {
+        "year": 2026,
+        "carType": "11",
+        "region": "고양시",
+        "province": "경기",
+        "localCode": "4128",
+        "vehicleClass": "일반승용",
+        "maker": "기아",
+        "vehicle": "EV9 롱레인지",
+        "trim": "4WD 19인치",
+        "rawModelName": "EV9 롱레인지 4WD 19인치",
+        "amounts": {
+          "national": 254,
+          "local": 101,
+          "total": 355
+        },
+        "sourceURL": "https://www.ev.or.kr/nportal/buySupprt/psPopupLocalCarModelPrice.do",
+        "fetchedAt": "2026-04-09T13:02:12.815943Z"
+      },
+      {
+        "year": 2026,
+        "carType": "11",
+        "region": "고양시",
+        "province": "경기",
+        "localCode": "4128",
+        "vehicleClass": "일반승용",
+        "maker": "기아",
+        "vehicle": "EV9 롱레인지",
+        "trim": "4WD 21인치",
+        "rawModelName": "EV9 롱레인지 4WD 21인치",
+        "amounts": {
+          "national": 260,
+          "local": 104,
+          "total": 364
+        },
+        "sourceURL": "https://www.ev.or.kr/nportal/buySupprt/psPopupLocalCarModelPrice.do",
+        "fetchedAt": "2026-04-09T13:02:12.815943Z"
+      },
+      {
+        "year": 2026,
+        "carType": "11",
+        "region": "고양시",
+        "province": "경기",
+        "localCode": "4128",
+        "vehicleClass": "일반승용",
+        "maker": "기아",
+        "vehicle": "EV9 롱레인지 GTL",
+        "trim": "4WD 21인치",
+        "rawModelName": "EV9 롱레인지 GTL 4WD 21인치",
+        "amounts": {
+          "national": 252,
+          "local": 100,
+          "total": 352
+        },
+        "sourceURL": "https://www.ev.or.kr/nportal/buySupprt/psPopupLocalCarModelPrice.do",
+        "fetchedAt": "2026-04-09T13:02:12.815943Z"
+      },
+      {
+        "year": 2026,
+        "carType": "11",
+        "region": "고양시",
+        "province": "경기",
+        "localCode": "4128",
+        "vehicleClass": "일반승용",
+        "maker": "기아",
+        "vehicle": "더뉴EV6 롱레인지",
+        "trim": "4WD 20인치",
+        "rawModelName": "더뉴EV6 롱레인지 4WD 20인치",
+        "amounts": {
+          "national": 532,
+          "local": 212,
+          "total": 744
+        },
+        "sourceURL": "https://www.ev.or.kr/nportal/buySupprt/psPopupLocalCarModelPrice.do",
+        "fetchedAt": "2026-04-09T13:02:12.815943Z"
+      },
+      {
+        "year": 2026,
+        "carType": "11",
+        "region": "고양시",
+        "province": "경기",
+        "localCode": "4128",
+        "vehicleClass": "일반승용",
+        "maker": "기아",
+        "vehicle": "더뉴EV6 롱레인지",
+        "trim": "2WD 20인치",
+        "rawModelName": "더뉴EV6 롱레인지 2WD 20인치",
+        "amounts": {
+          "national": 559,
+          "local": 223,
+          "total": 782
+        },
+        "sourceURL": "https://www.ev.or.kr/nportal/buySupprt/psPopupLocalCarModelPrice.do",
+        "fetchedAt": "2026-04-09T13:02:12.815943Z"
+      },
+      {
+        "year": 2026,
+        "carType": "11",
+        "region": "고양시",
+        "province": "경기",
+        "localCode": "4128",
+        "vehicleClass": "일반승용",
+        "maker": "기아",
+        "vehicle": "더뉴EV6 롱레인지",
+        "trim": "4WD 19인치",
+        "rawModelName": "더뉴EV6 롱레인지 4WD 19인치",
+        "amounts": {
+          "national": 561,
+          "local": 224,
+          "total": 785
+        },
+        "sourceURL": "https://www.ev.or.kr/nportal/buySupprt/psPopupLocalCarModelPrice.do",
+        "fetchedAt": "2026-04-09T13:02:12.815943Z"
+      },
+      {
+        "year": 2026,
+        "carType": "11",
+        "region": "고양시",
+        "province": "경기",
+        "localCode": "4128",
+        "vehicleClass": "일반승용",
+        "maker": "기아",
+        "vehicle": "더뉴EV6 롱레인지",
+        "trim": "2WD 19인치",
+        "rawModelName": "더뉴EV6 롱레인지 2WD 19인치",
+        "amounts": {
+          "national": 570,
+          "local": 228,
+          "total": 798
+        },
+        "sourceURL": "https://www.ev.or.kr/nportal/buySupprt/psPopupLocalCarModelPrice.do",
+        "fetchedAt": "2026-04-09T13:02:12.815943Z"
+      },
+      {
+        "year": 2026,
+        "carType": "11",
+        "region": "고양시",
+        "province": "경기",
+        "localCode": "4128",
+        "vehicleClass": "일반승용",
+        "maker": "기아",
+        "vehicle": "EV3 롱레인지",
+        "trim": "2WD 17인치",
+        "rawModelName": "EV3 롱레인지 2WD 17인치",
+        "amounts": {
+          "national": 555,
+          "local": 222,
+          "total": 777
+        },
+        "sourceURL": "https://www.ev.or.kr/nportal/buySupprt/psPopupLocalCarModelPrice.do",
+        "fetchedAt": "2026-04-09T13:02:12.815943Z"
+      },
+      {
+        "year": 2026,
+        "carType": "11",
+        "region": "고양시",
+        "province": "경기",
+        "localCode": "4128",
+        "vehicleClass": "일반승용",
+        "maker": "기아",
+        "vehicle": "EV3 롱레인지",
+        "trim": "2WD 19인치",
+        "rawModelName": "EV3 롱레인지 2WD 19인치",
+        "amounts": {
+          "national": 555,
+          "local": 222,
+          "total": 777
+        },
+        "sourceURL": "https://www.ev.or.kr/nportal/buySupprt/psPopupLocalCarModelPrice.do",
+        "fetchedAt": "2026-04-09T13:02:12.815943Z"
+      },
+      {
+        "year": 2026,
+        "carType": "11",
+        "region": "고양시",
+        "province": "경기",
+        "localCode": "4128",
+        "vehicleClass": "일반승용",
+        "maker": "기아",
+        "vehicle": "EV3 스탠다드",
+        "trim": "2WD",
+        "rawModelName": "EV3 스탠다드 2WD",
+        "amounts": {
+          "national": 469,
+          "local": 187,
+          "total": 656
+        },
+        "sourceURL": "https://www.ev.or.kr/nportal/buySupprt/psPopupLocalCarModelPrice.do",
+        "fetchedAt": "2026-04-09T13:02:12.815943Z"
+      },
+      {
+        "year": 2026,
+        "carType": "11",
+        "region": "고양시",
+        "province": "경기",
+        "localCode": "4128",
+        "vehicleClass": "일반승용",
+        "maker": "기아",
+        "vehicle": "더뉴EV6",
+        "trim": "스탠다드",
+        "rawModelName": "더뉴EV6 스탠다드",
+        "amounts": {
+          "national": 501,
+          "local": 200,
+          "total": 701
+        },
+        "sourceURL": "https://www.ev.or.kr/nportal/buySupprt/psPopupLocalCarModelPrice.do",
+        "fetchedAt": "2026-04-09T13:02:12.815943Z"
+      },
+      {
+        "year": 2026,
+        "carType": "11",
+        "region": "고양시",
+        "province": "경기",
+        "localCode": "4128",
+        "vehicleClass": "일반승용",
+        "maker": "기아",
+        "vehicle": "EV9",
+        "trim": "스탠다드",
+        "rawModelName": "EV9 스탠다드",
+        "amounts": {
+          "national": 237,
+          "local": 94,
+          "total": 331
+        },
+        "sourceURL": "https://www.ev.or.kr/nportal/buySupprt/psPopupLocalCarModelPrice.do",
+        "fetchedAt": "2026-04-09T13:02:12.815943Z"
+      },
+      {
+        "year": 2026,
+        "carType": "11",
+        "region": "고양시",
+        "province": "경기",
+        "localCode": "4128",
+        "vehicleClass": "일반승용",
+        "maker": "기아",
+        "vehicle": "EV4 롱레인지 GTL",
+        "trim": "2WD 19인치",
+        "rawModelName": "EV4 롱레인지 GTL 2WD 19인치",
+        "amounts": {
+          "national": 555,
+          "local": 222,
+          "total": 777
+        },
+        "sourceURL": "https://www.ev.or.kr/nportal/buySupprt/psPopupLocalCarModelPrice.do",
+        "fetchedAt": "2026-04-09T13:02:12.815943Z"
+      },
+      {
+        "year": 2026,
+        "carType": "11",
+        "region": "고양시",
+        "province": "경기",
+        "localCode": "4128",
+        "vehicleClass": "일반승용",
+        "maker": "기아",
+        "vehicle": "EV4 스탠다드",
+        "trim": "2WD 19인치",
+        "rawModelName": "EV4 스탠다드 2WD 19인치",
+        "amounts": {
+          "national": 481,
+          "local": 192,
+          "total": 673
+        },
+        "sourceURL": "https://www.ev.or.kr/nportal/buySupprt/psPopupLocalCarModelPrice.do",
+        "fetchedAt": "2026-04-09T13:02:12.815943Z"
+      },
+      {
+        "year": 2026,
+        "carType": "11",
+        "region": "고양시",
+        "province": "경기",
+        "localCode": "4128",
+        "vehicleClass": "일반승용",
+        "maker": "기아",
+        "vehicle": "EV4 롱레인지",
+        "trim": "2WD 17인치",
+        "rawModelName": "EV4 롱레인지 2WD 17인치",
+        "amounts": {
+          "national": 555,
+          "local": 222,
+          "total": 777
+        },
+        "sourceURL": "https://www.ev.or.kr/nportal/buySupprt/psPopupLocalCarModelPrice.do",
+        "fetchedAt": "2026-04-09T13:02:12.815943Z"
+      },
+      {
+        "year": 2026,
+        "carType": "11",
+        "region": "고양시",
+        "province": "경기",
+        "localCode": "4128",
+        "vehicleClass": "일반승용",
+        "maker": "기아",
+        "vehicle": "EV4 롱레인지",
+        "trim": "2WD 19인치",
+        "rawModelName": "EV4 롱레인지 2WD 19인치",
+        "amounts": {
+          "national": 555,
+          "local": 222,
+          "total": 777
+        },
+        "sourceURL": "https://www.ev.or.kr/nportal/buySupprt/psPopupLocalCarModelPrice.do",
+        "fetchedAt": "2026-04-09T13:02:12.815943Z"
+      },
+      {
+        "year": 2026,
+        "carType": "11",
+        "region": "고양시",
+        "province": "경기",
+        "localCode": "4128",
+        "vehicleClass": "일반승용",
+        "maker": "기아",
+        "vehicle": "EV4 스탠다드",
+        "trim": "2WD 17인치",
+        "rawModelName": "EV4 스탠다드 2WD 17인치",
+        "amounts": {
+          "national": 512,
+          "local": 204,
+          "total": 716
+        },
+        "sourceURL": "https://www.ev.or.kr/nportal/buySupprt/psPopupLocalCarModelPrice.do",
+        "fetchedAt": "2026-04-09T13:02:12.815943Z"
+      },
+      {
+        "year": 2026,
+        "carType": "11",
+        "region": "고양시",
+        "province": "경기",
+        "localCode": "4128",
+        "vehicleClass": "일반승용",
+        "maker": "기아",
+        "vehicle": "PV5 패신저 5인승",
+        "trim": "롱레인지",
+        "rawModelName": "PV5 패신저 5인승 롱레인지",
+        "amounts": {
+          "national": 458,
+          "local": 183,
+          "total": 641
+        },
+        "sourceURL": "https://www.ev.or.kr/nportal/buySupprt/psPopupLocalCarModelPrice.do",
+        "fetchedAt": "2026-04-09T13:02:12.815943Z"
+      },
+      {
+        "year": 2026,
+        "carType": "11",
+        "region": "고양시",
+        "province": "경기",
+        "localCode": "4128",
+        "vehicleClass": "일반승용",
+        "maker": "기아",
+        "vehicle": "EV5 롱레인지",
+        "trim": "2WD",
+        "rawModelName": "EV5 롱레인지 2WD",
+        "amounts": {
+          "national": 552,
+          "local": 220,
+          "total": 772
+        },
+        "sourceURL": "https://www.ev.or.kr/nportal/buySupprt/psPopupLocalCarModelPrice.do",
+        "fetchedAt": "2026-04-09T13:02:12.815943Z"
+      },
+      {
+        "year": 2026,
+        "carType": "11",
+        "region": "고양시",
+        "province": "경기",
+        "localCode": "4128",
+        "vehicleClass": "일반승용",
+        "maker": "기아",
+        "vehicle": "EV5 롱레인지",
+        "trim": "4WD 18인치",
+        "rawModelName": "EV5 롱레인지 4WD 18인치",
+        "amounts": {
+          "national": 499,
+          "local": 199,
+          "total": 698
+        },
+        "sourceURL": "https://www.ev.or.kr/nportal/buySupprt/psPopupLocalCarModelPrice.do",
+        "fetchedAt": "2026-04-09T13:02:12.815943Z"
+      },
+      {
+        "year": 2026,
+        "carType": "11",
+        "region": "고양시",
+        "province": "경기",
+        "localCode": "4128",
+        "vehicleClass": "일반승용",
+        "maker": "기아",
+        "vehicle": "Pv5 WAV(비용",
+        "trim": "지원)",
+        "rawModelName": "Pv5 WAV(비용 지원)",
+        "amounts": {
+          "national": 448,
+          "local": 179,
+          "total": 627
+        },
+        "sourceURL": "https://www.ev.or.kr/nportal/buySupprt/psPopupLocalCarModelPrice.do",
+        "fetchedAt": "2026-04-09T13:02:12.815943Z"
+      },
+      {
+        "year": 2026,
+        "carType": "11",
+        "region": "고양시",
+        "province": "경기",
+        "localCode": "4128",
+        "vehicleClass": "일반승용",
+        "maker": "기아",
+        "vehicle": "EV5 롱레인지",
+        "trim": "4WD 19인치",
+        "rawModelName": "EV5 롱레인지 4WD 19인치",
+        "amounts": {
+          "national": 493,
+          "local": 197,
+          "total": 690
+        },
+        "sourceURL": "https://www.ev.or.kr/nportal/buySupprt/psPopupLocalCarModelPrice.do",
+        "fetchedAt": "2026-04-09T13:02:12.815943Z"
+      },
+      {
+        "year": 2026,
+        "carType": "11",
+        "region": "고양시",
+        "province": "경기",
+        "localCode": "4128",
+        "vehicleClass": "일반승용",
+        "maker": "기아",
+        "vehicle": "Pv5 WAV(비용",
+        "trim": "미지원)",
+        "rawModelName": "Pv5 WAV(비용 미지원)",
+        "amounts": {
+          "national": 648,
+          "local": 259,
+          "total": 907
+        },
+        "sourceURL": "https://www.ev.or.kr/nportal/buySupprt/psPopupLocalCarModelPrice.do",
+        "fetchedAt": "2026-04-09T13:02:12.815943Z"
+      },
+      {
+        "year": 2026,
+        "carType": "11",
+        "region": "고양시",
+        "province": "경기",
+        "localCode": "4128",
+        "vehicleClass": "일반승용",
+        "maker": "기아",
+        "vehicle": "EV5",
+        "trim": "GT",
+        "rawModelName": "EV5 GT",
+        "amounts": {
+          "national": 232,
+          "local": 92,
+          "total": 324
+        },
+        "sourceURL": "https://www.ev.or.kr/nportal/buySupprt/psPopupLocalCarModelPrice.do",
+        "fetchedAt": "2026-04-09T13:02:12.815943Z"
+      },
+      {
+        "year": 2026,
+        "carType": "11",
+        "region": "고양시",
+        "province": "경기",
+        "localCode": "4128",
+        "vehicleClass": "일반승용",
+        "maker": "BMW",
+        "vehicle": "MINI Cooper",
+        "trim": "SE",
+        "rawModelName": "MINI Cooper SE",
+        "amounts": {
+          "national": 396,
+          "local": 158,
+          "total": 554
+        },
+        "sourceURL": "https://www.ev.or.kr/nportal/buySupprt/psPopupLocalCarModelPrice.do",
+        "fetchedAt": "2026-04-09T13:02:12.815943Z"
+      },
+      {
+        "year": 2026,
+        "carType": "11",
+        "region": "고양시",
+        "province": "경기",
+        "localCode": "4128",
+        "vehicleClass": "일반승용",
+        "maker": "BMW",
+        "vehicle": "iX1 xDrive30",
+        "trim": "기본",
+        "rawModelName": "iX1 xDrive30",
+        "amounts": {
+          "national": 192,
+          "local": 76,
+          "total": 268
+        },
+        "sourceURL": "https://www.ev.or.kr/nportal/buySupprt/psPopupLocalCarModelPrice.do",
+        "fetchedAt": "2026-04-09T13:02:12.815943Z"
+      },
+      {
+        "year": 2026,
+        "carType": "11",
+        "region": "고양시",
+        "province": "경기",
+        "localCode": "4128",
+        "vehicleClass": "일반승용",
+        "maker": "BMW",
+        "vehicle": "iX2 eDrive20",
+        "trim": "기본",
+        "rawModelName": "iX2 eDrive20",
+        "amounts": {
+          "national": 214,
+          "local": 85,
+          "total": 299
+        },
+        "sourceURL": "https://www.ev.or.kr/nportal/buySupprt/psPopupLocalCarModelPrice.do",
+        "fetchedAt": "2026-04-09T13:02:12.815943Z"
+      },
+      {
+        "year": 2026,
+        "carType": "11",
+        "region": "고양시",
+        "province": "경기",
+        "localCode": "4128",
+        "vehicleClass": "일반승용",
+        "maker": "BMW",
+        "vehicle": "MINI Countryman",
+        "trim": "SE ALL4",
+        "rawModelName": "MINI Countryman SE ALL4",
+        "amounts": {
+          "national": 203,
+          "local": 81,
+          "total": 284
+        },
+        "sourceURL": "https://www.ev.or.kr/nportal/buySupprt/psPopupLocalCarModelPrice.do",
+        "fetchedAt": "2026-04-09T13:02:12.815943Z"
+      },
+      {
+        "year": 2026,
+        "carType": "11",
+        "region": "고양시",
+        "province": "경기",
+        "localCode": "4128",
+        "vehicleClass": "일반승용",
+        "maker": "BMW",
+        "vehicle": "MINI Countryman",
+        "trim": "E",
+        "rawModelName": "MINI Countryman E",
+        "amounts": {
+          "national": 217,
+          "local": 86,
+          "total": 303
+        },
+        "sourceURL": "https://www.ev.or.kr/nportal/buySupprt/psPopupLocalCarModelPrice.do",
+        "fetchedAt": "2026-04-09T13:02:12.815943Z"
+      },
+      {
+        "year": 2026,
+        "carType": "11",
+        "region": "고양시",
+        "province": "경기",
+        "localCode": "4128",
+        "vehicleClass": "일반승용",
+        "maker": "BMW",
+        "vehicle": "MINI Aceman",
+        "trim": "SE",
+        "rawModelName": "MINI Aceman SE",
+        "amounts": {
+          "national": 400,
+          "local": 160,
+          "total": 560
+        },
+        "sourceURL": "https://www.ev.or.kr/nportal/buySupprt/psPopupLocalCarModelPrice.do",
+        "fetchedAt": "2026-04-09T13:02:12.815943Z"
+      },
+      {
+        "year": 2026,
+        "carType": "11",
+        "region": "고양시",
+        "province": "경기",
+        "localCode": "4128",
+        "vehicleClass": "일반승용",
+        "maker": "BMW",
+        "vehicle": "MINI JCW",
+        "trim": "Aceman E",
+        "rawModelName": "MINI JCW Aceman E",
+        "amounts": {
+          "national": 197,
+          "local": 78,
+          "total": 275
+        },
+        "sourceURL": "https://www.ev.or.kr/nportal/buySupprt/psPopupLocalCarModelPrice.do",
+        "fetchedAt": "2026-04-09T13:02:12.815943Z"
+      },
+      {
+        "year": 2026,
+        "carType": "11",
+        "region": "고양시",
+        "province": "경기",
+        "localCode": "4128",
+        "vehicleClass": "일반승용",
+        "maker": "BMW",
+        "vehicle": "MINI JCW",
+        "trim": "E",
+        "rawModelName": "MINI JCW E",
+        "amounts": {
+          "national": 191,
+          "local": 76,
+          "total": 267
+        },
+        "sourceURL": "https://www.ev.or.kr/nportal/buySupprt/psPopupLocalCarModelPrice.do",
+        "fetchedAt": "2026-04-09T13:02:12.815943Z"
+      },
+      {
+        "year": 2026,
+        "carType": "11",
+        "region": "고양시",
+        "province": "경기",
+        "localCode": "4128",
+        "vehicleClass": "일반승용",
+        "maker": "BMW",
+        "vehicle": "MINI Aceman",
+        "trim": "E",
+        "rawModelName": "MINI Aceman E",
+        "amounts": {
+          "national": 400,
+          "local": 160,
+          "total": 560
+        },
+        "sourceURL": "https://www.ev.or.kr/nportal/buySupprt/psPopupLocalCarModelPrice.do",
+        "fetchedAt": "2026-04-09T13:02:12.815943Z"
+      },
+      {
+        "year": 2026,
+        "carType": "11",
+        "region": "고양시",
+        "province": "경기",
+        "localCode": "4128",
+        "vehicleClass": "일반승용",
+        "maker": "BMW",
+        "vehicle": "i4 M60",
+        "trim": "LCI (71HD)",
+        "rawModelName": "i4 M60 LCI (71HD)",
+        "amounts": {
+          "national": 233,
+          "local": 93,
+          "total": 326
+        },
+        "sourceURL": "https://www.ev.or.kr/nportal/buySupprt/psPopupLocalCarModelPrice.do",
+        "fetchedAt": "2026-04-09T13:02:12.815943Z"
+      },
+      {
+        "year": 2026,
+        "carType": "11",
+        "region": "고양시",
+        "province": "경기",
+        "localCode": "4128",
+        "vehicleClass": "일반승용",
+        "maker": "BMW",
+        "vehicle": "i4 eDrive",
+        "trim": "40 LCI(21HD)",
+        "rawModelName": "i4 eDrive 40 LCI(21HD)",
+        "amounts": {
+          "national": 244,
+          "local": 97,
+          "total": 341
+        },
+        "sourceURL": "https://www.ev.or.kr/nportal/buySupprt/psPopupLocalCarModelPrice.do",
+        "fetchedAt": "2026-04-09T13:02:12.815943Z"
+      },
+      {
+        "year": 2026,
+        "carType": "11",
+        "region": "고양시",
+        "province": "경기",
+        "localCode": "4128",
+        "vehicleClass": "일반승용",
+        "maker": "BMW",
+        "vehicle": "i4 eDrive",
+        "trim": "40 LCI(61HD)",
+        "rawModelName": "i4 eDrive 40 LCI(61HD)",
+        "amounts": {
+          "national": 256,
+          "local": 102,
+          "total": 358
+        },
+        "sourceURL": "https://www.ev.or.kr/nportal/buySupprt/psPopupLocalCarModelPrice.do",
+        "fetchedAt": "2026-04-09T13:02:12.815943Z"
+      },
+      {
+        "year": 2026,
+        "carType": "11",
+        "region": "고양시",
+        "province": "경기",
+        "localCode": "4128",
+        "vehicleClass": "일반승용",
+        "maker": "BMW",
+        "vehicle": "i5 eDrive",
+        "trim": "40",
+        "rawModelName": "i5 eDrive 40",
+        "amounts": {
+          "national": 262,
+          "local": 104,
+          "total": 366
+        },
+        "sourceURL": "https://www.ev.or.kr/nportal/buySupprt/psPopupLocalCarModelPrice.do",
+        "fetchedAt": "2026-04-09T13:02:12.815943Z"
+      },
+      {
+        "year": 2026,
+        "carType": "11",
+        "region": "고양시",
+        "province": "경기",
+        "localCode": "4128",
+        "vehicleClass": "일반승용",
+        "maker": "BMW",
+        "vehicle": "iX1 eDrive20",
+        "trim": "기본",
+        "rawModelName": "iX1 eDrive20",
+        "amounts": {
+          "national": 212,
+          "local": 84,
+          "total": 296
+        },
+        "sourceURL": "https://www.ev.or.kr/nportal/buySupprt/psPopupLocalCarModelPrice.do",
+        "fetchedAt": "2026-04-09T13:02:12.815943Z"
+      },
+      {
+        "year": 2026,
+        "carType": "11",
+        "region": "고양시",
+        "province": "경기",
+        "localCode": "4128",
+        "vehicleClass": "일반승용",
+        "maker": "테슬라코리아",
+        "vehicle": "Model 3",
+        "trim": "Performance",
+        "rawModelName": "Model 3 Performance",
+        "amounts": {
+          "national": 200,
+          "local": 80,
+          "total": 280
+        },
+        "sourceURL": "https://www.ev.or.kr/nportal/buySupprt/psPopupLocalCarModelPrice.do",
+        "fetchedAt": "2026-04-09T13:02:12.815943Z"
+      },
+      {
+        "year": 2026,
+        "carType": "11",
+        "region": "고양시",
+        "province": "경기",
+        "localCode": "4128",
+        "vehicleClass": "일반승용",
+        "maker": "테슬라코리아",
+        "vehicle": "Model 3",
+        "trim": "RWD(2025)",
+        "rawModelName": "Model 3 RWD(2025)",
+        "amounts": {
+          "national": 168,
+          "local": 67,
+          "total": 235
+        },
+        "sourceURL": "https://www.ev.or.kr/nportal/buySupprt/psPopupLocalCarModelPrice.do",
+        "fetchedAt": "2026-04-09T13:02:12.815943Z"
+      },
+      {
+        "year": 2026,
+        "carType": "11",
+        "region": "고양시",
+        "province": "경기",
+        "localCode": "4128",
+        "vehicleClass": "일반승용",
+        "maker": "테슬라코리아",
+        "vehicle": "Model 3",
+        "trim": "RWD",
+        "rawModelName": "Model 3 RWD",
+        "amounts": {
+          "national": 168,
+          "local": 67,
+          "total": 235
+        },
+        "sourceURL": "https://www.ev.or.kr/nportal/buySupprt/psPopupLocalCarModelPrice.do",
+        "fetchedAt": "2026-04-09T13:02:12.815943Z"
+      },
+      {
+        "year": 2026,
+        "carType": "11",
+        "region": "고양시",
+        "province": "경기",
+        "localCode": "4128",
+        "vehicleClass": "일반승용",
+        "maker": "테슬라코리아",
+        "vehicle": "Model 3 Premium Long Range",
+        "trim": "RWD",
+        "rawModelName": "Model 3 Premium Long Range RWD",
+        "amounts": {
+          "national": 420,
+          "local": 168,
+          "total": 588
+        },
+        "sourceURL": "https://www.ev.or.kr/nportal/buySupprt/psPopupLocalCarModelPrice.do",
+        "fetchedAt": "2026-04-09T13:02:12.815943Z"
+      },
+      {
+        "year": 2026,
+        "carType": "11",
+        "region": "고양시",
+        "province": "경기",
+        "localCode": "4128",
+        "vehicleClass": "일반승용",
+        "maker": "테슬라코리아",
+        "vehicle": "Model Y Premium",
+        "trim": "RWD",
+        "rawModelName": "Model Y Premium RWD",
+        "amounts": {
+          "national": 170,
+          "local": 68,
+          "total": 238
+        },
+        "sourceURL": "https://www.ev.or.kr/nportal/buySupprt/psPopupLocalCarModelPrice.do",
+        "fetchedAt": "2026-04-09T13:02:12.815943Z"
+      },
+      {
+        "year": 2026,
+        "carType": "11",
+        "region": "고양시",
+        "province": "경기",
+        "localCode": "4128",
+        "vehicleClass": "일반승용",
+        "maker": "테슬라코리아",
+        "vehicle": "Model Y",
+        "trim": "Premium Long Range",
+        "rawModelName": "Model Y Premium Long Range",
+        "amounts": {
+          "national": 210,
+          "local": 84,
+          "total": 294
+        },
+        "sourceURL": "https://www.ev.or.kr/nportal/buySupprt/psPopupLocalCarModelPrice.do",
+        "fetchedAt": "2026-04-09T13:02:12.815943Z"
+      },
+      {
+        "year": 2026,
+        "carType": "11",
+        "region": "고양시",
+        "province": "경기",
+        "localCode": "4128",
+        "vehicleClass": "일반승용",
+        "maker": "메르세데스벤츠코리아",
+        "vehicle": "EQB 300",
+        "trim": "4MATIC(Facelift)",
+        "rawModelName": "EQB 300 4MATIC(Facelift)",
+        "amounts": {
+          "national": 154,
+          "local": 61,
+          "total": 215
+        },
+        "sourceURL": "https://www.ev.or.kr/nportal/buySupprt/psPopupLocalCarModelPrice.do",
+        "fetchedAt": "2026-04-09T13:02:12.815943Z"
+      },
+      {
+        "year": 2026,
+        "carType": "11",
+        "region": "고양시",
+        "province": "경기",
+        "localCode": "4128",
+        "vehicleClass": "일반승용",
+        "maker": "메르세데스벤츠코리아",
+        "vehicle": "EQA 250(Facelift)",
+        "trim": "기본",
+        "rawModelName": "EQA 250(Facelift)",
+        "amounts": {
+          "national": 190,
+          "local": 76,
+          "total": 266
+        },
+        "sourceURL": "https://www.ev.or.kr/nportal/buySupprt/psPopupLocalCarModelPrice.do",
+        "fetchedAt": "2026-04-09T13:02:12.815943Z"
+      },
+      {
+        "year": 2026,
+        "carType": "11",
+        "region": "고양시",
+        "province": "경기",
+        "localCode": "4128",
+        "vehicleClass": "일반승용",
+        "maker": "폭스바겐그룹코리아",
+        "vehicle": "Q4 45",
+        "trim": "e-tron",
+        "rawModelName": "Q4 45 e-tron",
+        "amounts": {
+          "national": 206,
+          "local": 82,
+          "total": 288
+        },
+        "sourceURL": "https://www.ev.or.kr/nportal/buySupprt/psPopupLocalCarModelPrice.do",
+        "fetchedAt": "2026-04-09T13:02:12.815943Z"
+      },
+      {
+        "year": 2026,
+        "carType": "11",
+        "region": "고양시",
+        "province": "경기",
+        "localCode": "4128",
+        "vehicleClass": "일반승용",
+        "maker": "폭스바겐그룹코리아",
+        "vehicle": "Q4 Sportback",
+        "trim": "45 e-tron",
+        "rawModelName": "Q4 Sportback 45 e-tron",
+        "amounts": {
+          "national": 206,
+          "local": 82,
+          "total": 288
+        },
+        "sourceURL": "https://www.ev.or.kr/nportal/buySupprt/psPopupLocalCarModelPrice.do",
+        "fetchedAt": "2026-04-09T13:02:12.815943Z"
+      },
+      {
+        "year": 2026,
+        "carType": "11",
+        "region": "고양시",
+        "province": "경기",
+        "localCode": "4128",
+        "vehicleClass": "일반승용",
+        "maker": "폭스바겐그룹코리아",
+        "vehicle": "Q6 e-tron",
+        "trim": "performance",
+        "rawModelName": "Q6 e-tron performance",
+        "amounts": {
+          "national": 220,
+          "local": 88,
+          "total": 308
+        },
+        "sourceURL": "https://www.ev.or.kr/nportal/buySupprt/psPopupLocalCarModelPrice.do",
+        "fetchedAt": "2026-04-09T13:02:12.815943Z"
+      },
+      {
+        "year": 2026,
+        "carType": "11",
+        "region": "고양시",
+        "province": "경기",
+        "localCode": "4128",
+        "vehicleClass": "일반승용",
+        "maker": "폭스바겐그룹코리아",
+        "vehicle": "ID.4 Pro",
+        "trim": "기본",
+        "rawModelName": "ID.4 Pro",
+        "amounts": {
+          "national": 432,
+          "local": 172,
+          "total": 604
+        },
+        "sourceURL": "https://www.ev.or.kr/nportal/buySupprt/psPopupLocalCarModelPrice.do",
+        "fetchedAt": "2026-04-09T13:02:12.815943Z"
+      },
+      {
+        "year": 2026,
+        "carType": "11",
+        "region": "고양시",
+        "province": "경기",
+        "localCode": "4128",
+        "vehicleClass": "일반승용",
+        "maker": "케이지모빌리티",
+        "vehicle": "토레스 EVX",
+        "trim": "2WD 18인치",
+        "rawModelName": "토레스 EVX 2WD 18인치",
+        "amounts": {
+          "national": 327,
+          "local": 130,
+          "total": 457
+        },
+        "sourceURL": "https://www.ev.or.kr/nportal/buySupprt/psPopupLocalCarModelPrice.do",
+        "fetchedAt": "2026-04-09T13:02:12.815943Z"
+      },
+      {
+        "year": 2026,
+        "carType": "11",
+        "region": "고양시",
+        "province": "경기",
+        "localCode": "4128",
+        "vehicleClass": "일반승용",
+        "maker": "케이지모빌리티",
+        "vehicle": "토레스 EVX",
+        "trim": "2WD 20인치",
+        "rawModelName": "토레스 EVX 2WD 20인치",
+        "amounts": {
+          "national": 312,
+          "local": 124,
+          "total": 436
+        },
+        "sourceURL": "https://www.ev.or.kr/nportal/buySupprt/psPopupLocalCarModelPrice.do",
+        "fetchedAt": "2026-04-09T13:02:12.815943Z"
+      },
+      {
+        "year": 2026,
+        "carType": "11",
+        "region": "고양시",
+        "province": "경기",
+        "localCode": "4128",
+        "vehicleClass": "일반승용",
+        "maker": "케이지모빌리티",
+        "vehicle": "토레스 EVX",
+        "trim": "18인치",
+        "rawModelName": "토레스 EVX 18인치",
+        "amounts": {
+          "national": 354,
+          "local": 141,
+          "total": 495
+        },
+        "sourceURL": "https://www.ev.or.kr/nportal/buySupprt/psPopupLocalCarModelPrice.do",
+        "fetchedAt": "2026-04-09T13:02:12.815943Z"
+      },
+      {
+        "year": 2026,
+        "carType": "11",
+        "region": "고양시",
+        "province": "경기",
+        "localCode": "4128",
+        "vehicleClass": "일반승용",
+        "maker": "케이지모빌리티",
+        "vehicle": "토레스 EVX",
+        "trim": "20인치",
+        "rawModelName": "토레스 EVX 20인치",
+        "amounts": {
+          "national": 344,
+          "local": 137,
+          "total": 481
+        },
+        "sourceURL": "https://www.ev.or.kr/nportal/buySupprt/psPopupLocalCarModelPrice.do",
+        "fetchedAt": "2026-04-09T13:02:12.815943Z"
+      },
+      {
+        "year": 2026,
+        "carType": "11",
+        "region": "고양시",
+        "province": "경기",
+        "localCode": "4128",
+        "vehicleClass": "일반승용",
+        "maker": "케이지모빌리티",
+        "vehicle": "토레스 EVX",
+        "trim": "18인치(2026)",
+        "rawModelName": "토레스 EVX 18인치(2026)",
+        "amounts": {
+          "national": 361,
+          "local": 144,
+          "total": 505
+        },
+        "sourceURL": "https://www.ev.or.kr/nportal/buySupprt/psPopupLocalCarModelPrice.do",
+        "fetchedAt": "2026-04-09T13:02:12.815943Z"
+      },
+      {
+        "year": 2026,
+        "carType": "11",
+        "region": "고양시",
+        "province": "경기",
+        "localCode": "4128",
+        "vehicleClass": "일반승용",
+        "maker": "케이지모빌리티",
+        "vehicle": "토레스 EVX",
+        "trim": "20인치(2026)",
+        "rawModelName": "토레스 EVX 20인치(2026)",
+        "amounts": {
+          "national": 354,
+          "local": 141,
+          "total": 495
+        },
+        "sourceURL": "https://www.ev.or.kr/nportal/buySupprt/psPopupLocalCarModelPrice.do",
+        "fetchedAt": "2026-04-09T13:02:12.815943Z"
+      },
+      {
+        "year": 2026,
+        "carType": "11",
+        "region": "고양시",
+        "province": "경기",
+        "localCode": "4128",
+        "vehicleClass": "일반승용",
+        "maker": "비와이디코리아",
+        "vehicle": "BYD ATTO",
+        "trim": "3",
+        "rawModelName": "BYD ATTO 3",
+        "amounts": {
+          "national": 126,
+          "local": 50,
+          "total": 176
+        },
+        "sourceURL": "https://www.ev.or.kr/nportal/buySupprt/psPopupLocalCarModelPrice.do",
+        "fetchedAt": "2026-04-09T13:02:12.815943Z"
+      },
+      {
+        "year": 2026,
+        "carType": "11",
+        "region": "고양시",
+        "province": "경기",
+        "localCode": "4128",
+        "vehicleClass": "일반승용",
+        "maker": "비와이디코리아",
+        "vehicle": "BYD SEALION",
+        "trim": "7",
+        "rawModelName": "BYD SEALION 7",
+        "amounts": {
+          "national": 152,
+          "local": 60,
+          "total": 212
+        },
+        "sourceURL": "https://www.ev.or.kr/nportal/buySupprt/psPopupLocalCarModelPrice.do",
+        "fetchedAt": "2026-04-09T13:02:12.815943Z"
+      },
+      {
+        "year": 2026,
+        "carType": "11",
+        "region": "고양시",
+        "province": "경기",
+        "localCode": "4128",
+        "vehicleClass": "일반승용",
+        "maker": "비와이디코리아",
+        "vehicle": "BYD SEAL",
+        "trim": "기본",
+        "rawModelName": "BYD SEAL",
+        "amounts": {
+          "national": 169,
+          "local": 67,
+          "total": 236
+        },
+        "sourceURL": "https://www.ev.or.kr/nportal/buySupprt/psPopupLocalCarModelPrice.do",
+        "fetchedAt": "2026-04-09T13:02:12.815943Z"
+      },
+      {
+        "year": 2026,
+        "carType": "11",
+        "region": "고양시",
+        "province": "경기",
+        "localCode": "4128",
+        "vehicleClass": "일반승용",
+        "maker": "비와이디코리아",
+        "vehicle": "BYD SEAL Dynamic",
+        "trim": "AWD",
+        "rawModelName": "BYD SEAL Dynamic AWD",
+        "amounts": {
+          "national": 151,
+          "local": 60,
+          "total": 211
+        },
+        "sourceURL": "https://www.ev.or.kr/nportal/buySupprt/psPopupLocalCarModelPrice.do",
+        "fetchedAt": "2026-04-09T13:02:12.815943Z"
+      },
+      {
+        "year": 2026,
+        "carType": "11",
+        "region": "고양시",
+        "province": "경기",
+        "localCode": "4128",
+        "vehicleClass": "일반승용",
+        "maker": "비와이디코리아",
+        "vehicle": "BYD DOLPHIN",
+        "trim": "기본",
+        "rawModelName": "BYD DOLPHIN",
+        "amounts": {
+          "national": 109,
+          "local": 43,
+          "total": 152
+        },
+        "sourceURL": "https://www.ev.or.kr/nportal/buySupprt/psPopupLocalCarModelPrice.do",
+        "fetchedAt": "2026-04-09T13:02:12.815943Z"
+      },
+      {
+        "year": 2026,
+        "carType": "11",
+        "region": "고양시",
+        "province": "경기",
+        "localCode": "4128",
+        "vehicleClass": "일반승용",
+        "maker": "비와이디코리아",
+        "vehicle": "BYD DOLPHIN",
+        "trim": "Active",
+        "rawModelName": "BYD DOLPHIN Active",
+        "amounts": {
+          "national": 132,
+          "local": 52,
+          "total": 184
+        },
+        "sourceURL": "https://www.ev.or.kr/nportal/buySupprt/psPopupLocalCarModelPrice.do",
+        "fetchedAt": "2026-04-09T13:02:12.815943Z"
+      },
+      {
+        "year": 2026,
+        "carType": "11",
+        "region": "고양시",
+        "province": "경기",
+        "localCode": "4128",
+        "vehicleClass": "일반승용",
+        "maker": "기아",
+        "vehicle": "EV3 롱레인지",
+        "trim": "4WD 19인치",
+        "rawModelName": "EV3 롱레인지 4WD 19인치",
+        "amounts": {
+          "national": 539,
+          "local": 215,
+          "total": 754
+        },
+        "sourceURL": "https://www.ev.or.kr/nportal/buySupprt/psPopupLocalCarModelPrice.do",
+        "fetchedAt": "2026-04-09T13:02:12.815943Z"
+      },
+      {
+        "year": 2026,
+        "carType": "11",
+        "region": "고양시",
+        "province": "경기",
+        "localCode": "4128",
+        "vehicleClass": "일반승용",
+        "maker": "기아",
+        "vehicle": "EV3",
+        "trim": "GT",
+        "rawModelName": "EV3 GT",
+        "amounts": {
+          "national": 248,
+          "local": 99,
+          "total": 347
+        },
+        "sourceURL": "https://www.ev.or.kr/nportal/buySupprt/psPopupLocalCarModelPrice.do",
+        "fetchedAt": "2026-04-09T13:02:12.815943Z"
+      },
+      {
+        "year": 2026,
+        "carType": "11",
+        "region": "고양시",
+        "province": "경기",
+        "localCode": "4128",
+        "vehicleClass": "일반승용",
+        "maker": "기아",
+        "vehicle": "EV4 롱레인지",
+        "trim": "4WD 19인치",
+        "rawModelName": "EV4 롱레인지 4WD 19인치",
+        "amounts": {
+          "national": 554,
+          "local": 221,
+          "total": 775
+        },
+        "sourceURL": "https://www.ev.or.kr/nportal/buySupprt/psPopupLocalCarModelPrice.do",
+        "fetchedAt": "2026-04-09T13:02:12.815943Z"
+      },
+      {
+        "year": 2026,
+        "carType": "11",
+        "region": "고양시",
+        "province": "경기",
+        "localCode": "4128",
+        "vehicleClass": "일반승용",
+        "maker": "기아",
+        "vehicle": "EV4",
+        "trim": "GT",
+        "rawModelName": "EV4 GT",
+        "amounts": {
+          "national": 255,
+          "local": 102,
+          "total": 357
+        },
+        "sourceURL": "https://www.ev.or.kr/nportal/buySupprt/psPopupLocalCarModelPrice.do",
+        "fetchedAt": "2026-04-09T13:02:12.815943Z"
+      },
+      {
+        "year": 2026,
+        "carType": "11",
+        "region": "고양시",
+        "province": "경기",
+        "localCode": "4128",
+        "vehicleClass": "일반승용",
+        "maker": "기아",
+        "vehicle": "EV9",
+        "trim": "GT",
+        "rawModelName": "EV9 GT",
+        "amounts": {
+          "national": 245,
+          "local": 98,
+          "total": 343
+        },
+        "sourceURL": "https://www.ev.or.kr/nportal/buySupprt/psPopupLocalCarModelPrice.do",
+        "fetchedAt": "2026-04-09T13:02:12.815943Z"
+      },
+      {
+        "year": 2026,
+        "carType": "11",
+        "region": "고양시",
+        "province": "경기",
+        "localCode": "4128",
+        "vehicleClass": "일반승용",
+        "maker": "메르세데스벤츠코리아",
+        "vehicle": "EQB 300",
+        "trim": "4MATIC(Facelift)(CY25/2)",
+        "rawModelName": "EQB 300 4MATIC(Facelift)(CY25/2)",
+        "amounts": {
+          "national": 162,
+          "local": 64,
+          "total": 226
+        },
+        "sourceURL": "https://www.ev.or.kr/nportal/buySupprt/psPopupLocalCarModelPrice.do",
+        "fetchedAt": "2026-04-09T13:02:12.815943Z"
+      },
+      {
+        "year": 2026,
+        "carType": "11",
+        "region": "고양시",
+        "province": "경기",
+        "localCode": "4128",
+        "vehicleClass": "일반승용",
+        "maker": "테슬라코리아",
+        "vehicle": "Model Y",
+        "trim": "RWD(2025)",
+        "rawModelName": "Model Y RWD(2025)",
+        "amounts": {
+          "national": 170,
+          "local": 68,
+          "total": 238
+        },
+        "sourceURL": "https://www.ev.or.kr/nportal/buySupprt/psPopupLocalCarModelPrice.do",
+        "fetchedAt": "2026-04-09T13:02:12.815943Z"
+      },
+      {
+        "year": 2026,
+        "carType": "11",
+        "region": "고양시",
+        "province": "경기",
+        "localCode": "4128",
+        "vehicleClass": "일반승용",
+        "maker": "테슬라코리아",
+        "vehicle": "Model Y",
+        "trim": "Long Range(2025)",
+        "rawModelName": "Model Y Long Range(2025)",
+        "amounts": {
+          "national": 210,
+          "local": 84,
+          "total": 294
+        },
+        "sourceURL": "https://www.ev.or.kr/nportal/buySupprt/psPopupLocalCarModelPrice.do",
+        "fetchedAt": "2026-04-09T13:02:12.815943Z"
+      },
+      {
+        "year": 2026,
+        "carType": "11",
+        "region": "고양시",
+        "province": "경기",
+        "localCode": "4128",
+        "vehicleClass": "일반승용",
+        "maker": "테슬라코리아",
+        "vehicle": "Model Y L",
+        "trim": "AWD",
+        "rawModelName": "Model Y L AWD",
+        "amounts": {
+          "national": 210,
+          "local": 84,
+          "total": 294
+        },
+        "sourceURL": "https://www.ev.or.kr/nportal/buySupprt/psPopupLocalCarModelPrice.do",
+        "fetchedAt": "2026-04-09T13:02:12.815943Z"
+      },
+      {
+        "year": 2026,
+        "carType": "11",
+        "region": "고양시",
+        "province": "경기",
+        "localCode": "4128",
+        "vehicleClass": "경·소형",
+        "maker": "기아",
+        "vehicle": "레이 EV",
+        "trim": "2WD 14인치 4인승 승용",
+        "rawModelName": "레이 EV 2WD 14인치 4인승 승용",
+        "amounts": {
+          "national": 457,
+          "local": 182,
+          "total": 639
+        },
+        "sourceURL": "https://www.ev.or.kr/nportal/buySupprt/psPopupLocalCarModelPrice.do",
+        "fetchedAt": "2026-04-09T13:02:12.815943Z"
+      },
+      {
+        "year": 2026,
+        "carType": "11",
+        "region": "고양시",
+        "province": "경기",
+        "localCode": "4128",
+        "vehicleClass": "경·소형",
+        "maker": "기아",
+        "vehicle": "레이 EV",
+        "trim": "2WD 14인치 2인승 밴",
+        "rawModelName": "레이 EV 2WD 14인치 2인승 밴",
+        "amounts": {
+          "national": 457,
+          "local": 182,
+          "total": 639
+        },
+        "sourceURL": "https://www.ev.or.kr/nportal/buySupprt/psPopupLocalCarModelPrice.do",
+        "fetchedAt": "2026-04-09T13:02:12.815943Z"
+      },
+      {
+        "year": 2026,
+        "carType": "11",
+        "region": "고양시",
+        "province": "경기",
+        "localCode": "4128",
+        "vehicleClass": "경·소형",
+        "maker": "기아",
+        "vehicle": "레이 EV",
+        "trim": "2WD 14인치 1인승 밴",
+        "rawModelName": "레이 EV 2WD 14인치 1인승 밴",
+        "amounts": {
+          "national": 457,
+          "local": 182,
+          "total": 639
+        },
+        "sourceURL": "https://www.ev.or.kr/nportal/buySupprt/psPopupLocalCarModelPrice.do",
+        "fetchedAt": "2026-04-09T13:02:12.815943Z"
+      },
+      {
+        "year": 2026,
+        "carType": "11",
+        "region": "고양시",
+        "province": "경기",
+        "localCode": "4128",
+        "vehicleClass": "경·소형",
+        "maker": "현대자동차",
+        "vehicle": "캐스퍼 일렉트릭",
+        "trim": "항속형 17인치(라운지포함)",
+        "rawModelName": "캐스퍼 일렉트릭 항속형 17인치(라운지포함)",
+        "amounts": {
+          "national": 490,
+          "local": 196,
+          "total": 686
+        },
+        "sourceURL": "https://www.ev.or.kr/nportal/buySupprt/psPopupLocalCarModelPrice.do",
+        "fetchedAt": "2026-04-09T13:02:12.815943Z"
+      },
+      {
+        "year": 2026,
+        "carType": "11",
+        "region": "고양시",
+        "province": "경기",
+        "localCode": "4128",
+        "vehicleClass": "경·소형",
+        "maker": "현대자동차",
+        "vehicle": "캐스퍼 일렉트릭",
+        "trim": "항속형 15인치",
+        "rawModelName": "캐스퍼 일렉트릭 항속형 15인치",
+        "amounts": {
+          "national": 490,
+          "local": 196,
+          "total": 686
+        },
+        "sourceURL": "https://www.ev.or.kr/nportal/buySupprt/psPopupLocalCarModelPrice.do",
+        "fetchedAt": "2026-04-09T13:02:12.815943Z"
+      },
+      {
+        "year": 2026,
+        "carType": "11",
+        "region": "고양시",
+        "province": "경기",
+        "localCode": "4128",
+        "vehicleClass": "경·소형",
+        "maker": "현대자동차",
+        "vehicle": "캐스퍼 일렉트릭 기본형",
+        "trim": "15인치",
+        "rawModelName": "캐스퍼 일렉트릭 기본형 15인치",
+        "amounts": {
+          "national": 490,
+          "local": 196,
+          "total": 686
+        },
+        "sourceURL": "https://www.ev.or.kr/nportal/buySupprt/psPopupLocalCarModelPrice.do",
+        "fetchedAt": "2026-04-09T13:02:12.815943Z"
+      },
+      {
+        "year": 2026,
+        "carType": "11",
+        "region": "고양시",
+        "province": "경기",
+        "localCode": "4128",
+        "vehicleClass": "경·소형",
+        "maker": "현대자동차",
+        "vehicle": "캐스퍼 일렉트릭 크로스",
+        "trim": "17인치",
+        "rawModelName": "캐스퍼 일렉트릭 크로스 17인치",
+        "amounts": {
+          "national": 487,
+          "local": 194,
+          "total": 681
+        },
+        "sourceURL": "https://www.ev.or.kr/nportal/buySupprt/psPopupLocalCarModelPrice.do",
+        "fetchedAt": "2026-04-09T13:02:12.815943Z"
+      }
+    ],
+    "fetchedAt": "2026-04-09T13:02:12.815943Z"
+  }
+}

@@ -1,0 +1,878 @@
+{
+  "schemaVersion": 1,
+  "publishedAt": "2026-04-09T13:01:45.150932Z",
+  "sourceFetchedAt": "2026-04-09T13:05:46.134105Z",
+  "sourceStatus": "ok",
+  "sourceURLs": [
+    "https://www.ev.or.kr/nportal/buySupprt/psPopupLocalCarModelPrice.do"
+  ],
+  "payload": {
+    "region": {
+      "year": 2026,
+      "carType": "12",
+      "province": "경기",
+      "name": "하남시",
+      "localCode": "4145",
+      "summaryText": "승용 842\n\n경·소형 637\n초소형 494\n\n\n소형 1,885\n소형 3,816\n\n중형 10,806\n\n대형 14,389",
+      "sourceURL": "https://ev.or.kr/nportal/buySupprt/initPsLocalCarPirceAction.do"
+    },
+    "entries": [
+      {
+        "year": 2026,
+        "carType": "12",
+        "region": "하남시",
+        "province": "경기",
+        "localCode": "4145",
+        "vehicleClass": "화물(초소형)",
+        "maker": "디피코",
+        "vehicle": "포트로-탑S",
+        "trim": "기본",
+        "rawModelName": "포트로-탑S",
+        "amounts": {
+          "national": 380,
+          "local": 114,
+          "total": 494
+        },
+        "sourceURL": "https://www.ev.or.kr/nportal/buySupprt/psPopupLocalCarModelPrice.do",
+        "fetchedAt": "2026-04-09T13:05:46.134105Z"
+      },
+      {
+        "year": 2026,
+        "carType": "12",
+        "region": "하남시",
+        "province": "경기",
+        "localCode": "4145",
+        "vehicleClass": "화물(초소형)",
+        "maker": "디피코",
+        "vehicle": "포트로-픽업S",
+        "trim": "기본",
+        "rawModelName": "포트로-픽업S",
+        "amounts": {
+          "national": 380,
+          "local": 114,
+          "total": 494
+        },
+        "sourceURL": "https://www.ev.or.kr/nportal/buySupprt/psPopupLocalCarModelPrice.do",
+        "fetchedAt": "2026-04-09T13:05:46.134105Z"
+      },
+      {
+        "year": 2026,
+        "carType": "12",
+        "region": "하남시",
+        "province": "경기",
+        "localCode": "4145",
+        "vehicleClass": "화물(소형)",
+        "maker": "현대자동차",
+        "vehicle": "포터Ⅱ 일렉트릭",
+        "trim": "하이내장탑차",
+        "rawModelName": "포터Ⅱ 일렉트릭 하이내장탑차",
+        "amounts": {
+          "national": 780,
+          "local": 234,
+          "total": 1014
+        },
+        "sourceURL": "https://www.ev.or.kr/nportal/buySupprt/psPopupLocalCarModelPrice.do",
+        "fetchedAt": "2026-04-09T13:05:46.134105Z"
+      },
+      {
+        "year": 2026,
+        "carType": "12",
+        "region": "하남시",
+        "province": "경기",
+        "localCode": "4145",
+        "vehicleClass": "화물(소형)",
+        "maker": "현대자동차",
+        "vehicle": "포터Ⅱ 일렉트릭",
+        "trim": "저상내장탑차",
+        "rawModelName": "포터Ⅱ 일렉트릭 저상내장탑차",
+        "amounts": {
+          "national": 780,
+          "local": 234,
+          "total": 1014
+        },
+        "sourceURL": "https://www.ev.or.kr/nportal/buySupprt/psPopupLocalCarModelPrice.do",
+        "fetchedAt": "2026-04-09T13:05:46.134105Z"
+      },
+      {
+        "year": 2026,
+        "carType": "12",
+        "region": "하남시",
+        "province": "경기",
+        "localCode": "4145",
+        "vehicleClass": "화물(소형)",
+        "maker": "현대자동차",
+        "vehicle": "포터Ⅱ 일렉트릭",
+        "trim": "내장탑차",
+        "rawModelName": "포터Ⅱ 일렉트릭 내장탑차",
+        "amounts": {
+          "national": 780,
+          "local": 234,
+          "total": 1014
+        },
+        "sourceURL": "https://www.ev.or.kr/nportal/buySupprt/psPopupLocalCarModelPrice.do",
+        "fetchedAt": "2026-04-09T13:05:46.134105Z"
+      },
+      {
+        "year": 2026,
+        "carType": "12",
+        "region": "하남시",
+        "province": "경기",
+        "localCode": "4145",
+        "vehicleClass": "화물(소형)",
+        "maker": "현대자동차",
+        "vehicle": "포터Ⅱ 일렉트릭",
+        "trim": "기본",
+        "rawModelName": "포터Ⅱ 일렉트릭",
+        "amounts": {
+          "national": 968,
+          "local": 290,
+          "total": 1258
+        },
+        "sourceURL": "https://www.ev.or.kr/nportal/buySupprt/psPopupLocalCarModelPrice.do",
+        "fetchedAt": "2026-04-09T13:05:46.134105Z"
+      },
+      {
+        "year": 2026,
+        "carType": "12",
+        "region": "하남시",
+        "province": "경기",
+        "localCode": "4145",
+        "vehicleClass": "화물(소형)",
+        "maker": "현대자동차",
+        "vehicle": "포터Ⅱ일렉트릭파워게이트",
+        "trim": "기본",
+        "rawModelName": "포터Ⅱ일렉트릭파워게이트",
+        "amounts": {
+          "national": 780,
+          "local": 234,
+          "total": 1014
+        },
+        "sourceURL": "https://www.ev.or.kr/nportal/buySupprt/psPopupLocalCarModelPrice.do",
+        "fetchedAt": "2026-04-09T13:05:46.134105Z"
+      },
+      {
+        "year": 2026,
+        "carType": "12",
+        "region": "하남시",
+        "province": "경기",
+        "localCode": "4145",
+        "vehicleClass": "화물(소형)",
+        "maker": "현대자동차",
+        "vehicle": "포터Ⅱ 일렉트릭 전동식",
+        "trim": "윙바디",
+        "rawModelName": "포터Ⅱ 일렉트릭 전동식 윙바디",
+        "amounts": {
+          "national": 780,
+          "local": 234,
+          "total": 1014
+        },
+        "sourceURL": "https://www.ev.or.kr/nportal/buySupprt/psPopupLocalCarModelPrice.do",
+        "fetchedAt": "2026-04-09T13:05:46.134105Z"
+      },
+      {
+        "year": 2026,
+        "carType": "12",
+        "region": "하남시",
+        "province": "경기",
+        "localCode": "4145",
+        "vehicleClass": "화물(소형)",
+        "maker": "현대자동차",
+        "vehicle": "포터Ⅱ 일렉트릭 수동식",
+        "trim": "윙바디",
+        "rawModelName": "포터Ⅱ 일렉트릭 수동식 윙바디",
+        "amounts": {
+          "national": 780,
+          "local": 234,
+          "total": 1014
+        },
+        "sourceURL": "https://www.ev.or.kr/nportal/buySupprt/psPopupLocalCarModelPrice.do",
+        "fetchedAt": "2026-04-09T13:05:46.134105Z"
+      },
+      {
+        "year": 2026,
+        "carType": "12",
+        "region": "하남시",
+        "province": "경기",
+        "localCode": "4145",
+        "vehicleClass": "화물(소형)",
+        "maker": "현대자동차",
+        "vehicle": "ST1 기본형",
+        "trim": "카고",
+        "rawModelName": "ST1 기본형 카고",
+        "amounts": {
+          "national": 1200,
+          "local": 360,
+          "total": 1560
+        },
+        "sourceURL": "https://www.ev.or.kr/nportal/buySupprt/psPopupLocalCarModelPrice.do",
+        "fetchedAt": "2026-04-09T13:05:46.134105Z"
+      },
+      {
+        "year": 2026,
+        "carType": "12",
+        "region": "하남시",
+        "province": "경기",
+        "localCode": "4145",
+        "vehicleClass": "화물(소형)",
+        "maker": "현대자동차",
+        "vehicle": "ST1 기본형",
+        "trim": "하이탑",
+        "rawModelName": "ST1 기본형 하이탑",
+        "amounts": {
+          "national": 1100,
+          "local": 330,
+          "total": 1430
+        },
+        "sourceURL": "https://www.ev.or.kr/nportal/buySupprt/psPopupLocalCarModelPrice.do",
+        "fetchedAt": "2026-04-09T13:05:46.134105Z"
+      },
+      {
+        "year": 2026,
+        "carType": "12",
+        "region": "하남시",
+        "province": "경기",
+        "localCode": "4145",
+        "vehicleClass": "화물(소형)",
+        "maker": "현대자동차",
+        "vehicle": "ST1 기본형",
+        "trim": "카고냉동",
+        "rawModelName": "ST1 기본형 카고냉동",
+        "amounts": {
+          "national": 1450,
+          "local": 435,
+          "total": 1885
+        },
+        "sourceURL": "https://www.ev.or.kr/nportal/buySupprt/psPopupLocalCarModelPrice.do",
+        "fetchedAt": "2026-04-09T13:05:46.134105Z"
+      },
+      {
+        "year": 2026,
+        "carType": "12",
+        "region": "하남시",
+        "province": "경기",
+        "localCode": "4145",
+        "vehicleClass": "화물(소형)",
+        "maker": "기아",
+        "vehicle": "봉고 전기차",
+        "trim": "기본",
+        "rawModelName": "봉고 전기차",
+        "amounts": {
+          "national": 1000,
+          "local": 300,
+          "total": 1300
+        },
+        "sourceURL": "https://www.ev.or.kr/nportal/buySupprt/psPopupLocalCarModelPrice.do",
+        "fetchedAt": "2026-04-09T13:05:46.134105Z"
+      },
+      {
+        "year": 2026,
+        "carType": "12",
+        "region": "하남시",
+        "province": "경기",
+        "localCode": "4145",
+        "vehicleClass": "화물(소형)",
+        "maker": "기아",
+        "vehicle": "봉고 전기차",
+        "trim": "냉동탑차",
+        "rawModelName": "봉고 전기차 냉동탑차",
+        "amounts": {
+          "national": 1172,
+          "local": 351,
+          "total": 1523
+        },
+        "sourceURL": "https://www.ev.or.kr/nportal/buySupprt/psPopupLocalCarModelPrice.do",
+        "fetchedAt": "2026-04-09T13:05:46.134105Z"
+      },
+      {
+        "year": 2026,
+        "carType": "12",
+        "region": "하남시",
+        "province": "경기",
+        "localCode": "4145",
+        "vehicleClass": "화물(소형)",
+        "maker": "기아",
+        "vehicle": "봉고 전기차",
+        "trim": "양문형 미닫이탑차",
+        "rawModelName": "봉고 전기차 양문형 미닫이탑차",
+        "amounts": {
+          "national": 822,
+          "local": 246,
+          "total": 1068
+        },
+        "sourceURL": "https://www.ev.or.kr/nportal/buySupprt/psPopupLocalCarModelPrice.do",
+        "fetchedAt": "2026-04-09T13:05:46.134105Z"
+      },
+      {
+        "year": 2026,
+        "carType": "12",
+        "region": "하남시",
+        "province": "경기",
+        "localCode": "4145",
+        "vehicleClass": "화물(소형)",
+        "maker": "기아",
+        "vehicle": "봉고 전기차",
+        "trim": "로우 양문형 미닫이탑차",
+        "rawModelName": "봉고 전기차 로우 양문형 미닫이탑차",
+        "amounts": {
+          "national": 822,
+          "local": 246,
+          "total": 1068
+        },
+        "sourceURL": "https://www.ev.or.kr/nportal/buySupprt/psPopupLocalCarModelPrice.do",
+        "fetchedAt": "2026-04-09T13:05:46.134105Z"
+      },
+      {
+        "year": 2026,
+        "carType": "12",
+        "region": "하남시",
+        "province": "경기",
+        "localCode": "4145",
+        "vehicleClass": "화물(소형)",
+        "maker": "기아",
+        "vehicle": "봉고 전기차",
+        "trim": "턴인형 파워게이트",
+        "rawModelName": "봉고 전기차 턴인형 파워게이트",
+        "amounts": {
+          "national": 822,
+          "local": 246,
+          "total": 1068
+        },
+        "sourceURL": "https://www.ev.or.kr/nportal/buySupprt/psPopupLocalCarModelPrice.do",
+        "fetchedAt": "2026-04-09T13:05:46.134105Z"
+      },
+      {
+        "year": 2026,
+        "carType": "12",
+        "region": "하남시",
+        "province": "경기",
+        "localCode": "4145",
+        "vehicleClass": "화물(소형)",
+        "maker": "기아",
+        "vehicle": "봉고 전기차",
+        "trim": "수직형 파워게이트",
+        "rawModelName": "봉고 전기차 수직형 파워게이트",
+        "amounts": {
+          "national": 822,
+          "local": 246,
+          "total": 1068
+        },
+        "sourceURL": "https://www.ev.or.kr/nportal/buySupprt/psPopupLocalCarModelPrice.do",
+        "fetchedAt": "2026-04-09T13:05:46.134105Z"
+      },
+      {
+        "year": 2026,
+        "carType": "12",
+        "region": "하남시",
+        "province": "경기",
+        "localCode": "4145",
+        "vehicleClass": "화물(소형)",
+        "maker": "기아",
+        "vehicle": "봉고 전기차",
+        "trim": "내장탑차",
+        "rawModelName": "봉고 전기차 내장탑차",
+        "amounts": {
+          "national": 822,
+          "local": 246,
+          "total": 1068
+        },
+        "sourceURL": "https://www.ev.or.kr/nportal/buySupprt/psPopupLocalCarModelPrice.do",
+        "fetchedAt": "2026-04-09T13:05:46.134105Z"
+      },
+      {
+        "year": 2026,
+        "carType": "12",
+        "region": "하남시",
+        "province": "경기",
+        "localCode": "4145",
+        "vehicleClass": "화물(소형)",
+        "maker": "기아",
+        "vehicle": "봉고 전기차 전동식",
+        "trim": "윙바디",
+        "rawModelName": "봉고 전기차 전동식 윙바디",
+        "amounts": {
+          "national": 822,
+          "local": 246,
+          "total": 1068
+        },
+        "sourceURL": "https://www.ev.or.kr/nportal/buySupprt/psPopupLocalCarModelPrice.do",
+        "fetchedAt": "2026-04-09T13:05:46.134105Z"
+      },
+      {
+        "year": 2026,
+        "carType": "12",
+        "region": "하남시",
+        "province": "경기",
+        "localCode": "4145",
+        "vehicleClass": "화물(소형)",
+        "maker": "기아",
+        "vehicle": "봉고 전기차 수동식",
+        "trim": "윙바디",
+        "rawModelName": "봉고 전기차 수동식 윙바디",
+        "amounts": {
+          "national": 822,
+          "local": 246,
+          "total": 1068
+        },
+        "sourceURL": "https://www.ev.or.kr/nportal/buySupprt/psPopupLocalCarModelPrice.do",
+        "fetchedAt": "2026-04-09T13:05:46.134105Z"
+      },
+      {
+        "year": 2026,
+        "carType": "12",
+        "region": "하남시",
+        "province": "경기",
+        "localCode": "4145",
+        "vehicleClass": "화물(소형)",
+        "maker": "기아",
+        "vehicle": "PV5 카고 롱",
+        "trim": "롱레인지 4도어",
+        "rawModelName": "PV5 카고 롱 롱레인지 4도어",
+        "amounts": {
+          "national": 1150,
+          "local": 345,
+          "total": 1495
+        },
+        "sourceURL": "https://www.ev.or.kr/nportal/buySupprt/psPopupLocalCarModelPrice.do",
+        "fetchedAt": "2026-04-09T13:05:46.134105Z"
+      },
+      {
+        "year": 2026,
+        "carType": "12",
+        "region": "하남시",
+        "province": "경기",
+        "localCode": "4145",
+        "vehicleClass": "화물(소형)",
+        "maker": "기아",
+        "vehicle": "PV5 카고 롱",
+        "trim": "롱레인지 3도어",
+        "rawModelName": "PV5 카고 롱 롱레인지 3도어",
+        "amounts": {
+          "national": 1150,
+          "local": 345,
+          "total": 1495
+        },
+        "sourceURL": "https://www.ev.or.kr/nportal/buySupprt/psPopupLocalCarModelPrice.do",
+        "fetchedAt": "2026-04-09T13:05:46.134105Z"
+      },
+      {
+        "year": 2026,
+        "carType": "12",
+        "region": "하남시",
+        "province": "경기",
+        "localCode": "4145",
+        "vehicleClass": "화물(소형)",
+        "maker": "기아",
+        "vehicle": "PV5 카고 롱",
+        "trim": "스탠다드 4도어",
+        "rawModelName": "PV5 카고 롱 스탠다드 4도어",
+        "amounts": {
+          "national": 1000,
+          "local": 300,
+          "total": 1300
+        },
+        "sourceURL": "https://www.ev.or.kr/nportal/buySupprt/psPopupLocalCarModelPrice.do",
+        "fetchedAt": "2026-04-09T13:05:46.134105Z"
+      },
+      {
+        "year": 2026,
+        "carType": "12",
+        "region": "하남시",
+        "province": "경기",
+        "localCode": "4145",
+        "vehicleClass": "화물(소형)",
+        "maker": "기아",
+        "vehicle": "PV5 카고 롱",
+        "trim": "스탠다드 3도어",
+        "rawModelName": "PV5 카고 롱 스탠다드 3도어",
+        "amounts": {
+          "national": 1000,
+          "local": 300,
+          "total": 1300
+        },
+        "sourceURL": "https://www.ev.or.kr/nportal/buySupprt/psPopupLocalCarModelPrice.do",
+        "fetchedAt": "2026-04-09T13:05:46.134105Z"
+      },
+      {
+        "year": 2026,
+        "carType": "12",
+        "region": "하남시",
+        "province": "경기",
+        "localCode": "4145",
+        "vehicleClass": "화물(소형)",
+        "maker": "기아",
+        "vehicle": "봉고 전기차",
+        "trim": "하이 내장탑차",
+        "rawModelName": "봉고 전기차 하이 내장탑차",
+        "amounts": {
+          "national": 822,
+          "local": 246,
+          "total": 1068
+        },
+        "sourceURL": "https://www.ev.or.kr/nportal/buySupprt/psPopupLocalCarModelPrice.do",
+        "fetchedAt": "2026-04-09T13:05:46.134105Z"
+      },
+      {
+        "year": 2026,
+        "carType": "12",
+        "region": "하남시",
+        "province": "경기",
+        "localCode": "4145",
+        "vehicleClass": "화물(소형)",
+        "maker": "기아",
+        "vehicle": "봉고 전기차",
+        "trim": "로우 내장탑차",
+        "rawModelName": "봉고 전기차 로우 내장탑차",
+        "amounts": {
+          "national": 822,
+          "local": 246,
+          "total": 1068
+        },
+        "sourceURL": "https://www.ev.or.kr/nportal/buySupprt/psPopupLocalCarModelPrice.do",
+        "fetchedAt": "2026-04-09T13:05:46.134105Z"
+      },
+      {
+        "year": 2026,
+        "carType": "12",
+        "region": "하남시",
+        "province": "경기",
+        "localCode": "4145",
+        "vehicleClass": "화물(소형)",
+        "maker": "기아",
+        "vehicle": "봉고 전기차 하이",
+        "trim": "냉동탑차",
+        "rawModelName": "봉고 전기차 하이 냉동탑차",
+        "amounts": {
+          "national": 1172,
+          "local": 351,
+          "total": 1523
+        },
+        "sourceURL": "https://www.ev.or.kr/nportal/buySupprt/psPopupLocalCarModelPrice.do",
+        "fetchedAt": "2026-04-09T13:05:46.134105Z"
+      },
+      {
+        "year": 2026,
+        "carType": "12",
+        "region": "하남시",
+        "province": "경기",
+        "localCode": "4145",
+        "vehicleClass": "화물(소형)",
+        "maker": "기아",
+        "vehicle": "봉고 전기차 로우",
+        "trim": "냉동탑차",
+        "rawModelName": "봉고 전기차 로우 냉동탑차",
+        "amounts": {
+          "national": 1172,
+          "local": 351,
+          "total": 1523
+        },
+        "sourceURL": "https://www.ev.or.kr/nportal/buySupprt/psPopupLocalCarModelPrice.do",
+        "fetchedAt": "2026-04-09T13:05:46.134105Z"
+      },
+      {
+        "year": 2026,
+        "carType": "12",
+        "region": "하남시",
+        "province": "경기",
+        "localCode": "4145",
+        "vehicleClass": "화물(소형)",
+        "maker": "기아",
+        "vehicle": "PV5 오픈베드",
+        "trim": "스탠다드",
+        "rawModelName": "PV5 오픈베드 스탠다드",
+        "amounts": {
+          "national": 1000,
+          "local": 300,
+          "total": 1300
+        },
+        "sourceURL": "https://www.ev.or.kr/nportal/buySupprt/psPopupLocalCarModelPrice.do",
+        "fetchedAt": "2026-04-09T13:05:46.134105Z"
+      },
+      {
+        "year": 2026,
+        "carType": "12",
+        "region": "하남시",
+        "province": "경기",
+        "localCode": "4145",
+        "vehicleClass": "화물(소형)",
+        "maker": "기아",
+        "vehicle": "PV5 오픈베드",
+        "trim": "롱레인지",
+        "rawModelName": "PV5 오픈베드 롱레인지",
+        "amounts": {
+          "national": 1150,
+          "local": 345,
+          "total": 1495
+        },
+        "sourceURL": "https://www.ev.or.kr/nportal/buySupprt/psPopupLocalCarModelPrice.do",
+        "fetchedAt": "2026-04-09T13:05:46.134105Z"
+      },
+      {
+        "year": 2026,
+        "carType": "12",
+        "region": "하남시",
+        "province": "경기",
+        "localCode": "4145",
+        "vehicleClass": "화물(소형)",
+        "maker": "일진정공",
+        "vehicle": "일진무시동전기냉동탑차(포터)",
+        "trim": "기본",
+        "rawModelName": "일진무시동전기냉동탑차(포터)",
+        "amounts": {
+          "national": 1154,
+          "local": 346,
+          "total": 1500
+        },
+        "sourceURL": "https://www.ev.or.kr/nportal/buySupprt/psPopupLocalCarModelPrice.do",
+        "fetchedAt": "2026-04-09T13:05:46.134105Z"
+      },
+      {
+        "year": 2026,
+        "carType": "12",
+        "region": "하남시",
+        "province": "경기",
+        "localCode": "4145",
+        "vehicleClass": "화물(소형)",
+        "maker": "일진정공",
+        "vehicle": "일진무시동전기냉동탑차(ST1)",
+        "trim": "기본",
+        "rawModelName": "일진무시동전기냉동탑차(ST1)",
+        "amounts": {
+          "national": 1450,
+          "local": 435,
+          "total": 1885
+        },
+        "sourceURL": "https://www.ev.or.kr/nportal/buySupprt/psPopupLocalCarModelPrice.do",
+        "fetchedAt": "2026-04-09T13:05:46.134105Z"
+      },
+      {
+        "year": 2026,
+        "carType": "12",
+        "region": "하남시",
+        "province": "경기",
+        "localCode": "4145",
+        "vehicleClass": "화물(소형)",
+        "maker": "일진정공",
+        "vehicle": "일진무시동전기탑차(ST1)",
+        "trim": "기본",
+        "rawModelName": "일진무시동전기탑차(ST1)",
+        "amounts": {
+          "national": 1100,
+          "local": 330,
+          "total": 1430
+        },
+        "sourceURL": "https://www.ev.or.kr/nportal/buySupprt/psPopupLocalCarModelPrice.do",
+        "fetchedAt": "2026-04-09T13:05:46.134105Z"
+      },
+      {
+        "year": 2026,
+        "carType": "12",
+        "region": "하남시",
+        "province": "경기",
+        "localCode": "4145",
+        "vehicleClass": "화물(소형)",
+        "maker": "일진정공",
+        "vehicle": "일진무시동전기",
+        "trim": "냉동탑차(봉고)",
+        "rawModelName": "일진무시동전기 냉동탑차(봉고)",
+        "amounts": {
+          "national": 1186,
+          "local": 355,
+          "total": 1541
+        },
+        "sourceURL": "https://www.ev.or.kr/nportal/buySupprt/psPopupLocalCarModelPrice.do",
+        "fetchedAt": "2026-04-09T13:05:46.134105Z"
+      },
+      {
+        "year": 2026,
+        "carType": "12",
+        "region": "하남시",
+        "province": "경기",
+        "localCode": "4145",
+        "vehicleClass": "화물(소형)",
+        "maker": "오텍",
+        "vehicle": "오텍ST1 초경량",
+        "trim": "냉동탑차",
+        "rawModelName": "오텍ST1 초경량 냉동탑차",
+        "amounts": {
+          "national": 1450,
+          "local": 435,
+          "total": 1885
+        },
+        "sourceURL": "https://www.ev.or.kr/nportal/buySupprt/psPopupLocalCarModelPrice.do",
+        "fetchedAt": "2026-04-09T13:05:46.134105Z"
+      },
+      {
+        "year": 2026,
+        "carType": "12",
+        "region": "하남시",
+        "province": "경기",
+        "localCode": "4145",
+        "vehicleClass": "화물(소형)",
+        "maker": "한국쓰리축",
+        "vehicle": "한국쓰리축1톤롱바디EV트럭(봉고)",
+        "trim": "기본",
+        "rawModelName": "한국쓰리축1톤롱바디EV트럭(봉고)",
+        "amounts": {
+          "national": 816,
+          "local": 244,
+          "total": 1060
+        },
+        "sourceURL": "https://www.ev.or.kr/nportal/buySupprt/psPopupLocalCarModelPrice.do",
+        "fetchedAt": "2026-04-09T13:05:46.134105Z"
+      },
+      {
+        "year": 2026,
+        "carType": "12",
+        "region": "하남시",
+        "province": "경기",
+        "localCode": "4145",
+        "vehicleClass": "화물(소형)",
+        "maker": "한국쓰리축",
+        "vehicle": "한국쓰리축1톤ST1트럭",
+        "trim": "기본",
+        "rawModelName": "한국쓰리축1톤ST1트럭",
+        "amounts": {
+          "national": 1200,
+          "local": 360,
+          "total": 1560
+        },
+        "sourceURL": "https://www.ev.or.kr/nportal/buySupprt/psPopupLocalCarModelPrice.do",
+        "fetchedAt": "2026-04-09T13:05:46.134105Z"
+      },
+      {
+        "year": 2026,
+        "carType": "12",
+        "region": "하남시",
+        "province": "경기",
+        "localCode": "4145",
+        "vehicleClass": "화물(소형)",
+        "maker": "케이지모빌리티",
+        "vehicle": "토레스 EVX VAN",
+        "trim": "20인치",
+        "rawModelName": "토레스 EVX VAN 20인치",
+        "amounts": {
+          "national": 312,
+          "local": 93,
+          "total": 405
+        },
+        "sourceURL": "https://www.ev.or.kr/nportal/buySupprt/psPopupLocalCarModelPrice.do",
+        "fetchedAt": "2026-04-09T13:05:46.134105Z"
+      },
+      {
+        "year": 2026,
+        "carType": "12",
+        "region": "하남시",
+        "province": "경기",
+        "localCode": "4145",
+        "vehicleClass": "화물(소형)",
+        "maker": "케이지모빌리티",
+        "vehicle": "토레스 EVX VAN",
+        "trim": "18인치",
+        "rawModelName": "토레스 EVX VAN 18인치",
+        "amounts": {
+          "national": 314,
+          "local": 94,
+          "total": 408
+        },
+        "sourceURL": "https://www.ev.or.kr/nportal/buySupprt/psPopupLocalCarModelPrice.do",
+        "fetchedAt": "2026-04-09T13:05:46.134105Z"
+      },
+      {
+        "year": 2026,
+        "carType": "12",
+        "region": "하남시",
+        "province": "경기",
+        "localCode": "4145",
+        "vehicleClass": "화물(소형)",
+        "maker": "케이지모빌리티",
+        "vehicle": "MUSSO EV",
+        "trim": "2WD 17인치",
+        "rawModelName": "MUSSO EV 2WD 17인치",
+        "amounts": {
+          "national": 639,
+          "local": 191,
+          "total": 830
+        },
+        "sourceURL": "https://www.ev.or.kr/nportal/buySupprt/psPopupLocalCarModelPrice.do",
+        "fetchedAt": "2026-04-09T13:05:46.134105Z"
+      },
+      {
+        "year": 2026,
+        "carType": "12",
+        "region": "하남시",
+        "province": "경기",
+        "localCode": "4145",
+        "vehicleClass": "화물(소형)",
+        "maker": "케이지모빌리티",
+        "vehicle": "MUSSO EV",
+        "trim": "AWD 17인치",
+        "rawModelName": "MUSSO EV AWD 17인치",
+        "amounts": {
+          "national": 618,
+          "local": 185,
+          "total": 803
+        },
+        "sourceURL": "https://www.ev.or.kr/nportal/buySupprt/psPopupLocalCarModelPrice.do",
+        "fetchedAt": "2026-04-09T13:05:46.134105Z"
+      },
+      {
+        "year": 2026,
+        "carType": "12",
+        "region": "하남시",
+        "province": "경기",
+        "localCode": "4145",
+        "vehicleClass": "화물(소형)",
+        "maker": "케이지모빌리티",
+        "vehicle": "토레스 EVX",
+        "trim": "밴 20인치",
+        "rawModelName": "토레스 EVX 밴 20인치",
+        "amounts": {
+          "national": 344,
+          "local": 103,
+          "total": 447
+        },
+        "sourceURL": "https://www.ev.or.kr/nportal/buySupprt/psPopupLocalCarModelPrice.do",
+        "fetchedAt": "2026-04-09T13:05:46.134105Z"
+      },
+      {
+        "year": 2026,
+        "carType": "12",
+        "region": "하남시",
+        "province": "경기",
+        "localCode": "4145",
+        "vehicleClass": "화물(소형)",
+        "maker": "케이지모빌리티",
+        "vehicle": "토레스 EVX",
+        "trim": "밴 18인치",
+        "rawModelName": "토레스 EVX 밴 18인치",
+        "amounts": {
+          "national": 348,
+          "local": 104,
+          "total": 452
+        },
+        "sourceURL": "https://www.ev.or.kr/nportal/buySupprt/psPopupLocalCarModelPrice.do",
+        "fetchedAt": "2026-04-09T13:05:46.134105Z"
+      },
+      {
+        "year": 2026,
+        "carType": "12",
+        "region": "하남시",
+        "province": "경기",
+        "localCode": "4145",
+        "vehicleClass": "화물(소형)",
+        "maker": "케이지모빌리티",
+        "vehicle": "토레스 EVX",
+        "trim": "밴 18인치(2026)",
+        "rawModelName": "토레스 EVX 밴 18인치(2026)",
+        "amounts": {
+          "national": 355,
+          "local": 106,
+          "total": 461
+        },
+        "sourceURL": "https://www.ev.or.kr/nportal/buySupprt/psPopupLocalCarModelPrice.do",
+        "fetchedAt": "2026-04-09T13:05:46.134105Z"
+      }
+    ],
+    "fetchedAt": "2026-04-09T13:05:46.134105Z"
+  }
+}
